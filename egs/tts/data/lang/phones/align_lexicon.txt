@@ -1,0 +1,2025 @@
+!SIL !SIL SIL_S
+<UNK> <UNK> spn_S
+<eps> <eps> SIL
+a a a1_S
+ai ai a1_B j1_E
+an an a1_B n1_E
+anh anh E_X1_B J1_E
+b b b_S
+ba ba b_B a1_E
+ban ban b_B a1_I n1_E
+bao bao b_B a1_I w1_E
+bay bay b_B a_X1_I j1_E
+bi bi b_B i1_E
+bia bia b_B ie1_E
+bin bin b_B i1_I n1_E
+binh binh b_B i1_I J1_E
+biên biên b_B ie1_I n1_E
+biến biến b_B ie5a_I n5a_E
+biết biết b_B ie5b_I t5b_E
+biển biển b_B ie3_I n3_E
+biểu biểu b_B ie3_I w3_E
+biện biện b_B ie6a_I n6a_E
+biệt biệt b_B ie6b_I t6b_E
+bon bon b_B O1_I n1_E
+buông buông b_B uo1_I N1_E
+buồn buồn b_B uo2_I n2_E
+buổi buổi b_B uo3_I j3_E
+bà bà b_B a2_E
+bài bài b_B a2_I j2_E
+bàn bàn b_B a2_I n2_E
+bàng bàng b_B a2_I N2_E
+bào bào b_B a2_I w2_E
+bày bày b_B a_X2_I j2_E
+bác bác b_B a5b_I k5b_E
+bách bách b_B E_X5b_I k5b_E
+bán bán b_B a5a_I n5a_E
+bánh bánh b_B E_X5a_I J5a_E
+báo báo b_B a5a_I w5a_E
+bây bây b_B 7_X1_I j1_E
+bã bã b_B a4_E
+bãi bãi b_B a4_I j4_E
+bè bè b_B E2_E
+bé bé b_B E5a_E
+béo béo b_B E5a_I w5a_E
+bê bê b_B e1_E
+bên bên b_B e1_I n1_E
+bì bì b_B i2_E
+bình bình b_B i2_I J2_E
+bí bí b_B i5a_E
+bính bính b_B i5a_I J5a_E
+bò bò b_B O2_E
+bó bó b_B O5a_E
+bón bón b_B O5a_I n5a_E
+bóng bóng b_B O_X5a_I Nm5a_E
+bô bô b_B o1_E
+bông bông b_B o1_I Nm1_E
+bõm bõm b_B O4_I m4_E
+bù bù b_B u2_E
+bùng bùng b_B u2_I Nm2_E
+bú bú b_B u5a_E
+búp búp b_B u5b_I p5b_E
+bút bút b_B u5b_I t5b_E
+băm băm b_B a_X1_I m1_E
+băng băng b_B a_X1_I N1_E
+bơm bơm b_B 71_I m1_E
+bước bước b_B M75b_I k5b_E
+bướng bướng b_B M75a_I N5a_E
+bạc bạc b_B a6b_I k6b_E
+bạch bạch b_B E_X6b_I k6b_E
+bạn bạn b_B a6a_I n6a_E
+bạo bạo b_B a6a_I w6a_E
+bản bản b_B a3_I n3_E
+bảng bảng b_B a3_I N3_E
+bảo bảo b_B a3_I w3_E
+bảy bảy b_B a_X3_I j3_E
+bất bất b_B 7_X5b_I t5b_E
+bấy bấy b_B 7_X5a_I j5a_E
+bần bần b_B 7_X2_I n2_E
+bầu bầu b_B 7_X2_I w2_E
+bẩm bẩm b_B 7_X3_I m3_E
+bẩn bẩn b_B 7_X3_I n3_E
+bật bật b_B 7_X6b_I t6b_E
+bắc bắc b_B a_X5b_I k5b_E
+bắt bắt b_B a_X5b_I t5b_E
+bằm bằm b_B a_X2_I m2_E
+bằng bằng b_B a_X2_I N2_E
+bẻ bẻ b_B E3_E
+bến bến b_B e5a_I n5a_E
+bề bề b_B e2_E
+bền bền b_B e2_I n2_E
+bệnh bệnh b_B e6a_I J6a_E
+bị bị b_B i6a_E
+bịt bịt b_B i6b_I t6b_E
+bọ bọ b_B O6a_E
+bọn bọn b_B O6a_I n6a_E
+bọt bọt b_B O6b_I t6b_E
+bỏ bỏ b_B O3_E
+bố bố b_B o5a_E
+bốc bốc b_B o5b_I kp5b_E
+bối bối b_B o5a_I j5a_E
+bốn bốn b_B o5a_I n5a_E
+bồi bồi b_B o2_I j2_E
+bổ bổ b_B o3_E
+bỗng bỗng b_B o4_I Nm4_E
+bộ bộ b_B o6a_E
+bộc bộc b_B o6b_I kp6b_E
+bội bội b_B o6a_I j6a_E
+bột bột b_B o6b_I t6b_E
+bớ bớ b_B 75a_E
+bớt bớt b_B 75b_I t5b_E
+bờ bờ b_B 72_E
+bời bời b_B 72_I j2_E
+bởi bởi b_B 73_I j3_E
+bụi bụi b_B u6a_I j6a_E
+bụng bụng b_B u6a_I Nm6a_E
+bức bức b_B M5b_I k5b_E
+bực bực b_B M6b_I k6b_E
+ca ca k_B a1_E
+cam cam k_B a1_I m1_E
+can can k_B a1_I n1_E
+canh canh k_B E_X1_I J1_E
+cao cao k_B a1_I w1_E
+cau cau k_B a_X1_I w1_E
+cay cay k_B a_X1_I j1_E
+cha cha ts\_B a1_E
+chai chai ts\_B a1_I j1_E
+chanh chanh ts\_B E_X1_I J1_E
+che che ts\_B E1_E
+chi chi ts\_B i1_E
+chia chia ts\_B ie1_E
+chim chim ts\_B i1_I m1_E
+chinh chinh ts\_B i1_I J1_E
+chiếc chiếc ts\_B ie5b_I k5b_E
+chiếm chiếm ts\_B ie5a_I m5a_E
+chiến chiến ts\_B ie5a_I n5a_E
+chiếu chiếu ts\_B ie5a_I w5a_E
+chiều chiều ts\_B ie2_I w2_E
+cho cho ts\_B O1_E
+choạng choạng ts\_B wp6a_I a6a_I N6a_E
+chu chu ts\_B u1_E
+chua chua ts\_B uo1_E
+chung chung ts\_B u1_I Nm1_E
+chuyên chuyên ts\_B wp1_I ie1_I n1_E
+chuyến chuyến ts\_B wp5a_I ie5a_I n5a_E
+chuyển chuyển ts\_B wp3_I ie3_I n3_E
+chuyện chuyện ts\_B wp6a_I ie6a_I n6a_E
+chuông chuông ts\_B uo1_I N1_E
+chuẩn chuẩn ts\_B wp3_I 7_X3_I n3_E
+chuối chuối ts\_B uo5a_I j5a_E
+chài chài ts\_B a2_I j2_E
+chàm chàm ts\_B a2_I m2_E
+chàng chàng ts\_B a2_I N2_E
+chào chào ts\_B a2_I w2_E
+chán chán ts\_B a5a_I n5a_E
+cháu cháu ts\_B a_X5a_I w5a_E
+châm châm ts\_B 7_X1_I m1_E
+chân chân ts\_B 7_X1_I n1_E
+châu châu ts\_B 7_X1_I w1_E
+chém chém ts\_B E5a_I m5a_E
+chép chép ts\_B E5b_I p5b_E
+chênh chênh ts\_B e1_I J1_E
+chí chí ts\_B i5a_E
+chín chín ts\_B i5a_I n5a_E
+chính chính ts\_B i5a_I J5a_E
+chó chó ts\_B O5a_E
+chóc chóc ts\_B O_X5b_I kp5b_E
+chóp chóp ts\_B O5b_I p5b_E
+chôn chôn ts\_B o1_I n1_E
+chõng chõng ts\_B O_X4_I Nm4_E
+chùa chùa ts\_B uo2_E
+chú chú ts\_B u5a_E
+chúa chúa ts\_B uo5a_E
+chúng chúng ts\_B u5a_I Nm5a_E
+chút chút ts\_B u5b_I t5b_E
+chăm chăm ts\_B a_X1_I m1_E
+chĩa chĩa ts\_B ie4_E
+chơi chơi ts\_B 71_I j1_E
+chưa chưa ts\_B M71_E
+chưng chưng ts\_B M1_I N1_E
+chương chương ts\_B M71_I N1_E
+chướng chướng ts\_B M75a_I N5a_E
+chạch chạch ts\_B E_X6b_I k6b_E
+chạm chạm ts\_B a6a_I m6a_E
+chạp chạp ts\_B a6b_I p6b_E
+chạy chạy ts\_B a_X6a_I j6a_E
+chả chả ts\_B a3_E
+chảy chảy ts\_B a_X3_I j3_E
+chấm chấm ts\_B 7_X5a_I m5a_E
+chấp chấp ts\_B 7_X5b_I p5b_E
+chất chất ts\_B 7_X5b_I t5b_E
+chập chập ts\_B 7_X6b_I p6b_E
+chật chật ts\_B 7_X6b_I t6b_E
+chắc chắc ts\_B a_X5b_I k5b_E
+chẳng chẳng ts\_B a_X3_I N3_E
+chặt chặt ts\_B a_X6b_I t6b_E
+chẽ chẽ ts\_B E4_E
+chế chế ts\_B e5a_E
+chết chết ts\_B e5b_I t5b_E
+chề chề ts\_B e2_E
+chỉ chỉ ts\_B i3_E
+chị chị ts\_B i6a_E
+chịu chịu ts\_B i6a_I w6a_E
+chọn chọn ts\_B O6a_I n6a_E
+chọt chọt ts\_B O6b_I t6b_E
+chống chống ts\_B o5a_I Nm5a_E
+chồng chồng ts\_B o2_I Nm2_E
+chỗ chỗ ts\_B o4_E
+chớ chớ ts\_B 75a_E
+chờ chờ ts\_B 72_E
+chợ chợ ts\_B 76a_E
+chợt chợt ts\_B 76b_I t6b_E
+chủ chủ ts\_B u3_E
+chủng chủng ts\_B u3_I Nm3_E
+chứ chứ ts\_B M5a_E
+chức chức ts\_B M5b_I k5b_E
+chứng chứng ts\_B M5a_I N5a_E
+chửng chửng ts\_B M3_I N3_E
+chữ chữ ts\_B M4_E
+chữa chữa ts\_B M74_E
+coi coi k_B O1_I j1_E
+con con k_B O1_I n1_E
+cong cong k_B O_X1_I Nm1_E
+cu cu k_B u1_E
+cua cua k_B uo1_E
+cung cung k_B u1_I Nm1_E
+cuối cuối k_B uo5a_I j5a_E
+cuốn cuốn k_B uo5a_I n5a_E
+cuộc cuộc k_B uo6b_I k6b_E
+càn càn k_B a2_I n2_E
+càng càng k_B a2_I N2_E
+cành cành k_B E_X2_I J2_E
+cá cá k_B a5a_E
+các các k_B a5b_I k5b_E
+cách cách k_B E_X5b_I k5b_E
+cái cái k_B a5a_I j5a_E
+cám cám k_B a5a_I m5a_E
+cán cán k_B a5a_I n5a_E
+cánh cánh k_B E_X5a_I J5a_E
+cáo cáo k_B a5a_I w5a_E
+cáp cáp k_B a5b_I p5b_E
+cát cát k_B a5b_I t5b_E
+cáu cáu k_B a_X5a_I w5a_E
+cân cân k_B 7_X1_I n1_E
+câu câu k_B 7_X1_I w1_E
+cây cây k_B 7_X1_I j1_E
+cãi cãi k_B a4_I j4_E
+cò cò k_B O2_E
+còn còn k_B O2_I n2_E
+có có k_B O5a_E
+cóc cóc k_B O_X5b_I kp5b_E
+cót cót k_B O5b_I t5b_E
+cô cô k_B o1_E
+côn côn k_B o1_I n1_E
+công công k_B o1_I Nm1_E
+cõi cõi k_B O4_I j4_E
+cùng cùng k_B u2_I Nm2_E
+cúi cúi k_B u5a_I j5a_E
+cúng cúng k_B u5a_I Nm5a_E
+cút cút k_B u5b_I t5b_E
+căm căm k_B a_X1_I m1_E
+căn căn k_B a_X1_I n1_E
+căng căng k_B a_X1_I N1_E
+cũ cũ k_B u4_E
+cũng cũng k_B u4_I Nm4_E
+cơ cơ k_B 71_E
+cơn cơn k_B 71_I n1_E
+cưới cưới k_B M75a_I j5a_E
+cười cười k_B M72_I j2_E
+cường cường k_B M72_I N2_E
+cưỡng cưỡng k_B M74_I N4_E
+cạn cạn k_B a6a_I n6a_E
+cạnh cạnh k_B E_X6a_I J6a_E
+cạo cạo k_B a6a_I w6a_E
+cạp cạp k_B a6b_I p6b_E
+cả cả k_B a3_E
+cải cải k_B a3_I j3_E
+cảm cảm k_B a3_I m3_E
+cản cản k_B a3_I n3_E
+cảnh cảnh k_B E_X3_I J3_E
+cấp cấp k_B 7_X5b_I p5b_E
+cầm cầm k_B 7_X2_I m2_E
+cần cần k_B 7_X2_I n2_E
+cầu cầu k_B 7_X2_I w2_E
+cẩu cẩu k_B 7_X3_I w3_E
+cập cập k_B 7_X6b_I p6b_E
+cậu cậu k_B 7_X6a_I w6a_E
+cắt cắt k_B a_X5b_I t5b_E
+cọ cọ k_B O6a_E
+cọng cọng k_B O_X6a_I Nm6a_E
+cọp cọp k_B O6b_I p6b_E
+cọt cọt k_B O6b_I t6b_E
+cỏ cỏ k_B O3_E
+cố cố k_B o5a_E
+cốc cốc k_B o5b_I kp5b_E
+cốt cốt k_B o5b_I t5b_E
+cổng cổng k_B o3_I Nm3_E
+cộng cộng k_B o6a_I Nm6a_E
+cớ cớ k_B 75a_E
+cờ cờ k_B 72_E
+cởi cởi k_B 73_I j3_E
+cỡ cỡ k_B 74_E
+cụ cụ k_B u6a_E
+cục cục k_B u6b_I kp6b_E
+cụm cụm k_B u6a_I m6a_E
+cụt cụt k_B u6b_I t6b_E
+củ củ k_B u3_E
+của của k_B uo3_E
+củi củi k_B u3_I j3_E
+củng củng k_B u3_I Nm3_E
+cứ cứ k_B M5a_E
+cứu cứu k_B M5a_I w5a_E
+cử cử k_B M3_E
+cửa cửa k_B M73_E
+da da z_B a1_E
+danh danh z_B E_X1_I J1_E
+di di z_B i1_E
+dinh dinh z_B i1_I J1_E
+diêm diêm z_B ie1_I m1_E
+diễn diễn z_B ie4_I n4_E
+diện diện z_B ie6a_I n6a_E
+diệt diệt z_B ie6b_I t6b_E
+do do z_B O1_E
+doanh doanh z_B wp1_I E_X1_I J1_E
+dung dung z_B u1_I Nm1_E
+duy duy z_B wp1_I i1_E
+duyên duyên z_B wp1_I ie1_I n1_E
+duyệt duyệt z_B wp6b_I ie6b_I t6b_E
+dài dài z_B a2_I j2_E
+dàn dàn z_B a2_I n2_E
+dàng dàng z_B a2_I N2_E
+dành dành z_B E_X2_I J2_E
+dày dày z_B a_X2_I j2_E
+dám dám z_B a5a_I m5a_E
+dân dân z_B 7_X1_I n1_E
+dâu dâu z_B 7_X1_I w1_E
+dây dây z_B 7_X1_I j1_E
+dãi dãi z_B a4_I j4_E
+dép dép z_B E5b_I p5b_E
+dê dê z_B e1_E
+dòng dòng z_B O_X2_I Nm2_E
+dõi dõi z_B O4_I j4_E
+dù dù z_B u2_E
+dùng dùng z_B u2_I Nm2_E
+dăm dăm z_B a_X1_I m1_E
+dĩ dĩ z_B i4_E
+dũng dũng z_B u4_I Nm4_E
+dơ dơ z_B 71_E
+dư dư z_B M1_E
+dương dương z_B M71_I N1_E
+dưới dưới z_B M75a_I j5a_E
+dưỡng dưỡng z_B M74_I N4_E
+dạ dạ z_B a6a_E
+dạng dạng z_B a6a_I N6a_E
+dạy dạy z_B a_X6a_I j6a_E
+dả dả z_B a3_E
+dấu dấu z_B 7_X5a_I w5a_E
+dầm dầm z_B 7_X2_I m2_E
+dần dần z_B 7_X2_I n2_E
+dầu dầu z_B 7_X2_I w2_E
+dẩu dẩu z_B 7_X3_I w3_E
+dẫn dẫn z_B 7_X4_I n4_E
+dật dật z_B 7_X6b_I t6b_E
+dậy dậy z_B 7_X6a_I j6a_E
+dặn dặn z_B a_X6a_I n6a_E
+dẹp dẹp z_B E6b_I p6b_E
+dễ dễ z_B e4_E
+dị dị z_B i6a_E
+dịch dịch z_B i6b_I k6b_E
+dịu dịu z_B i6a_I w6a_E
+dọc dọc z_B O_X6b_I kp6b_E
+dọn dọn z_B O6a_I n6a_E
+dốc dốc z_B o5b_I kp5b_E
+dốt dốt z_B o5b_I t5b_E
+dồi dồi z_B o2_I j2_E
+dồn dồn z_B o2_I n2_E
+dờ dờ z_B 72_E
+dụ dụ z_B u6a_E
+dục dục z_B u6b_I kp6b_E
+dụng dụng z_B u6a_I Nm6a_E
+dứa dứa z_B M75a_E
+dứt dứt z_B M5b_I t5b_E
+dừng dừng z_B M2_I N2_E
+dự dự z_B M6a_E
+dựa dựa z_B M76a_E
+dựng dựng z_B M6a_I N6a_E
+e e E1_S
+em em E1_B m1_E
+eo eo E1_B w1_E
+ga ga G_B a1_E
+gai gai G_B a1_I j1_E
+gam gam G_B a1_I m1_E
+gan gan G_B a1_I n1_E
+ghi ghi G_B i1_E
+ghim ghim G_B i1_I m1_E
+ghét ghét G_B E5b_I t5b_E
+ghẻ ghẻ G_B E3_E
+ghế ghế G_B e5a_E
+gia gia dZ_B a1_E
+giai giai dZ_B a1_I j1_E
+gian gian dZ_B a1_I n1_E
+giang giang dZ_B a1_I N1_E
+giao giao dZ_B a1_I w1_E
+già già dZ_B a2_E
+giành giành dZ_B E_X2_I J2_E
+giàu giàu dZ_B a_X2_I w2_E
+giá giá dZ_B a5a_E
+giác giác dZ_B a5b_I k5b_E
+giám giám dZ_B a5a_I m5a_E
+giáo giáo dZ_B a5a_I w5a_E
+giáp giáp dZ_B a5b_I p5b_E
+giây giây dZ_B 7_X1_I j1_E
+giã giã dZ_B a4_E
+giãn giãn dZ_B a4_I n4_E
+giê giê dZ_B e1_E
+giêng giêng dZ_B ie1_I N1_E
+giò giò dZ_B O2_E
+gió gió dZ_B O5a_E
+giùm giùm dZ_B u2_I m2_E
+giúp giúp dZ_B u5b_I p5b_E
+giường giường dZ_B M72_I N2_E
+giả giả dZ_B a3_E
+giải giải dZ_B a3_I j3_E
+giảm giảm dZ_B a3_I m3_E
+giảng giảng dZ_B a3_I N3_E
+giấc giấc dZ_B 7_X5b_I k5b_E
+giấu giấu dZ_B 7_X5a_I w5a_E
+giấy giấy dZ_B 7_X5a_I j5a_E
+giầu giầu dZ_B 7_X2_I w2_E
+giận giận dZ_B 7_X6a_I n6a_E
+giật giật dZ_B 7_X6b_I t6b_E
+giằng giằng dZ_B a_X2_I N2_E
+giặc giặc dZ_B a_X6b_I k6b_E
+giặt giặt dZ_B a_X6b_I t6b_E
+giếm giếm dZ_B e5a_I m5a_E
+giết giết dZ_B ie5b_I t5b_E
+giềng giềng dZ_B ie2_I N2_E
+giọng giọng dZ_B O_X6a_I Nm6a_E
+giọt giọt dZ_B O6b_I t6b_E
+giỏi giỏi dZ_B O3_I j3_E
+giống giống dZ_B o5a_I Nm5a_E
+giới giới dZ_B 75a_I j5a_E
+giờ giờ dZ_B 72_E
+giữ giữ dZ_B M4_E
+giữa giữa dZ_B M74_E
+goá goá G_B wp5a_I a5a_E
+goép goép G_B wp5b_I E5b_I p5b_E
+guồng guồng G_B uo2_I N2_E
+gà gà G_B a2_E
+gái gái G_B a5a_I j5a_E
+gây gây G_B 7_X1_I j1_E
+gã gã G_B a4_E
+gì gì dZ_B i2_E
+gìn gìn dZ_B i2_I n2_E
+gò gò G_B O2_E
+gòn gòn G_B O2_I n2_E
+góc góc G_B O_X5b_I kp5b_E
+góp góp G_B O5b_I p5b_E
+gô gô G_B o1_E
+gù gù G_B u2_E
+gương gương G_B M71_I N1_E
+gạo gạo G_B a6a_I w6a_E
+gảy gảy G_B a_X3_I j3_E
+gấp gấp G_B 7_X5b_I p5b_E
+gần gần G_B 7_X2_I n2_E
+gật gật G_B 7_X6b_I t6b_E
+gậy gậy G_B 7_X6a_I j6a_E
+gắn gắn G_B a_X5a_I n5a_E
+gắng gắng G_B a_X5a_I N5a_E
+gặp gặp G_B a_X6b_I p6b_E
+gọi gọi G_B O6a_I j6a_E
+gốc gốc G_B o5b_I kp5b_E
+gồm gồm G_B o2_I m2_E
+gỗ gỗ G_B o4_E
+gội gội G_B o6a_I j6a_E
+gục gục G_B u6b_I kp6b_E
+gừng gừng G_B M2_I N2_E
+gửi gửi G_B M3_I j3_E
+hai hai h_B a1_I j1_E
+ham ham h_B a1_I m1_E
+hang hang h_B a1_I N1_E
+hay hay h_B a_X1_I j1_E
+heo heo h_B E1_I w1_E
+hi hi h_B i1_E
+hiến hiến h_B ie5a_I n5a_E
+hiếu hiếu h_B ie5a_I w5a_E
+hiểm hiểm h_B ie3_I m3_E
+hiểu hiểu h_B ie3_I w3_E
+hiện hiện h_B ie6a_I n6a_E
+hiệp hiệp h_B ie6b_I p6b_E
+hiệu hiệu h_B ie6a_I w6a_E
+ho ho h_B O1_E
+hoa hoa h_B wp1_I a1_E
+hoà hoà h_B wp2_I a2_E
+hoài hoài h_B wp2_I a2_I j2_E
+hoàn hoàn h_B wp2_I a2_I n2_E
+hoàng hoàng h_B wp2_I a2_I N2_E
+hoá hoá h_B wp5a_I a5a_E
+hoạ hoạ h_B wp6a_I a6a_E
+hoạch hoạch h_B wp6b_I E_X6b_I k6b_E
+hoạt hoạt h_B wp6b_I a6b_I t6b_E
+hoảng hoảng h_B wp3_I a3_I N3_E
+hoặc hoặc h_B wp6b_I a_X6b_I k6b_E
+hung hung h_B u1_I Nm1_E
+huy huy h_B wp1_I i1_E
+huyết huyết h_B wp5b_I ie5b_I t5b_E
+huyện huyện h_B wp6a_I ie6a_I n6a_E
+huế huế h_B wp5a_I e5a_E
+huệ huệ h_B wp6a_I e6a_E
+huỳnh huỳnh h_B wp2_I i2_I J2_E
+huỷ huỷ h_B wp3_I i3_E
+hy hy h_B i1_E
+hà hà h_B a2_E
+hàm hàm h_B a2_I m2_E
+hàn hàn h_B a2_I n2_E
+hàng hàng h_B a2_I N2_E
+hành hành h_B E_X2_I J2_E
+hào hào h_B a2_I w2_E
+hái hái h_B a5a_I j5a_E
+hám hám h_B a5a_I m5a_E
+hán hán h_B a5a_I n5a_E
+hát hát h_B a5b_I t5b_E
+hãm hãm h_B a4_I m4_E
+hãy hãy h_B a_X4_I j4_E
+hình hình h_B i2_I J2_E
+hò hò h_B O2_E
+hòn hòn h_B O2_I n2_E
+hói hói h_B O5a_I j5a_E
+hô hô h_B o1_E
+hôi hôi h_B o1_I j1_E
+hôm hôm h_B o1_I m1_E
+hôn hôn h_B o1_I n1_E
+hông hông h_B o1_I Nm1_E
+hùng hùng h_B u2_I Nm2_E
+húm húm h_B u5a_I m5a_E
+hút hút h_B u5b_I t5b_E
+hũ hũ h_B u4_E
+hơi hơi h_B 71_I j1_E
+hơn hơn h_B 71_I n1_E
+hư hư h_B M1_E
+hương hương h_B M71_I N1_E
+hướng hướng h_B M75a_I N5a_E
+hưởng hưởng h_B M73_I N3_E
+hượm hượm h_B M76a_I m6a_E
+hại hại h_B a6a_I j6a_E
+hạn hạn h_B a6a_I n6a_E
+hạng hạng h_B a6a_I N6a_E
+hạnh hạnh h_B E_X6a_I J6a_E
+hạt hạt h_B a6b_I t6b_E
+hả hả h_B a3_E
+hải hải h_B a3_I j3_E
+hảo hảo h_B a3_I w3_E
+hấp hấp h_B 7_X5b_I p5b_E
+hất hất h_B 7_X5b_I t5b_E
+hầu hầu h_B 7_X2_I w2_E
+hận hận h_B 7_X6a_I n6a_E
+hậu hậu h_B 7_X6a_I w6a_E
+hắn hắn h_B a_X5a_I n5a_E
+hắt hắt h_B a_X5b_I t5b_E
+hằng hằng h_B a_X2_I N2_E
+hẹp hẹp h_B E6b_I p6b_E
+hết hết h_B e5b_I t5b_E
+hề hề h_B e2_E
+hễ hễ h_B e4_E
+hệ hệ h_B e6a_E
+hịch hịch h_B i6b_I k6b_E
+họ họ h_B O6a_E
+học học h_B O_X6b_I kp6b_E
+họng họng h_B O_X6a_I Nm6a_E
+họp họp h_B O6b_I p6b_E
+hỏi hỏi h_B O3_I j3_E
+hỏng hỏng h_B O_X3_I Nm3_E
+hố hố h_B o5a_E
+hốc hốc h_B o5b_I kp5b_E
+hối hối h_B o5a_I j5a_E
+hốt hốt h_B o5b_I t5b_E
+hồ hồ h_B o2_E
+hồi hồi h_B o2_I j2_E
+hồn hồn h_B o2_I n2_E
+hồng hồng h_B o2_I Nm2_E
+hổ hổ h_B o3_E
+hỗ hỗ h_B o4_E
+hỗn hỗn h_B o4_I n4_E
+hộ hộ h_B o6a_E
+hội hội h_B o6a_I j6a_E
+hột hột h_B o6b_I t6b_E
+hở hở h_B 73_E
+hợp hợp h_B 76b_I p6b_E
+hứng hứng h_B M5a_I N5a_E
+hữu hữu h_B M4_I w4_E
+i i i1_S
+im im i1_B m1_E
+k k k_S
+khai khai x_B a1_I j1_E
+khao khao x_B a1_I w1_E
+khi khi x_B i1_E
+khiến khiến x_B ie5a_I n5a_E
+khoa khoa x_B wp1_I a1_E
+khoai khoai x_B wp1_I a1_I j1_E
+khoảng khoảng x_B wp3_I a3_I N3_E
+khoẻ khoẻ x_B wp3_I E3_E
+khu khu x_B u1_E
+khuya khuya x_B wp1_I ie1_E
+khuyên khuyên x_B wp1_I ie1_I n1_E
+khuôn khuôn x_B uo1_I n1_E
+khuất khuất x_B wp5b_I 7_X5b_I t5b_E
+khá khá x_B a5a_E
+khác khác x_B a5b_I k5b_E
+khách khách x_B E_X5b_I k5b_E
+khái khái x_B a5a_I j5a_E
+khám khám x_B a5a_I m5a_E
+kháng kháng x_B a5a_I N5a_E
+khánh khánh x_B E_X5a_I J5a_E
+khâm khâm x_B 7_X1_I m1_E
+khè khè x_B E2_E
+khéo khéo x_B E5a_I w5a_E
+khép khép x_B E5b_I p5b_E
+khí khí x_B i5a_E
+khía khía x_B ie5a_E
+khích khích x_B i5b_I k5b_E
+khó khó x_B O5a_E
+khóc khóc x_B O_X5b_I kp5b_E
+khô khô x_B o1_E
+không không x_B o1_I Nm1_E
+khúc khúc x_B u5b_I kp5b_E
+khúm khúm x_B u5a_I m5a_E
+khăn khăn x_B a_X1_I n1_E
+khưu khưu x_B M1_I w1_E
+khả khả x_B a3_E
+khản khản x_B a3_I n3_E
+khảo khảo x_B a3_I w3_E
+khẩn khẩn x_B 7_X3_I n3_E
+khẩu khẩu x_B 7_X3_I w3_E
+khắc khắc x_B a_X5b_I k5b_E
+khắp khắp x_B a_X5b_I p5b_E
+khẽ khẽ x_B E4_E
+khịch khịch x_B i6b_I k6b_E
+khọm khọm x_B O6a_I m6a_E
+khỏi khỏi x_B O3_I j3_E
+khố khố x_B o5a_E
+khối khối x_B o5a_I j5a_E
+khổ khổ x_B o3_E
+khổng khổng x_B o3_I Nm3_E
+khởi khởi x_B 73_I j3_E
+khục khục x_B u6b_I kp6b_E
+khứ khứ x_B M5a_E
+ki ki k_B i1_E
+kia kia k_B ie1_E
+kim kim k_B i1_I m1_E
+kinh kinh k_B i1_I J1_E
+kiên kiên k_B ie1_I n1_E
+kiêng kiêng k_B ie1_I N1_E
+kiếm kiếm k_B ie5a_I m5a_E
+kiến kiến k_B ie5a_I n5a_E
+kiết kiết k_B ie5b_I t5b_E
+kiểm kiểm k_B ie3_I m3_E
+kiểu kiểu k_B ie3_I w3_E
+kiện kiện k_B ie6a_I n6a_E
+kèm kèm k_B E2_I m2_E
+kéo kéo k_B E5a_I w5a_E
+kép kép k_B E5b_I p5b_E
+két két k_B E5b_I t5b_E
+kê kê k_B e1_E
+kênh kênh k_B e1_I J1_E
+kêu kêu k_B e1_I w1_E
+kìa kìa k_B ie2_E
+kìm kìm k_B i2_I m2_E
+kích kích k_B i5b_I k5b_E
+kín kín k_B i5a_I n5a_E
+kính kính k_B i5a_I J5a_E
+kít kít k_B i5b_I t5b_E
+ký ký k_B i5a_E
+kĩ kĩ k_B i4_E
+kưn kưn k_B M1_I n1_E
+kẹt kẹt k_B E6b_I t6b_E
+kẻ kẻ k_B E3_E
+kẽ kẽ k_B E4_E
+kẽo kẽo k_B E4_I w4_E
+kế kế k_B e5a_E
+kết kết k_B e5b_I t5b_E
+kề kề k_B e2_E
+kể kể k_B e3_E
+kịp kịp k_B i6b_I p6b_E
+kỳ kỳ k_B i2_E
+kỵ kỵ k_B i6a_E
+kỷ kỷ k_B i3_E
+kỹ kỹ k_B i4_E
+la la l_B a1_E
+lai lai l_B a1_I j1_E
+lam lam l_B a1_I m1_E
+lan lan l_B a1_I n1_E
+lang lang l_B a1_I N1_E
+lanh lanh l_B E_X1_I J1_E
+lao lao l_B a1_I w1_E
+lau lau l_B a_X1_I w1_E
+len len l_B E1_I n1_E
+lin lin l_B i1_I n1_E
+linh linh l_B i1_I J1_E
+liên liên l_B ie1_I n1_E
+liền liền l_B ie2_I n2_E
+liệt liệt l_B ie6b_I t6b_E
+liệu liệu l_B ie6a_I w6a_E
+lo lo l_B O1_E
+loe loe l_B wp1_I E1_E
+long long l_B O_X1_I Nm1_E
+loài loài l_B wp2_I a2_I j2_E
+loại loại l_B wp6a_I a6a_I j6a_E
+loạn loạn l_B wp6a_I a6a_I n6a_E
+luyên luyên l_B wp1_I ie1_I n1_E
+luôn luôn l_B uo1_I n1_E
+luận luận l_B wp6a_I 7_X6a_I n6a_E
+luật luật l_B wp6b_I 7_X6b_I t6b_E
+luỹ luỹ l_B wp4_I i4_E
+ly ly l_B i1_E
+là là l_B a2_E
+làm làm l_B a2_I m2_E
+làn làn l_B a2_I n2_E
+làng làng l_B a2_I N2_E
+lành lành l_B E_X2_I J2_E
+lá lá l_B a5a_E
+lác lác l_B a5b_I k5b_E
+lái lái l_B a5a_I j5a_E
+láng láng l_B a5a_I N5a_E
+lánh lánh l_B E_X5a_I J5a_E
+lâm lâm l_B 7_X1_I m1_E
+lân lân l_B 7_X1_I n1_E
+lâu lâu l_B 7_X1_I w1_E
+lãnh lãnh l_B E_X4_I J4_E
+lão lão l_B a4_I w4_E
+léo léo l_B E5a_I w5a_E
+lê lê l_B e1_E
+lên lên l_B e1_I n1_E
+lình lình l_B i2_I J2_E
+lí lí l_B i5a_E
+lính lính l_B i5a_I J5a_E
+lò lò l_B O2_E
+lòng lòng l_B O_X2_I Nm2_E
+ló ló l_B O5a_E
+lót lót l_B O5b_I t5b_E
+lô lô l_B o1_E
+lôi lôi l_B o1_I j1_E
+lông lông l_B o1_I Nm1_E
+lúc lúc l_B u5b_I kp5b_E
+lý lý l_B i5a_E
+lăm lăm l_B a_X1_I m1_E
+lăng lăng l_B a_X1_I N1_E
+lũ lũ l_B u4_E
+lư lư l_B M1_E
+lưng lưng l_B M1_I N1_E
+lưu lưu l_B M1_I w1_E
+lương lương l_B M71_I N1_E
+lưới lưới l_B M75a_I j5a_E
+lưỡi lưỡi l_B M74_I j4_E
+lược lược l_B M76b_I k6b_E
+lượng lượng l_B M76a_I N6a_E
+lượt lượt l_B M76b_I t6b_E
+lạ lạ l_B a6a_E
+lạc lạc l_B a6b_I k6b_E
+lại lại l_B a6a_I j6a_E
+lạnh lạnh l_B E_X6a_I J6a_E
+lấy lấy l_B 7_X5a_I j5a_E
+lầm lầm l_B 7_X2_I m2_E
+lần lần l_B 7_X2_I n2_E
+lầy lầy l_B 7_X2_I j2_E
+lẩn lẩn l_B 7_X3_I n3_E
+lẫm lẫm l_B 7_X4_I m4_E
+lẫy lẫy l_B 7_X4_I j4_E
+lập lập l_B 7_X6b_I p6b_E
+lật lật l_B 7_X6b_I t6b_E
+lắm lắm l_B a_X5a_I m5a_E
+lắng lắng l_B a_X5a_I N5a_E
+lằn lằn l_B a_X2_I n2_E
+lặng lặng l_B a_X6a_I N6a_E
+lặt lặt l_B a_X6b_I t6b_E
+lẹo lẹo l_B E6a_I w6a_E
+lẻ lẻ l_B E3_E
+lẽ lẽ l_B E4_E
+lề lề l_B e2_E
+lễ lễ l_B e4_E
+lệ lệ l_B e6a_E
+lệch lệch l_B e6b_I k6b_E
+lệnh lệnh l_B e6a_I J6a_E
+lị lị l_B i6a_E
+lịch lịch l_B i6b_I k6b_E
+lọ lọ l_B O6a_E
+lọc lọc l_B O_X6b_I kp6b_E
+lọm lọm l_B O6a_I m6a_E
+lối lối l_B o5a_I j5a_E
+lốp lốp l_B o5b_I p5b_E
+lồng lồng l_B o2_I Nm2_E
+lỗi lỗi l_B o4_I j4_E
+lộ lộ l_B o6a_E
+lộc lộc l_B o6b_I kp6b_E
+lội lội l_B o6a_I j6a_E
+lớn lớn l_B 75a_I n5a_E
+lớp lớp l_B 75b_I p5b_E
+lờ lờ l_B 72_E
+lời lời l_B 72_I j2_E
+lở lở l_B 73_E
+lỡ lỡ l_B 74_E
+lợi lợi l_B 76a_I j6a_E
+lợt lợt l_B 76b_I t6b_E
+lục lục l_B u6b_I kp6b_E
+lụt lụt l_B u6b_I t6b_E
+lừng lừng l_B M2_I N2_E
+lửa lửa l_B M73_E
+lựa lựa l_B M76a_E
+lực lực l_B M6b_I k6b_E
+lỵ lỵ l_B i6a_E
+ma ma m_B a1_E
+mai mai m_B a1_I j1_E
+mang mang m_B a1_I N1_E
+mau mau m_B a_X1_I w1_E
+may may m_B a_X1_I j1_E
+me me m_B E1_E
+men men m_B E1_I n1_E
+mi mi m_B i1_E
+minh minh m_B i1_I J1_E
+miên miên m_B ie1_I n1_E
+miêu miêu m_B ie1_I w1_E
+miếng miếng m_B ie5a_I N5a_E
+miễn miễn m_B ie4_I n4_E
+miệng miệng m_B ie6a_I N6a_E
+mong mong m_B O_X1_I Nm1_E
+mua mua m_B uo1_E
+muối muối m_B uo5a_I j5a_E
+muốn muốn m_B uo5a_I n5a_E
+muộn muộn m_B uo6a_I n6a_E
+mà mà m_B a2_E
+màu màu m_B a_X2_I w2_E
+mày mày m_B a_X2_I j2_E
+má má m_B a5a_E
+mái mái m_B a5a_I j5a_E
+máng máng m_B a5a_I N5a_E
+máo máo m_B a5a_I w5a_E
+mát mát m_B a5b_I t5b_E
+máu máu m_B a_X5a_I w5a_E
+máy máy m_B a_X5a_I j5a_E
+mâu mâu m_B 7_X1_I w1_E
+mã mã m_B a4_E
+mãi mãi m_B a4_I j4_E
+mãn mãn m_B a4_I n4_E
+mèo mèo m_B E2_I w2_E
+méc méc m_B E5b_I k5b_E
+mét mét m_B E5b_I t5b_E
+mê mê m_B e1_E
+mì mì m_B i2_E
+mình mình m_B i2_I J2_E
+mò mò m_B O2_E
+mòn mòn m_B O2_I n2_E
+món món m_B O5a_I n5a_E
+móng móng m_B O_X5a_I Nm5a_E
+mô mô m_B o1_E
+môi môi m_B o1_I j1_E
+môn môn m_B o1_I n1_E
+mông mông m_B o1_I Nm1_E
+mõm mõm m_B O4_I m4_E
+mùa mùa m_B uo2_E
+mùi mùi m_B u2_I j2_E
+măng măng m_B a_X1_I N1_E
+mĩ mĩ m_B i4_E
+mũi mũi m_B u4_I j4_E
+mơ mơ m_B 71_E
+mưa mưa m_B M71_E
+mưu mưu m_B M1_I w1_E
+mươi mươi m_B M71_I j1_E
+mướp mướp m_B M75b_I p5b_E
+mười mười m_B M72_I j2_E
+mượt mượt m_B M76b_I t6b_E
+mạch mạch m_B E_X6b_I k6b_E
+mạng mạng m_B a6a_I N6a_E
+mạnh mạnh m_B E_X6a_I J6a_E
+mạo mạo m_B a6a_I w6a_E
+mả mả m_B a3_E
+mảnh mảnh m_B E_X3_I J3_E
+mất mất m_B 7_X5b_I t5b_E
+mấy mấy m_B 7_X5a_I j5a_E
+mầm mầm m_B 7_X2_I m2_E
+mầu mầu m_B 7_X2_I w2_E
+mẫu mẫu m_B 7_X4_I w4_E
+mật mật m_B 7_X6b_I t6b_E
+mậu mậu m_B 7_X6a_I w6a_E
+mắc mắc m_B a_X5b_I k5b_E
+mắm mắm m_B a_X5a_I m5a_E
+mắng mắng m_B a_X5a_I N5a_E
+mắt mắt m_B a_X5b_I t5b_E
+mặc mặc m_B a_X6b_I k6b_E
+mặt mặt m_B a_X6b_I t6b_E
+mẹ mẹ m_B E6a_E
+mẹc mẹc m_B E6b_I k6b_E
+mẹo mẹo m_B E6a_I w6a_E
+mẻ mẻ m_B E3_E
+mẽ mẽ m_B E4_E
+mến mến m_B e5a_I n5a_E
+mết mết m_B e5b_I t5b_E
+mếu mếu m_B e5a_I w5a_E
+mềm mềm m_B e2_I m2_E
+mỉa mỉa m_B ie3_E
+mỉm mỉm m_B i3_I m3_E
+mị mị m_B i6a_E
+mọ mọ m_B O6a_E
+mọc mọc m_B O_X6b_I kp6b_E
+mọi mọi m_B O6a_I j6a_E
+mọt mọt m_B O6b_I t6b_E
+mỏng mỏng m_B O_X3_I Nm3_E
+mối mối m_B o5a_I j5a_E
+mốt mốt m_B o5b_I t5b_E
+mồ mồ m_B o2_E
+mổ mổ m_B o3_E
+mỗi mỗi m_B o4_I j4_E
+mộ mộ m_B o6a_E
+một một m_B o6b_I t6b_E
+mớ mớ m_B 75a_E
+mới mới m_B 75a_I j5a_E
+mờ mờ m_B 72_E
+mời mời m_B 72_I j2_E
+mở mở m_B 73_E
+mỡ mỡ m_B 74_E
+mụ mụ m_B u6a_E
+mục mục m_B u6b_I kp6b_E
+mức mức m_B M5b_I k5b_E
+mực mực m_B M6b_I k6b_E
+mỹ mỹ m_B i4_E
+na na n_B a1_E
+nam nam n_B a1_I m1_E
+nay nay n_B a_X1_I j1_E
+ne ne n_B E1_E
+ngang ngang N_B a1_I N1_E
+ngay ngay N_B a_X1_I j1_E
+nghe nghe N_B E1_E
+nghi nghi N_B i1_E
+nghiên nghiên N_B ie1_I n1_E
+nghiền nghiền N_B ie2_I n2_E
+nghiệm nghiệm N_B ie6a_I m6a_E
+nghiệp nghiệp N_B ie6b_I p6b_E
+nghèo nghèo N_B E2_I w2_E
+nghìn nghìn N_B i2_I n2_E
+nghĩ nghĩ N_B i4_E
+nghĩa nghĩa N_B ie4_E
+nghẹo nghẹo N_B E6a_I w6a_E
+nghếch nghếch N_B e5b_I k5b_E
+nghề nghề N_B e2_E
+nghệ nghệ N_B e6a_E
+nghị nghị N_B i6a_E
+nghịch nghịch N_B i6b_I k6b_E
+nghịu nghịu N_B i6a_I w6a_E
+ngoan ngoan N_B wp1_I a1_I n1_E
+ngoe ngoe N_B wp1_I E1_E
+ngon ngon N_B O1_I n1_E
+ngoài ngoài N_B wp2_I a2_I j2_E
+ngoại ngoại N_B wp6a_I a6a_I j6a_E
+ngu ngu N_B u1_E
+nguy nguy N_B wp1_I i1_E
+nguyên nguyên N_B wp1_I ie1_I n1_E
+nguyền nguyền N_B wp2_I ie2_I n2_E
+nguyễn nguyễn N_B wp4_I ie4_I n4_E
+nguyện nguyện N_B wp6a_I ie6a_I n6a_E
+nguồn nguồn N_B uo2_I n2_E
+ngàn ngàn N_B a2_I n2_E
+ngành ngành N_B E_X2_I J2_E
+ngày ngày N_B a_X2_I j2_E
+ngán ngán N_B a5a_I n5a_E
+ngâm ngâm N_B 7_X1_I m1_E
+ngân ngân N_B 7_X1_I n1_E
+ngãi ngãi N_B a4_I j4_E
+ngòi ngòi N_B O2_I j2_E
+ngôn ngôn N_B o1_I n1_E
+ngũ ngũ N_B u4_E
+ngư ngư N_B M1_E
+người người N_B M72_I j2_E
+ngượng ngượng N_B M76a_I N6a_E
+ngạc ngạc N_B a6b_I k6b_E
+ngại ngại N_B a6a_I j6a_E
+ngầm ngầm N_B 7_X2_I m2_E
+ngẩng ngẩng N_B 7_X3_I N3_E
+ngắm ngắm N_B a_X5a_I m5a_E
+ngắn ngắn N_B a_X5a_I n5a_E
+ngọ ngọ N_B O6a_E
+ngọc ngọc N_B O_X6b_I kp6b_E
+ngọt ngọt N_B O6b_I t6b_E
+ngốc ngốc N_B o5b_I kp5b_E
+ngồi ngồi N_B o2_I j2_E
+ngộ ngộ N_B o6a_E
+ngột ngột N_B o6b_I t6b_E
+ngờ ngờ N_B 72_E
+ngợm ngợm N_B 76a_I m6a_E
+ngụ ngụ N_B u6a_E
+ngủ ngủ N_B u3_E
+ngừa ngừa N_B M72_E
+ngừng ngừng N_B M2_I N2_E
+ngửa ngửa N_B M73_E
+ngửi ngửi N_B M3_I j3_E
+ngữ ngữ N_B M4_E
+ngựa ngựa N_B M76a_E
+ngực ngực N_B M6b_I k6b_E
+nha nha J_B a1_E
+nhanh nhanh J_B E_X1_I J1_E
+nhau nhau J_B a_X1_I w1_E
+nheo nheo J_B E1_I w1_E
+nhiên nhiên J_B ie1_I n1_E
+nhiêu nhiêu J_B ie1_I w1_E
+nhiều nhiều J_B ie2_I w2_E
+nhiểu nhiểu J_B ie3_I w3_E
+nhiễm nhiễm J_B ie4_I m4_E
+nhiệm nhiệm J_B ie6a_I m6a_E
+nhiệt nhiệt J_B ie6b_I t6b_E
+nho nho J_B O1_E
+nhu nhu J_B u1_E
+nhung nhung J_B u1_I Nm1_E
+nhuyễn nhuyễn J_B wp4_I ie4_I n4_E
+nhà nhà J_B a2_E
+nhàn nhàn J_B a2_I n2_E
+nhàng nhàng J_B a2_I N2_E
+nhào nhào J_B a2_I w2_E
+nhánh nhánh J_B E_X5a_I J5a_E
+nhân nhân J_B 7_X1_I n1_E
+nhã nhã J_B a4_E
+nhãn nhãn J_B a4_I n4_E
+nhé nhé J_B E5a_E
+nhìn nhìn J_B i2_I n2_E
+nhí nhí J_B i5a_E
+nhíu nhíu J_B i5a_I w5a_E
+nhóm nhóm J_B O5a_I m5a_E
+nhóng nhóng J_B O_X5a_I Nm5a_E
+nhõm nhõm J_B O4_I m4_E
+nhăn nhăn J_B a_X1_I n1_E
+như như J_B M1_E
+nhưng nhưng J_B M1_I N1_E
+nhược nhược J_B M76b_I k6b_E
+nhạc nhạc J_B a6b_I k6b_E
+nhạt nhạt J_B a6b_I t6b_E
+nhạy nhạy J_B a_X6a_I j6a_E
+nhảm nhảm J_B a3_I m3_E
+nhảy nhảy J_B a_X3_I j3_E
+nhất nhất J_B 7_X5b_I t5b_E
+nhẫn nhẫn J_B 7_X4_I n4_E
+nhận nhận J_B 7_X6a_I n6a_E
+nhập nhập J_B 7_X6b_I p6b_E
+nhật nhật J_B 7_X6b_I t6b_E
+nhắm nhắm J_B a_X5a_I m5a_E
+nhằm nhằm J_B a_X2_I m2_E
+nhẵn nhẵn J_B a_X4_I n4_E
+nhẹ nhẹ J_B E6a_E
+nhẻm nhẻm J_B E3_I m3_E
+nhếch nhếch J_B e5b_I k5b_E
+nhịp nhịp J_B i6b_I p6b_E
+nhỏ nhỏ J_B O3_E
+nhồi nhồi J_B o2_I j2_E
+nhớ nhớ J_B 75a_E
+nhờ nhờ J_B 72_E
+nhức nhức J_B M5b_I k5b_E
+những những J_B M4_I N4_E
+nin nin n_B i1_I n1_E
+ninh ninh n_B i1_I J1_E
+niêm niêm n_B ie1_I m1_E
+niên niên n_B ie1_I n1_E
+niềm niềm n_B ie2_I m2_E
+niểng niểng n_B ie3_I N3_E
+niệm niệm n_B ie6a_I m6a_E
+no no n_B O1_E
+non non n_B O1_I n1_E
+nuôi nuôi n_B uo1_I j1_E
+nuốt nuốt n_B uo5b_I t5b_E
+nàng nàng n_B a2_I N2_E
+nào nào n_B a2_I w2_E
+này này n_B a_X2_I j2_E
+nám nám n_B a5a_I m5a_E
+nát nát n_B a5b_I t5b_E
+náy náy n_B a_X5a_I j5a_E
+nâng nâng n_B 7_X1_I N1_E
+nãy nãy n_B a_X4_I j4_E
+nè nè n_B E2_E
+nêm nêm n_B e1_I m1_E
+nên nên n_B e1_I n1_E
+nêu nêu n_B e1_I w1_E
+nín nín n_B i5a_I n5a_E
+nòng nòng n_B O_X2_I Nm2_E
+nó nó n_B O5a_E
+nói nói n_B O5a_I j5a_E
+nóng nóng n_B O_X5a_I Nm5a_E
+nông nông n_B o1_I Nm1_E
+núm núm n_B u5a_I m5a_E
+năm năm n_B a_X1_I m1_E
+năng năng n_B a_X1_I N1_E
+nơi nơi n_B 71_I j1_E
+nương nương n_B M71_I N1_E
+nước nước n_B M75b_I k5b_E
+nướng nướng n_B M75a_I N5a_E
+nạc nạc n_B a6b_I k6b_E
+nạp nạp n_B a6b_I p6b_E
+nản nản n_B a3_I n3_E
+nảy nảy n_B a_X3_I j3_E
+nấc nấc n_B 7_X5b_I k5b_E
+nấm nấm n_B 7_X5a_I m5a_E
+nấp nấp n_B 7_X5b_I p5b_E
+nẩy nẩy n_B 7_X3_I j3_E
+nắm nắm n_B a_X5a_I m5a_E
+nắng nắng n_B a_X5a_I N5a_E
+nằm nằm n_B a_X2_I m2_E
+nẵng nẵng n_B a_X4_I N4_E
+nặng nặng n_B a_X6a_I N6a_E
+nếm nếm n_B e5a_I m5a_E
+nếu nếu n_B e5a_I w5a_E
+nền nền n_B e2_I n2_E
+nỉ nỉ n_B i3_E
+nọ nọ n_B O6a_E
+nọc nọc n_B O_X6b_I kp6b_E
+nỏ nỏ n_B O3_E
+nối nối n_B o5a_I j5a_E
+nồng nồng n_B o2_I Nm2_E
+nổ nổ n_B o3_E
+nổi nổi n_B o3_I j3_E
+nỗ nỗ n_B o4_E
+nỗi nỗi n_B o4_I j4_E
+nộ nộ n_B o6a_E
+nội nội n_B o6a_I j6a_E
+nờ nờ n_B 72_E
+nở nở n_B 73_E
+nợ nợ n_B 76a_E
+nửa nửa n_B M73_E
+nữ nữ n_B M4_E
+nữa nữa n_B M74_E
+o o O1_S
+oai oai wp_B a1_I j1_E
+ong ong O_X1_B Nm1_E
+oà oà wp_B a2_E
+oàng oàng wp_B a2_I N2_E
+oán oán wp_B a5a_I n5a_E
+oánh oánh wp_B E_X5a_I J5a_E
+oắt oắt wp_B a_X5b_I t5b_E
+oặt oặt wp_B a_X6b_I t6b_E
+pa pa p_B a1_E
+ph ph f_S
+pha pha f_B a1_E
+phai phai f_B a1_I j1_E
+phe phe f_B E1_E
+phi phi f_B i1_E
+phiên phiên f_B ie1_I n1_E
+phong phong f_B O_X1_I Nm1_E
+phu phu f_B u1_E
+phá phá f_B a5a_E
+phái phái f_B a5a_I j5a_E
+phán phán f_B a5a_I n5a_E
+pháp pháp f_B a5b_I p5b_E
+phát phát f_B a5b_I t5b_E
+phân phân f_B 7_X1_I n1_E
+phép phép f_B E5b_I p5b_E
+phê phê f_B e1_E
+phí phí f_B i5a_E
+phía phía f_B ie5a_E
+phòng phòng f_B O_X2_I Nm2_E
+phó phó f_B O5a_E
+phóc phóc f_B O_X5b_I kp5b_E
+phóng phóng f_B O_X5a_I Nm5a_E
+phù phù f_B u2_E
+phú phú f_B u5a_E
+phúc phúc f_B u5b_I kp5b_E
+phút phút f_B u5b_I t5b_E
+phơi phơi f_B 71_I j1_E
+phương phương f_B M71_I N1_E
+phạm phạm f_B a6a_I m6a_E
+phạt phạt f_B a6b_I t6b_E
+phải phải f_B a3_I j3_E
+phần phần f_B 7_X2_I n2_E
+phẩm phẩm f_B 7_X3_I m3_E
+phẩy phẩy f_B 7_X3_I j3_E
+phẫn phẫn f_B 7_X4_I n4_E
+phận phận f_B 7_X6a_I n6a_E
+phật phật f_B 7_X6b_I t6b_E
+phẳng phẳng f_B a_X3_I N3_E
+phịch phịch f_B i6b_I k6b_E
+phịu phịu f_B i6a_I w6a_E
+phỏng phỏng f_B O_X3_I Nm3_E
+phố phố f_B o5a_E
+phối phối f_B o5a_I j5a_E
+phổi phổi f_B o3_I j3_E
+phụ phụ f_B u6a_E
+phục phục f_B u6b_I kp6b_E
+phụng phụng f_B u6a_I Nm6a_E
+phủ phủ f_B u3_E
+phức phức f_B M5b_I k5b_E
+phừng phừng f_B M2_I N2_E
+pu pu p_B u1_E
+pua pua p_B uo1_E
+pí pí p_B i5a_E
+qua qua k_B wp1_I a1_E
+quan quan k_B wp1_I a1_I n1_E
+quang quang k_B wp1_I a1_I N1_E
+quanh quanh k_B wp1_I E_X1_I J1_E
+quay quay k_B wp1_I a_X1_I j1_E
+quen quen k_B wp1_I E1_I n1_E
+quy quy k_B wp1_I i1_E
+quyết quyết k_B wp5b_I ie5b_I t5b_E
+quyền quyền k_B wp2_I ie2_I n2_E
+quà quà k_B wp2_I a2_E
+quá quá k_B wp5a_I a5a_E
+quán quán k_B wp5a_I a5a_I n5a_E
+quát quát k_B wp5b_I a5b_I t5b_E
+quân quân k_B wp1_I 7_X1_I n1_E
+quét quét k_B wp5b_I E5b_I t5b_E
+quê quê k_B wp1_I e1_E
+quên quên k_B wp1_I e1_I n1_E
+quý quý k_B wp5a_I i5a_E
+quăng quăng k_B wp1_I a_X1_I N1_E
+quạch quạch k_B wp6b_I E_X6b_I k6b_E
+quại quại k_B wp6a_I a6a_I j6a_E
+quả quả k_B wp3_I a3_E
+quản quản k_B wp3_I a3_I n3_E
+quảng quảng k_B wp3_I a3_I N3_E
+quần quần k_B wp2_I 7_X2_I n2_E
+quận quận k_B wp6a_I 7_X6a_I n6a_E
+quật quật k_B wp6b_I 7_X6b_I t6b_E
+quằn quằn k_B wp2_I a_X2_I n2_E
+quế quế k_B wp5a_I e5a_E
+quốc quốc k_B uo5b_I k5b_E
+ra ra r_B a1_E
+rao rao r_B a1_I w1_E
+rau rau r_B a_X1_I w1_E
+rem rem r_B E1_I m1_E
+ren ren r_B E1_I n1_E
+reo reo r_B E1_I w1_E
+ri ri r_B i1_E
+riêng riêng r_B ie1_I N1_E
+run run r_B u1_I n1_E
+ruộng ruộng r_B uo6a_I N6a_E
+ruột ruột r_B uo6b_I t6b_E
+ràng ràng r_B a2_I N2_E
+rác rác r_B a5b_I k5b_E
+rách rách r_B E_X5b_I k5b_E
+ráng ráng r_B a5a_I N5a_E
+râu râu r_B 7_X1_I w1_E
+rãi rãi r_B a4_I j4_E
+rãnh rãnh r_B E_X4_I J4_E
+réo réo r_B E5a_I w5a_E
+rít rít r_B i5b_I t5b_E
+ríu ríu r_B i5a_I w5a_E
+rò rò r_B O2_E
+rô rô r_B o1_E
+rõ rõ r_B O4_E
+rùa rùa r_B uo2_E
+rú rú r_B u5a_E
+rút rút r_B u5b_I t5b_E
+răm răm r_B a_X1_I m1_E
+răng răng r_B a_X1_I N1_E
+rơ rơ r_B 71_E
+rưỡi rưỡi r_B M74_I j4_E
+rượu rượu r_B M76a_I w6a_E
+rất rất r_B 7_X5b_I t5b_E
+rậm rậm r_B 7_X6a_I m6a_E
+rắc rắc r_B a_X5b_I k5b_E
+rắt rắt r_B a_X5b_I t5b_E
+rằng rằng r_B a_X2_I N2_E
+rẻ rẻ r_B E3_E
+rễ rễ r_B e4_E
+rệt rệt r_B e6b_I t6b_E
+rịa rịa r_B ie6a_E
+rọi rọi r_B O6a_I j6a_E
+rối rối r_B o5a_I j5a_E
+rồi rồi r_B o2_I j2_E
+rộn rộn r_B o6a_I n6a_E
+rộng rộng r_B o6a_I Nm6a_E
+rời rời r_B 72_I j2_E
+rỡ rỡ r_B 74_E
+rợn rợn r_B 76a_I n6a_E
+rợp rợp r_B 76b_I p6b_E
+rụng rụng r_B u6a_I Nm6a_E
+rủa rủa r_B uo3_E
+rừng rừng r_B M2_I N2_E
+rửa rửa r_B M73_E
+rực rực r_B M6b_I k6b_E
+sa sa S_B a1_E
+sai sai S_B a1_I j1_E
+sang sang S_B a1_I N1_E
+sao sao S_B a1_I w1_E
+sau sau S_B a_X1_I w1_E
+say say S_B a_X1_I j1_E
+sen sen S_B E1_I n1_E
+sinh sinh S_B i1_I J1_E
+so so S_B O1_E
+soi soi S_B O1_I j1_E
+soài soài S_B wp2_I a2_I j2_E
+soạt soạt S_B wp6b_I a6b_I t6b_E
+su su S_B u1_E
+sung sung S_B u1_I Nm1_E
+suy suy S_B wp1_I i1_E
+suýt suýt S_B wp5b_I i5b_I t5b_E
+suối suối S_B uo5a_I j5a_E
+suốt suốt S_B uo5b_I t5b_E
+sài sài S_B a2_I j2_E
+sàn sàn S_B a2_I n2_E
+sách sách S_B E_X5b_I k5b_E
+sáng sáng S_B a5a_I N5a_E
+sánh sánh S_B E_X5a_I J5a_E
+sát sát S_B a5b_I t5b_E
+sáu sáu S_B a_X5a_I w5a_E
+sâu sâu S_B 7_X1_I w1_E
+sòng sòng S_B O_X2_I Nm2_E
+sóng sóng S_B O_X5a_I Nm5a_E
+sót sót S_B O5b_I t5b_E
+sôi sôi S_B o1_I j1_E
+sông sông S_B o1_I Nm1_E
+sõng sõng S_B O_X4_I Nm4_E
+sút sút S_B u5b_I t5b_E
+sĩ sĩ S_B i4_E
+sơ sơ S_B 71_E
+sơn sơn S_B 71_I n1_E
+sư sư S_B M1_E
+sưa sưa S_B M71_E
+sương sương S_B M71_I N1_E
+sướng sướng S_B M75a_I N5a_E
+sườn sườn S_B M72_I n2_E
+sạch sạch S_B E_X6b_I k6b_E
+sạn sạn S_B a6a_I n6a_E
+sản sản S_B a3_I n3_E
+sảng sảng S_B a3_I N3_E
+sầm sầm S_B 7_X2_I m2_E
+sầu sầu S_B 7_X2_I w2_E
+sậm sậm S_B 7_X6a_I m6a_E
+sập sập S_B 7_X6b_I p6b_E
+sắc sắc S_B a_X5b_I k5b_E
+sắng sắng S_B a_X5a_I N5a_E
+sắp sắp S_B a_X5b_I p5b_E
+sẽ sẽ S_B E4_E
+sệt sệt S_B e6b_I t6b_E
+số số S_B o5a_E
+sống sống S_B o5a_I Nm5a_E
+sốt sốt S_B o5b_I t5b_E
+sột sột S_B o6b_I t6b_E
+sớm sớm S_B 75a_I m5a_E
+sở sở S_B 73_E
+sợ sợ S_B 76a_E
+sợi sợi S_B 76a_I j6a_E
+sụp sụp S_B u6b_I p6b_E
+sụt sụt S_B u6b_I t6b_E
+sứ sứ S_B M5a_E
+sứa sứa S_B M75a_E
+sức sức S_B M5b_I k5b_E
+sử sử S_B M3_E
+sữa sữa S_B M74_E
+sự sự S_B M6a_E
+t t t_S
+ta ta t_B a1_E
+tam tam t_B a1_I m1_E
+tan tan t_B a1_I n1_E
+tang tang t_B a1_I N1_E
+tanh tanh t_B E_X1_I J1_E
+tao tao t_B a1_I w1_E
+tay tay t_B a_X1_I j1_E
+tha tha t_h_B a1_E
+thai thai t_h_B a1_I j1_E
+tham tham t_h_B a1_I m1_E
+thang thang t_h_B a1_I N1_E
+thanh thanh t_h_B E_X1_I J1_E
+thao thao t_h_B a1_I w1_E
+thay thay t_h_B a_X1_I j1_E
+theo theo t_h_B E1_I w1_E
+thi thi t_h_B i1_E
+thiên thiên t_h_B ie1_I n1_E
+thiêu thiêu t_h_B ie1_I w1_E
+thiết thiết t_h_B ie5b_I t5b_E
+thiếu thiếu t_h_B ie5a_I w5a_E
+thiểu thiểu t_h_B ie3_I w3_E
+thiện thiện t_h_B ie6a_I n6a_E
+thiệp thiệp t_h_B ie6b_I p6b_E
+thiệt thiệt t_h_B ie6b_I t6b_E
+tho tho t_h_B O1_E
+thoáng thoáng t_h_B wp5a_I a5a_I N5a_E
+thoát thoát t_h_B wp5b_I a5b_I t5b_E
+thoại thoại t_h_B wp6a_I a6a_I j6a_E
+thoả thoả t_h_B wp3_I a3_E
+thu thu t_h_B u1_E
+thuyết thuyết t_h_B wp5b_I ie5b_I t5b_E
+thuần thuần t_h_B wp2_I 7_X2_I n2_E
+thuẫn thuẫn t_h_B wp4_I 7_X4_I n4_E
+thuận thuận t_h_B wp6a_I 7_X6a_I n6a_E
+thuật thuật t_h_B wp6b_I 7_X6b_I t6b_E
+thuế thuế t_h_B wp5a_I e5a_E
+thuốc thuốc t_h_B uo5b_I k5b_E
+thuộc thuộc t_h_B uo6b_I k6b_E
+thuỳ thuỳ t_h_B wp2_I i2_E
+thuỷ thuỷ t_h_B wp3_I i3_E
+thy thy t_h_B i1_E
+thành thành t_h_B E_X2_I J2_E
+thác thác t_h_B a5b_I k5b_E
+thách thách t_h_B E_X5b_I k5b_E
+thái thái t_h_B a5a_I j5a_E
+tháng tháng t_h_B a5a_I N5a_E
+thánh thánh t_h_B E_X5a_I J5a_E
+tháp tháp t_h_B a5b_I p5b_E
+thân thân t_h_B 7_X1_I n1_E
+thèm thèm t_h_B E2_I m2_E
+thép thép t_h_B E5b_I p5b_E
+thê thê t_h_B e1_E
+thêm thêm t_h_B e1_I m1_E
+thêu thêu t_h_B e1_I w1_E
+thì thì t_h_B i2_E
+thìa thìa t_h_B ie2_E
+thình thình t_h_B i2_I J2_E
+thí thí t_h_B i5a_E
+thích thích t_h_B i5b_I k5b_E
+thín thín t_h_B i5a_I n5a_E
+thôi thôi t_h_B o1_I j1_E
+thôn thôn t_h_B o1_I n1_E
+thông thông t_h_B o1_I Nm1_E
+thõng thõng t_h_B O_X4_I Nm4_E
+thù thù t_h_B u2_E
+thúc thúc t_h_B u5b_I kp5b_E
+thăm thăm t_h_B a_X1_I m1_E
+thăng thăng t_h_B a_X1_I N1_E
+thơ thơ t_h_B 71_E
+thơm thơm t_h_B 71_I m1_E
+thư thư t_h_B M1_E
+thưa thưa t_h_B M71_E
+thương thương t_h_B M71_I N1_E
+thường thường t_h_B M72_I N2_E
+thưởng thưởng t_h_B M73_I N3_E
+thượng thượng t_h_B M76a_I N6a_E
+thạch thạch t_h_B E_X6b_I k6b_E
+thả thả t_h_B a3_E
+thấp thấp t_h_B 7_X5b_I p5b_E
+thất thất t_h_B 7_X5b_I t5b_E
+thấy thấy t_h_B 7_X5a_I j5a_E
+thần thần t_h_B 7_X2_I n2_E
+thầy thầy t_h_B 7_X2_I j2_E
+thẩm thẩm t_h_B 7_X3_I m3_E
+thậm thậm t_h_B 7_X6a_I m6a_E
+thập thập t_h_B 7_X6b_I p6b_E
+thật thật t_h_B 7_X6b_I t6b_E
+thắc thắc t_h_B a_X5b_I k5b_E
+thắm thắm t_h_B a_X5a_I m5a_E
+thắng thắng t_h_B a_X5a_I N5a_E
+thằng thằng t_h_B a_X2_I N2_E
+thẳm thẳm t_h_B a_X3_I m3_E
+thẳng thẳng t_h_B a_X3_I N3_E
+thẽ thẽ t_h_B E4_E
+thế thế t_h_B e5a_E
+thể thể t_h_B e3_E
+thị thị t_h_B i6a_E
+thịt thịt t_h_B i6b_I t6b_E
+thọc thọc t_h_B O_X6b_I kp6b_E
+thọt thọt t_h_B O6b_I t6b_E
+thỏ thỏ t_h_B O3_E
+thống thống t_h_B o5a_I Nm5a_E
+thốt thốt t_h_B o5b_I t5b_E
+thổi thổi t_h_B o3_I j3_E
+thờ thờ t_h_B 72_E
+thời thời t_h_B 72_I j2_E
+thở thở t_h_B 73_E
+thợ thợ t_h_B 76a_E
+thụ thụ t_h_B u6a_E
+thục thục t_h_B u6b_I kp6b_E
+thủ thủ t_h_B u3_E
+thủng thủng t_h_B u3_I Nm3_E
+thứ thứ t_h_B M5a_E
+thức thức t_h_B M5b_I k5b_E
+thừ thừ t_h_B M2_E
+thừa thừa t_h_B M72_E
+thử thử t_h_B M3_E
+thực thực t_h_B M6b_I k6b_E
+ti ti t_B i1_E
+tim tim t_B i1_I m1_E
+tin tin t_B i1_I n1_E
+tinh tinh t_B i1_I J1_E
+tiên tiên t_B ie1_I n1_E
+tiêu tiêu t_B ie1_I w1_E
+tiếc tiếc t_B ie5b_I k5b_E
+tiến tiến t_B ie5a_I n5a_E
+tiếng tiếng t_B ie5a_I N5a_E
+tiếp tiếp t_B ie5b_I p5b_E
+tiết tiết t_B ie5b_I t5b_E
+tiềm tiềm t_B ie2_I m2_E
+tiền tiền t_B ie2_I n2_E
+tiểu tiểu t_B ie3_I w3_E
+tiễn tiễn t_B ie4_I n4_E
+tiệc tiệc t_B ie6b_I k6b_E
+tiện tiện t_B ie6a_I n6a_E
+to to t_B O1_E
+toà toà t_B wp2_I a2_E
+toàn toàn t_B wp2_I a2_I n2_E
+toán toán t_B wp5a_I a5a_I n5a_E
+tra tra tS_B a1_E
+trai trai tS_B a1_I j1_E
+tran tran tS_B a1_I n1_E
+trang trang tS_B a1_I N1_E
+tranh tranh tS_B E_X1_I J1_E
+treo treo tS_B E1_I w1_E
+tri tri tS_B i1_E
+trinh trinh tS_B i1_I J1_E
+triều triều tS_B ie2_I w2_E
+triển triển tS_B ie3_I n3_E
+triệu triệu tS_B ie6a_I w6a_E
+trong trong tS_B O_X1_I Nm1_E
+trung trung tS_B u1_I Nm1_E
+truy truy tS_B wp1_I i1_E
+truyền truyền tS_B wp2_I ie2_I n2_E
+trà trà tS_B a2_E
+tràn tràn tS_B a2_I n2_E
+trào trào tS_B a2_I w2_E
+trách trách tS_B E_X5b_I k5b_E
+tránh tránh tS_B E_X5a_I J5a_E
+trân trân tS_B 7_X1_I n1_E
+trãi trãi tS_B a4_I j4_E
+trên trên tS_B e1_I n1_E
+trì trì tS_B i2_E
+trình trình tS_B i2_I J2_E
+trí trí tS_B i5a_E
+trò trò tS_B O2_E
+tròn tròn tS_B O2_I n2_E
+trôi trôi tS_B o1_I j1_E
+trông trông tS_B o1_I Nm1_E
+trùn trùn tS_B u2_I n2_E
+trùng trùng tS_B u2_I Nm2_E
+trúc trúc tS_B u5b_I kp5b_E
+trúng trúng tS_B u5a_I Nm5a_E
+trút trút tS_B u5b_I t5b_E
+trăm trăm tS_B a_X1_I m1_E
+trăn trăn tS_B a_X1_I n1_E
+trưa trưa tS_B M71_E
+trưng trưng tS_B M1_I N1_E
+trương trương tS_B M71_I N1_E
+trước trước tS_B M75b_I k5b_E
+trường trường tS_B M72_I N2_E
+trưởng trưởng tS_B M73_I N3_E
+trại trại tS_B a6a_I j6a_E
+trạm trạm tS_B a6a_I m6a_E
+trạng trạng tS_B a6a_I N6a_E
+trả trả tS_B a3_E
+trải trải tS_B a3_I j3_E
+trảng trảng tS_B a3_I N3_E
+trấn trấn tS_B 7_X5a_I n5a_E
+trần trần tS_B 7_X2_I n2_E
+trầy trầy tS_B 7_X2_I j2_E
+trận trận tS_B 7_X6a_I n6a_E
+trật trật tS_B 7_X6b_I t6b_E
+trắc trắc tS_B a_X5b_I k5b_E
+trắng trắng tS_B a_X5a_I N5a_E
+trẻ trẻ tS_B E3_E
+trệ trệ tS_B e6a_E
+trị trị tS_B i6a_E
+trịnh trịnh tS_B i6a_I J6a_E
+trọ trọ tS_B O6a_E
+trọng trọng tS_B O_X6a_I Nm6a_E
+trốn trốn tS_B o5a_I n5a_E
+trộm trộm tS_B o6a_I m6a_E
+trộn trộn tS_B o6a_I n6a_E
+trời trời tS_B 72_I j2_E
+trở trở tS_B 73_E
+trợ trợ tS_B 76a_E
+trụ trụ tS_B u6a_E
+trứng trứng tS_B M5a_I N5a_E
+trừ trừ tS_B M2_E
+trừng trừng tS_B M2_I N2_E
+trừu trừu tS_B M2_I w2_E
+trữ trữ tS_B M4_E
+trực trực tS_B M6b_I k6b_E
+tui tui t_B u1_I j1_E
+tung tung t_B u1_I Nm1_E
+tuy tuy t_B wp1_I i1_E
+tuyên tuyên t_B wp1_I ie1_I n1_E
+tuyến tuyến t_B wp5a_I ie5a_I n5a_E
+tuyền tuyền t_B wp2_I ie2_I n2_E
+tuyển tuyển t_B wp3_I ie3_I n3_E
+tuyệt tuyệt t_B wp6b_I ie6b_I t6b_E
+tuần tuần t_B wp2_I 7_X2_I n2_E
+tuệ tuệ t_B wp6a_I e6a_E
+tuổi tuổi t_B uo3_I j3_E
+tuỳ tuỳ t_B wp2_I i2_E
+ty ty t_B i1_E
+tài tài t_B a2_I j2_E
+tàn tàn t_B a2_I n2_E
+tàng tàng t_B a2_I N2_E
+tàu tàu t_B a_X2_I w2_E
+tá tá t_B a5a_E
+tác tác t_B a5b_I k5b_E
+tách tách t_B E_X5b_I k5b_E
+tám tám t_B a5a_I m5a_E
+tán tán t_B a5a_I n5a_E
+táng táng t_B a5a_I N5a_E
+táo táo t_B a5a_I w5a_E
+táy táy t_B a_X5a_I j5a_E
+tâm tâm t_B 7_X1_I m1_E
+tân tân t_B 7_X1_I n1_E
+tây tây t_B 7_X1_I j1_E
+tê tê t_B e1_E
+tên tên t_B e1_I n1_E
+tì tì t_B i2_E
+tìm tìm t_B i2_I m2_E
+tình tình t_B i2_I J2_E
+tí tí t_B i5a_E
+tích tích t_B i5b_I k5b_E
+tím tím t_B i5a_I m5a_E
+tín tín t_B i5a_I n5a_E
+tính tính t_B i5a_I J5a_E
+tít tít t_B i5b_I t5b_E
+tíu tíu t_B i5a_I w5a_E
+tòng tòng t_B O_X2_I Nm2_E
+tóc tóc t_B O_X5b_I kp5b_E
+tóm tóm t_B O5a_I m5a_E
+tô tô t_B o1_E
+tôi tôi t_B o1_I j1_E
+tôm tôm t_B o1_I m1_E
+tôn tôn t_B o1_I n1_E
+tù tù t_B u2_E
+tú tú t_B u5a_E
+túi túi t_B u5a_I j5a_E
+túm túm t_B u5a_I m5a_E
+tăng tăng t_B a_X1_I N1_E
+tĩnh tĩnh t_B i4_I J4_E
+tơi tơi t_B 71_I j1_E
+tư tư t_B M1_E
+tươi tươi t_B M71_I j1_E
+tương tương t_B M71_I N1_E
+tước tước t_B M75b_I k5b_E
+tưởng tưởng t_B M73_I N3_E
+tượng tượng t_B M76a_I N6a_E
+tạ tạ t_B a6a_E
+tạc tạc t_B a6b_I k6b_E
+tại tại t_B a6a_I j6a_E
+tạm tạm t_B a6a_I m6a_E
+tạo tạo t_B a6a_I w6a_E
+tạp tạp t_B a6b_I p6b_E
+tả tả t_B a3_E
+tải tải t_B a3_I j3_E
+tản tản t_B a3_I n3_E
+tảng tảng t_B a3_I N3_E
+tấm tấm t_B 7_X5a_I m5a_E
+tấn tấn t_B 7_X5a_I n5a_E
+tất tất t_B 7_X5b_I t5b_E
+tầm tầm t_B 7_X2_I m2_E
+tầng tầng t_B 7_X2_I N2_E
+tẩu tẩu t_B 7_X3_I w3_E
+tận tận t_B 7_X6a_I n6a_E
+tập tập t_B 7_X6b_I p6b_E
+tắc tắc t_B a_X5b_I k5b_E
+tẹo tẹo t_B E6a_I w6a_E
+tế tế t_B e5a_E
+tết tết t_B e5b_I t5b_E
+tệ tệ t_B e6a_E
+tỉa tỉa t_B ie3_E
+tỉnh tỉnh t_B i3_I J3_E
+tịch tịch t_B i6b_I k6b_E
+tọc tọc t_B O_X6b_I kp6b_E
+tỏ tỏ t_B O3_E
+tỏi tỏi t_B O3_I j3_E
+tố tố t_B o5a_E
+tốc tốc t_B o5b_I kp5b_E
+tối tối t_B o5a_I j5a_E
+tốn tốn t_B o5a_I n5a_E
+tốt tốt t_B o5b_I t5b_E
+tồi tồi t_B o2_I j2_E
+tồn tồn t_B o2_I n2_E
+tổ tổ t_B o3_E
+tổn tổn t_B o3_I n3_E
+tổng tổng t_B o3_I Nm3_E
+tộc tộc t_B o6b_I kp6b_E
+tội tội t_B o6a_I j6a_E
+tớ tớ t_B 75a_E
+tới tới t_B 75a_I j5a_E
+tờ tờ t_B 72_E
+tời tời t_B 72_I j2_E
+tục tục t_B u6b_I kp6b_E
+tụi tụi t_B u6a_I j6a_E
+tủ tủ t_B u3_E
+tứ tứ t_B M5a_E
+tức tức t_B M5b_I k5b_E
+từ từ t_B M2_E
+từng từng t_B M2_I N2_E
+tử tử t_B M3_E
+tửu tửu t_B M3_I w3_E
+tự tự t_B M6a_E
+tựt tựt t_B M6b_I t6b_E
+tựu tựu t_B M6a_I w6a_E
+u u u1_S
+um um u1_B m1_E
+ung ung u1_B Nm1_E
+uy uy wp_B i1_E
+uý uý wp_B i5a_E
+uýnh uýnh wp_B i5a_I J5a_E
+uất uất wp_B 7_X5b_I t5b_E
+uốn uốn uo5a_B n5a_E
+uống uống uo5a_B N5a_E
+uổng uổng uo3_B N3_E
+uỷ uỷ wp_B i3_E
+v v v_S
+vai vai v_B a1_I j1_E
+vang vang v_B a1_I N1_E
+veo veo v_B E1_I w1_E
+vi vi v_B i1_E
+vinh vinh v_B i1_I J1_E
+viêm viêm v_B ie1_I m1_E
+viên viên v_B ie1_I n1_E
+viết viết v_B ie5b_I t5b_E
+viễn viễn v_B ie4_I n4_E
+việc việc v_B ie6b_I k6b_E
+viện viện v_B ie6a_I n6a_E
+việt việt v_B ie6b_I t6b_E
+vong vong v_B O_X1_I Nm1_E
+vua vua v_B uo1_E
+vui vui v_B u1_I j1_E
+vung vung v_B u1_I Nm1_E
+và và v_B a2_E
+vài vài v_B a2_I j2_E
+vàng vàng v_B a2_I N2_E
+vào vào v_B a2_I w2_E
+váy váy v_B a_X5a_I j5a_E
+vân vân v_B 7_X1_I n1_E
+vâng vâng v_B 7_X1_I N1_E
+vây vây v_B 7_X1_I j1_E
+vãnh vãnh v_B E_X4_I J4_E
+vê vê v_B e1_E
+vì vì v_B i2_E
+vòi vòi v_B O2_I j2_E
+vòng vòng v_B O_X2_I Nm2_E
+vô vô v_B o1_E
+võ võ v_B O4_E
+võng võng v_B O_X4_I Nm4_E
+vùng vùng v_B u2_I Nm2_E
+vú vú v_B u5a_E
+văn văn v_B a_X1_I n1_E
+vĩnh vĩnh v_B i4_I J4_E
+vũ vũ v_B u4_E
+vũng vũng v_B u4_I Nm4_E
+vơ vơ v_B 71_E
+vơi vơi v_B 71_I j1_E
+vương vương v_B M71_I N1_E
+vượt vượt v_B M76b_I t6b_E
+vạm vạm v_B a6a_I m6a_E
+vải vải v_B a3_I j3_E
+vấn vấn v_B 7_X5a_I n5a_E
+vầng vầng v_B 7_X2_I N2_E
+vẫn vẫn v_B 7_X4_I n4_E
+vận vận v_B 7_X6a_I n6a_E
+vật vật v_B 7_X6b_I t6b_E
+vậy vậy v_B 7_X6a_I j6a_E
+vặn vặn v_B a_X6a_I n6a_E
+vặt vặt v_B a_X6b_I t6b_E
+vẻ vẻ v_B E3_E
+vẽ vẽ v_B E4_E
+về về v_B e2_E
+vệ vệ v_B e6a_E
+vị vị v_B i6a_E
+vọng vọng v_B O_X6a_I Nm6a_E
+vọt vọt v_B O6b_I t6b_E
+vỏ vỏ v_B O3_E
+vốn vốn v_B o5a_I n5a_E
+vội vội v_B o6a_I j6a_E
+với với v_B 75a_I j5a_E
+vời vời v_B 72_I j2_E
+vỡ vỡ v_B 74_E
+vợ vợ v_B 76a_E
+vụ vụ v_B u6a_E
+vừa vừa v_B M72_E
+vững vững v_B M4_I N4_E
+vực vực v_B M6b_I k6b_E
+x x s_S
+xa xa s_B a1_E
+xanh xanh s_B E_X1_I J1_E
+xe xe s_B E1_E
+xem xem s_B E1_I m1_E
+xi xi s_B i1_E
+xin xin s_B i1_I n1_E
+xiên xiên s_B ie1_I n1_E
+xoa xoa s_B wp1_I a1_E
+xong xong s_B O_X1_I Nm1_E
+xoè xoè s_B wp2_I E2_E
+xoẹt xoẹt s_B wp6b_I E6b_I t6b_E
+xu xu s_B u1_E
+xung xung s_B u1_I Nm1_E
+xuyên xuyên s_B wp1_I ie1_I n1_E
+xuân xuân s_B wp1_I 7_X1_I n1_E
+xuất xuất s_B wp5b_I 7_X5b_I t5b_E
+xuống xuống s_B uo5a_I N5a_E
+xà xà s_B a2_E
+xàm xàm s_B a2_I m2_E
+xào xào s_B a2_I w2_E
+xá xá s_B a5a_E
+xác xác s_B a5b_I k5b_E
+xâm xâm s_B 7_X1_I m1_E
+xây xây s_B 7_X1_I j1_E
+xã xã s_B a4_E
+xét xét s_B E5b_I t5b_E
+xê xê s_B e1_E
+xì xì s_B i2_E
+xía xía s_B ie5a_E
+xóm xóm s_B O5a_I m5a_E
+xô xô s_B o1_E
+xúc xúc s_B u5b_I kp5b_E
+xăm xăm s_B a_X1_I m1_E
+xăng xăng s_B a_X1_I N1_E
+xơ xơ s_B 71_E
+xưa xưa s_B M71_E
+xưng xưng s_B M1_I N1_E
+xương xương s_B M71_I N1_E
+xước xước s_B M75b_I k5b_E
+xướng xướng s_B M75a_I N5a_E
+xảy xảy s_B a_X3_I j3_E
+xấu xấu s_B 7_X5a_I w5a_E
+xế xế s_B e5a_E
+xếp xếp s_B e5b_I p5b_E
+xứ xứ s_B M5a_E
+xứng xứng s_B M5a_I N5a_E
+xử xử s_B M3_E
+y y i1_S
+yên yên ie1_B n1_E
+yêu yêu ie1_B w1_E
+yết yết ie5b_B t5b_E
+yếu yếu ie5a_B w5a_E
+yểm yểm ie3_B m3_E
+à à a2_S
+ào ào a2_B w2_E
+á á a5a_S
+ác ác a5b_B k5b_E
+ách ách E_X5b_B k5b_E
+ái ái a5a_B j5a_E
+án án a5a_B n5a_E
+ánh ánh E_X5a_B J5a_E
+áo áo a5a_B w5a_E
+áp áp a5b_B p5b_E
+áy áy a_X5a_B j5a_E
+âm âm 7_X1_B m1_E
+ân ân 7_X1_B n1_E
+âu âu 7_X1_B w1_E
+ém ém E5a_B m5a_E
+ép ép E5b_B p5b_E
+ét ét E5b_B t5b_E
+ê ê e1_S
+êm êm e1_B m1_E
+ì ì i2_S
+ích ích i5b_B k5b_E
+ít ít i5b_B t5b_E
+ò ò O2_S
+ó ó O5a_S
+óc óc O_X5b_B kp5b_E
+ói ói O5a_B j5a_E
+óng óng O_X5a_B Nm5a_E
+ô ô o1_S
+ôm ôm o1_B m1_E
+ông ông o1_B Nm1_E
+ù ù u2_S
+ùm ùm u2_B m2_E
+ùn ùn u2_B n2_E
+ùng ùng u2_B Nm2_E
+úi úi u5a_B j5a_E
+úng úng u5a_B Nm5a_E
+úp úp u5b_B p5b_E
+út út u5b_B t5b_E
+ý ý i5a_S
+ăn ăn a_X1_B n1_E
+đa đa d_B a1_E
+đai đai d_B a1_I j1_E
+đang đang d_B a1_I N1_E
+đau đau d_B a_X1_I w1_E
+đem đem d_B E1_I m1_E
+đen đen d_B E1_I n1_E
+đeo đeo d_B E1_I w1_E
+đi đi d_B i1_E
+điền điền d_B ie2_I n2_E
+điều điều d_B ie2_I w2_E
+điểm điểm d_B ie3_I m3_E
+điện điện d_B ie6a_I n6a_E
+điệu điệu d_B ie6a_I w6a_E
+đoan đoan d_B wp1_I a1_I n1_E
+đoàn đoàn d_B wp2_I a2_I n2_E
+đoá đoá d_B wp5a_I a5a_E
+đoạn đoạn d_B wp6a_I a6a_I n6a_E
+đoạt đoạt d_B wp6b_I a6b_I t6b_E
+đuôi đuôi d_B uo1_I j1_E
+đà đà d_B a2_E
+đài đài d_B a2_I j2_E
+đàn đàn d_B a2_I n2_E
+đào đào d_B a2_I w2_E
+đày đày d_B a_X2_I j2_E
+đá đá d_B a5a_E
+đác đác d_B a5b_I k5b_E
+đám đám d_B a5a_I m5a_E
+đáng đáng d_B a5a_I N5a_E
+đánh đánh d_B E_X5a_I J5a_E
+đáp đáp d_B a5b_I p5b_E
+đâm đâm d_B 7_X1_I m1_E
+đâu đâu d_B 7_X1_I w1_E
+đây đây d_B 7_X1_I j1_E
+đã đã d_B a4_E
+đãi đãi d_B a4_I j4_E
+đèn đèn d_B E2_I n2_E
+đéc đéc d_B E5b_I k5b_E
+đêm đêm d_B e1_I m1_E
+đình đình d_B i2_I J2_E
+đích đích d_B i5b_I k5b_E
+đòi đòi d_B O2_I j2_E
+đó đó d_B O5a_E
+đói đói d_B O5a_I j5a_E
+đón đón d_B O5a_I n5a_E
+đóng đóng d_B O_X5a_I Nm5a_E
+đô đô d_B o1_E
+đôi đôi d_B o1_I j1_E
+đông đông d_B o1_I Nm1_E
+đùa đùa d_B uo2_E
+đúng đúng d_B u5a_I Nm5a_E
+đăng đăng d_B a_X1_I N1_E
+đĩ đĩ d_B i4_E
+đĩa đĩa d_B ie4_E
+đũa đũa d_B uo4_E
+đơn đơn d_B 71_I n1_E
+đưa đưa d_B M71_E
+đương đương d_B M71_I N1_E
+đường đường d_B M72_I N2_E
+được được d_B M76b_I k6b_E
+đại đại d_B a6a_I j6a_E
+đạo đạo d_B a6a_I w6a_E
+đạp đạp d_B a6b_I p6b_E
+đạt đạt d_B a6b_I t6b_E
+đảm đảm d_B a3_I m3_E
+đảng đảng d_B a3_I N3_E
+đảnh đảnh d_B E_X3_I J3_E
+đất đất d_B 7_X5b_I t5b_E
+đấu đấu d_B 7_X5a_I w5a_E
+đấy đấy d_B 7_X5a_I j5a_E
+đầu đầu d_B 7_X2_I w2_E
+đầy đầy d_B 7_X2_I j2_E
+đẩy đẩy d_B 7_X3_I j3_E
+đậm đậm d_B 7_X6a_I m6a_E
+đập đập d_B 7_X6b_I p6b_E
+đậy đậy d_B 7_X6a_I j6a_E
+đắc đắc d_B a_X5b_I k5b_E
+đắng đắng d_B a_X5a_I N5a_E
+đắp đắp d_B a_X5b_I p5b_E
+đằng đằng d_B a_X2_I N2_E
+đặc đặc d_B a_X6b_I k6b_E
+đặt đặt d_B a_X6b_I t6b_E
+đẹn đẹn d_B E6a_I n6a_E
+đẹp đẹp d_B E6b_I p6b_E
+đẻ đẻ d_B E3_E
+đế đế d_B e5a_E
+đến đến d_B e5a_I n5a_E
+đề đề d_B e2_E
+đềm đềm d_B e2_I m2_E
+đền đền d_B e2_I n2_E
+đều đều d_B e2_I w2_E
+để để d_B e3_E
+đệ đệ d_B e6a_E
+địa địa d_B ie6a_E
+địch địch d_B i6b_I k6b_E
+định định d_B i6a_I J6a_E
+đọc đọc d_B O_X6b_I kp6b_E
+đỏ đỏ d_B O3_E
+đốc đốc d_B o5b_I kp5b_E
+đối đối d_B o5a_I j5a_E
+đốt đốt d_B o5b_I t5b_E
+đồ đồ d_B o2_E
+đồi đồi d_B o2_I j2_E
+đồn đồn d_B o2_I n2_E
+đồng đồng d_B o2_I Nm2_E
+đổ đổ d_B o3_E
+đổi đổi d_B o3_I j3_E
+đổng đổng d_B o3_I Nm3_E
+độ độ d_B o6a_E
+độc độc d_B o6b_I kp6b_E
+đội đội d_B o6a_I j6a_E
+độn độn d_B o6a_I n6a_E
+động động d_B o6a_I Nm6a_E
+đột đột d_B o6b_I t6b_E
+đới đới d_B 75a_I j5a_E
+đớn đớn d_B 75a_I n5a_E
+đớt đớt d_B 75b_I t5b_E
+đời đời d_B 72_I j2_E
+đờm đờm d_B 72_I m2_E
+đợi đợi d_B 76a_I j6a_E
+đủ đủ d_B u3_E
+đứa đứa d_B M75a_E
+đức đức d_B M5b_I k5b_E
+đứng đứng d_B M5a_I N5a_E
+đừng đừng d_B M2_I N2_E
+ơ ơ 71_S
+ơi ơi 71_B j1_E
+ơn ơn 71_B n1_E
+ư ư M1_S
+ưng ưng M1_B N1_E
+ưu ưu M1_B w1_E
+ươm ươm M71_B m1_E
+ương ương M71_B N1_E
+ước ước M75b_B k5b_E
+ướp ướp M75b_B p5b_E
+ướt ướt M75b_B t5b_E
+ạ ạ a6a_S
+ạch ạch E_X6b_B k6b_E
+ải ải a3_B j3_E
+ảnh ảnh E_X3_B J3_E
+ảo ảo a3_B w3_E
+ấm ấm 7_X5a_B m5a_E
+ấn ấn 7_X5a_B n5a_E
+ấp ấp 7_X5b_B p5b_E
+ấy ấy 7_X5a_B j5a_E
+ầm ầm 7_X2_B m2_E
+ẩm ẩm 7_X3_B m3_E
+ẩn ẩn 7_X3_B n3_E
+ẩu ẩu 7_X3_B w3_E
+ập ập 7_X6b_B p6b_E
+ắt ắt a_X5b_B t5b_E
+ếch ếch e5b_B k5b_E
+ễnh ễnh e4_B J4_E
+ỉ ỉ i3_S
+ỉa ỉa ie3_S
+ốc ốc o5b_B kp5b_E
+ốm ốm o5a_B m5a_E
+ống ống o5a_B Nm5a_E
+ốp ốp o5b_B p5b_E
+ồm ồm o2_B m2_E
+ồn ồn o2_B n2_E
+ổi ổi o3_B j3_E
+ổn ổn o3_B n3_E
+ổng ổng o3_B Nm3_E
+ớ ớ 75a_S
+ớt ớt 75b_B t5b_E
+ờ ờ 72_S
+ở ở 73_S
+ủ ủ u3_S
+ủa ủa uo3_S
+ủi ủi u3_B j3_E
+ủn ủn u3_B n3_E
+ủng ủng u3_B Nm3_E
+ức ức M5b_B k5b_E
+ứng ứng M5a_B N5a_E
+ừ ừ M2_S
+ừm ừm M2_B m2_E
+ực ực M6b_B k6b_E
+ỷ ỷ i3_S

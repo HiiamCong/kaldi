@@ -1,0 +1,2024 @@
+!SIL 1.0	SIL
+<UNK> 1.0	spn
+a 1.0	a1
+ai 1.0	a1 j1
+an 1.0	a1 n1
+anh 1.0	E_X1 J1
+b 1.0	b
+ba 1.0	b a1
+ban 1.0	b a1 n1
+bao 1.0	b a1 w1
+bay 1.0	b a_X1 j1
+bi 1.0	b i1
+bia 1.0	b ie1
+bin 1.0	b i1 n1
+binh 1.0	b i1 J1
+biên 1.0	b ie1 n1
+biến 1.0	b ie5a n5a
+biết 1.0	b ie5b t5b
+biển 1.0	b ie3 n3
+biểu 1.0	b ie3 w3
+biện 1.0	b ie6a n6a
+biệt 1.0	b ie6b t6b
+bon 1.0	b O1 n1
+buông 1.0	b uo1 N1
+buồn 1.0	b uo2 n2
+buổi 1.0	b uo3 j3
+bà 1.0	b a2
+bài 1.0	b a2 j2
+bàn 1.0	b a2 n2
+bàng 1.0	b a2 N2
+bào 1.0	b a2 w2
+bày 1.0	b a_X2 j2
+bác 1.0	b a5b k5b
+bách 1.0	b E_X5b k5b
+bán 1.0	b a5a n5a
+bánh 1.0	b E_X5a J5a
+báo 1.0	b a5a w5a
+bây 1.0	b 7_X1 j1
+bã 1.0	b a4
+bãi 1.0	b a4 j4
+bè 1.0	b E2
+bé 1.0	b E5a
+béo 1.0	b E5a w5a
+bê 1.0	b e1
+bên 1.0	b e1 n1
+bì 1.0	b i2
+bình 1.0	b i2 J2
+bí 1.0	b i5a
+bính 1.0	b i5a J5a
+bò 1.0	b O2
+bó 1.0	b O5a
+bón 1.0	b O5a n5a
+bóng 1.0	b O_X5a Nm5a
+bô 1.0	b o1
+bông 1.0	b o1 Nm1
+bõm 1.0	b O4 m4
+bù 1.0	b u2
+bùng 1.0	b u2 Nm2
+bú 1.0	b u5a
+búp 1.0	b u5b p5b
+bút 1.0	b u5b t5b
+băm 1.0	b a_X1 m1
+băng 1.0	b a_X1 N1
+bơm 1.0	b 71 m1
+bước 1.0	b M75b k5b
+bướng 1.0	b M75a N5a
+bạc 1.0	b a6b k6b
+bạch 1.0	b E_X6b k6b
+bạn 1.0	b a6a n6a
+bạo 1.0	b a6a w6a
+bản 1.0	b a3 n3
+bảng 1.0	b a3 N3
+bảo 1.0	b a3 w3
+bảy 1.0	b a_X3 j3
+bất 1.0	b 7_X5b t5b
+bấy 1.0	b 7_X5a j5a
+bần 1.0	b 7_X2 n2
+bầu 1.0	b 7_X2 w2
+bẩm 1.0	b 7_X3 m3
+bẩn 1.0	b 7_X3 n3
+bật 1.0	b 7_X6b t6b
+bắc 1.0	b a_X5b k5b
+bắt 1.0	b a_X5b t5b
+bằm 1.0	b a_X2 m2
+bằng 1.0	b a_X2 N2
+bẻ 1.0	b E3
+bến 1.0	b e5a n5a
+bề 1.0	b e2
+bền 1.0	b e2 n2
+bệnh 1.0	b e6a J6a
+bị 1.0	b i6a
+bịt 1.0	b i6b t6b
+bọ 1.0	b O6a
+bọn 1.0	b O6a n6a
+bọt 1.0	b O6b t6b
+bỏ 1.0	b O3
+bố 1.0	b o5a
+bốc 1.0	b o5b kp5b
+bối 1.0	b o5a j5a
+bốn 1.0	b o5a n5a
+bồi 1.0	b o2 j2
+bổ 1.0	b o3
+bỗng 1.0	b o4 Nm4
+bộ 1.0	b o6a
+bộc 1.0	b o6b kp6b
+bội 1.0	b o6a j6a
+bột 1.0	b o6b t6b
+bớ 1.0	b 75a
+bớt 1.0	b 75b t5b
+bờ 1.0	b 72
+bời 1.0	b 72 j2
+bởi 1.0	b 73 j3
+bụi 1.0	b u6a j6a
+bụng 1.0	b u6a Nm6a
+bức 1.0	b M5b k5b
+bực 1.0	b M6b k6b
+ca 1.0	k a1
+cam 1.0	k a1 m1
+can 1.0	k a1 n1
+canh 1.0	k E_X1 J1
+cao 1.0	k a1 w1
+cau 1.0	k a_X1 w1
+cay 1.0	k a_X1 j1
+cha 1.0	ts\ a1
+chai 1.0	ts\ a1 j1
+chanh 1.0	ts\ E_X1 J1
+che 1.0	ts\ E1
+chi 1.0	ts\ i1
+chia 1.0	ts\ ie1
+chim 1.0	ts\ i1 m1
+chinh 1.0	ts\ i1 J1
+chiếc 1.0	ts\ ie5b k5b
+chiếm 1.0	ts\ ie5a m5a
+chiến 1.0	ts\ ie5a n5a
+chiếu 1.0	ts\ ie5a w5a
+chiều 1.0	ts\ ie2 w2
+cho 1.0	ts\ O1
+choạng 1.0	ts\ wp6a a6a N6a
+chu 1.0	ts\ u1
+chua 1.0	ts\ uo1
+chung 1.0	ts\ u1 Nm1
+chuyên 1.0	ts\ wp1 ie1 n1
+chuyến 1.0	ts\ wp5a ie5a n5a
+chuyển 1.0	ts\ wp3 ie3 n3
+chuyện 1.0	ts\ wp6a ie6a n6a
+chuông 1.0	ts\ uo1 N1
+chuẩn 1.0	ts\ wp3 7_X3 n3
+chuối 1.0	ts\ uo5a j5a
+chài 1.0	ts\ a2 j2
+chàm 1.0	ts\ a2 m2
+chàng 1.0	ts\ a2 N2
+chào 1.0	ts\ a2 w2
+chán 1.0	ts\ a5a n5a
+cháu 1.0	ts\ a_X5a w5a
+châm 1.0	ts\ 7_X1 m1
+chân 1.0	ts\ 7_X1 n1
+châu 1.0	ts\ 7_X1 w1
+chém 1.0	ts\ E5a m5a
+chép 1.0	ts\ E5b p5b
+chênh 1.0	ts\ e1 J1
+chí 1.0	ts\ i5a
+chín 1.0	ts\ i5a n5a
+chính 1.0	ts\ i5a J5a
+chó 1.0	ts\ O5a
+chóc 1.0	ts\ O_X5b kp5b
+chóp 1.0	ts\ O5b p5b
+chôn 1.0	ts\ o1 n1
+chõng 1.0	ts\ O_X4 Nm4
+chùa 1.0	ts\ uo2
+chú 1.0	ts\ u5a
+chúa 1.0	ts\ uo5a
+chúng 1.0	ts\ u5a Nm5a
+chút 1.0	ts\ u5b t5b
+chăm 1.0	ts\ a_X1 m1
+chĩa 1.0	ts\ ie4
+chơi 1.0	ts\ 71 j1
+chưa 1.0	ts\ M71
+chưng 1.0	ts\ M1 N1
+chương 1.0	ts\ M71 N1
+chướng 1.0	ts\ M75a N5a
+chạch 1.0	ts\ E_X6b k6b
+chạm 1.0	ts\ a6a m6a
+chạp 1.0	ts\ a6b p6b
+chạy 1.0	ts\ a_X6a j6a
+chả 1.0	ts\ a3
+chảy 1.0	ts\ a_X3 j3
+chấm 1.0	ts\ 7_X5a m5a
+chấp 1.0	ts\ 7_X5b p5b
+chất 1.0	ts\ 7_X5b t5b
+chập 1.0	ts\ 7_X6b p6b
+chật 1.0	ts\ 7_X6b t6b
+chắc 1.0	ts\ a_X5b k5b
+chẳng 1.0	ts\ a_X3 N3
+chặt 1.0	ts\ a_X6b t6b
+chẽ 1.0	ts\ E4
+chế 1.0	ts\ e5a
+chết 1.0	ts\ e5b t5b
+chề 1.0	ts\ e2
+chỉ 1.0	ts\ i3
+chị 1.0	ts\ i6a
+chịu 1.0	ts\ i6a w6a
+chọn 1.0	ts\ O6a n6a
+chọt 1.0	ts\ O6b t6b
+chống 1.0	ts\ o5a Nm5a
+chồng 1.0	ts\ o2 Nm2
+chỗ 1.0	ts\ o4
+chớ 1.0	ts\ 75a
+chờ 1.0	ts\ 72
+chợ 1.0	ts\ 76a
+chợt 1.0	ts\ 76b t6b
+chủ 1.0	ts\ u3
+chủng 1.0	ts\ u3 Nm3
+chứ 1.0	ts\ M5a
+chức 1.0	ts\ M5b k5b
+chứng 1.0	ts\ M5a N5a
+chửng 1.0	ts\ M3 N3
+chữ 1.0	ts\ M4
+chữa 1.0	ts\ M74
+coi 1.0	k O1 j1
+con 1.0	k O1 n1
+cong 1.0	k O_X1 Nm1
+cu 1.0	k u1
+cua 1.0	k uo1
+cung 1.0	k u1 Nm1
+cuối 1.0	k uo5a j5a
+cuốn 1.0	k uo5a n5a
+cuộc 1.0	k uo6b k6b
+càn 1.0	k a2 n2
+càng 1.0	k a2 N2
+cành 1.0	k E_X2 J2
+cá 1.0	k a5a
+các 1.0	k a5b k5b
+cách 1.0	k E_X5b k5b
+cái 1.0	k a5a j5a
+cám 1.0	k a5a m5a
+cán 1.0	k a5a n5a
+cánh 1.0	k E_X5a J5a
+cáo 1.0	k a5a w5a
+cáp 1.0	k a5b p5b
+cát 1.0	k a5b t5b
+cáu 1.0	k a_X5a w5a
+cân 1.0	k 7_X1 n1
+câu 1.0	k 7_X1 w1
+cây 1.0	k 7_X1 j1
+cãi 1.0	k a4 j4
+cò 1.0	k O2
+còn 1.0	k O2 n2
+có 1.0	k O5a
+cóc 1.0	k O_X5b kp5b
+cót 1.0	k O5b t5b
+cô 1.0	k o1
+côn 1.0	k o1 n1
+công 1.0	k o1 Nm1
+cõi 1.0	k O4 j4
+cùng 1.0	k u2 Nm2
+cúi 1.0	k u5a j5a
+cúng 1.0	k u5a Nm5a
+cút 1.0	k u5b t5b
+căm 1.0	k a_X1 m1
+căn 1.0	k a_X1 n1
+căng 1.0	k a_X1 N1
+cũ 1.0	k u4
+cũng 1.0	k u4 Nm4
+cơ 1.0	k 71
+cơn 1.0	k 71 n1
+cưới 1.0	k M75a j5a
+cười 1.0	k M72 j2
+cường 1.0	k M72 N2
+cưỡng 1.0	k M74 N4
+cạn 1.0	k a6a n6a
+cạnh 1.0	k E_X6a J6a
+cạo 1.0	k a6a w6a
+cạp 1.0	k a6b p6b
+cả 1.0	k a3
+cải 1.0	k a3 j3
+cảm 1.0	k a3 m3
+cản 1.0	k a3 n3
+cảnh 1.0	k E_X3 J3
+cấp 1.0	k 7_X5b p5b
+cầm 1.0	k 7_X2 m2
+cần 1.0	k 7_X2 n2
+cầu 1.0	k 7_X2 w2
+cẩu 1.0	k 7_X3 w3
+cập 1.0	k 7_X6b p6b
+cậu 1.0	k 7_X6a w6a
+cắt 1.0	k a_X5b t5b
+cọ 1.0	k O6a
+cọng 1.0	k O_X6a Nm6a
+cọp 1.0	k O6b p6b
+cọt 1.0	k O6b t6b
+cỏ 1.0	k O3
+cố 1.0	k o5a
+cốc 1.0	k o5b kp5b
+cốt 1.0	k o5b t5b
+cổng 1.0	k o3 Nm3
+cộng 1.0	k o6a Nm6a
+cớ 1.0	k 75a
+cờ 1.0	k 72
+cởi 1.0	k 73 j3
+cỡ 1.0	k 74
+cụ 1.0	k u6a
+cục 1.0	k u6b kp6b
+cụm 1.0	k u6a m6a
+cụt 1.0	k u6b t6b
+củ 1.0	k u3
+của 1.0	k uo3
+củi 1.0	k u3 j3
+củng 1.0	k u3 Nm3
+cứ 1.0	k M5a
+cứu 1.0	k M5a w5a
+cử 1.0	k M3
+cửa 1.0	k M73
+da 1.0	z a1
+danh 1.0	z E_X1 J1
+di 1.0	z i1
+dinh 1.0	z i1 J1
+diêm 1.0	z ie1 m1
+diễn 1.0	z ie4 n4
+diện 1.0	z ie6a n6a
+diệt 1.0	z ie6b t6b
+do 1.0	z O1
+doanh 1.0	z wp1 E_X1 J1
+dung 1.0	z u1 Nm1
+duy 1.0	z wp1 i1
+duyên 1.0	z wp1 ie1 n1
+duyệt 1.0	z wp6b ie6b t6b
+dài 1.0	z a2 j2
+dàn 1.0	z a2 n2
+dàng 1.0	z a2 N2
+dành 1.0	z E_X2 J2
+dày 1.0	z a_X2 j2
+dám 1.0	z a5a m5a
+dân 1.0	z 7_X1 n1
+dâu 1.0	z 7_X1 w1
+dây 1.0	z 7_X1 j1
+dãi 1.0	z a4 j4
+dép 1.0	z E5b p5b
+dê 1.0	z e1
+dòng 1.0	z O_X2 Nm2
+dõi 1.0	z O4 j4
+dù 1.0	z u2
+dùng 1.0	z u2 Nm2
+dăm 1.0	z a_X1 m1
+dĩ 1.0	z i4
+dũng 1.0	z u4 Nm4
+dơ 1.0	z 71
+dư 1.0	z M1
+dương 1.0	z M71 N1
+dưới 1.0	z M75a j5a
+dưỡng 1.0	z M74 N4
+dạ 1.0	z a6a
+dạng 1.0	z a6a N6a
+dạy 1.0	z a_X6a j6a
+dả 1.0	z a3
+dấu 1.0	z 7_X5a w5a
+dầm 1.0	z 7_X2 m2
+dần 1.0	z 7_X2 n2
+dầu 1.0	z 7_X2 w2
+dẩu 1.0	z 7_X3 w3
+dẫn 1.0	z 7_X4 n4
+dật 1.0	z 7_X6b t6b
+dậy 1.0	z 7_X6a j6a
+dặn 1.0	z a_X6a n6a
+dẹp 1.0	z E6b p6b
+dễ 1.0	z e4
+dị 1.0	z i6a
+dịch 1.0	z i6b k6b
+dịu 1.0	z i6a w6a
+dọc 1.0	z O_X6b kp6b
+dọn 1.0	z O6a n6a
+dốc 1.0	z o5b kp5b
+dốt 1.0	z o5b t5b
+dồi 1.0	z o2 j2
+dồn 1.0	z o2 n2
+dờ 1.0	z 72
+dụ 1.0	z u6a
+dục 1.0	z u6b kp6b
+dụng 1.0	z u6a Nm6a
+dứa 1.0	z M75a
+dứt 1.0	z M5b t5b
+dừng 1.0	z M2 N2
+dự 1.0	z M6a
+dựa 1.0	z M76a
+dựng 1.0	z M6a N6a
+e 1.0	E1
+em 1.0	E1 m1
+eo 1.0	E1 w1
+ga 1.0	G a1
+gai 1.0	G a1 j1
+gam 1.0	G a1 m1
+gan 1.0	G a1 n1
+ghi 1.0	G i1
+ghim 1.0	G i1 m1
+ghét 1.0	G E5b t5b
+ghẻ 1.0	G E3
+ghế 1.0	G e5a
+gia 1.0	dZ a1
+giai 1.0	dZ a1 j1
+gian 1.0	dZ a1 n1
+giang 1.0	dZ a1 N1
+giao 1.0	dZ a1 w1
+già 1.0	dZ a2
+giành 1.0	dZ E_X2 J2
+giàu 1.0	dZ a_X2 w2
+giá 1.0	dZ a5a
+giác 1.0	dZ a5b k5b
+giám 1.0	dZ a5a m5a
+giáo 1.0	dZ a5a w5a
+giáp 1.0	dZ a5b p5b
+giây 1.0	dZ 7_X1 j1
+giã 1.0	dZ a4
+giãn 1.0	dZ a4 n4
+giê 1.0	dZ e1
+giêng 1.0	dZ ie1 N1
+giò 1.0	dZ O2
+gió 1.0	dZ O5a
+giùm 1.0	dZ u2 m2
+giúp 1.0	dZ u5b p5b
+giường 1.0	dZ M72 N2
+giả 1.0	dZ a3
+giải 1.0	dZ a3 j3
+giảm 1.0	dZ a3 m3
+giảng 1.0	dZ a3 N3
+giấc 1.0	dZ 7_X5b k5b
+giấu 1.0	dZ 7_X5a w5a
+giấy 1.0	dZ 7_X5a j5a
+giầu 1.0	dZ 7_X2 w2
+giận 1.0	dZ 7_X6a n6a
+giật 1.0	dZ 7_X6b t6b
+giằng 1.0	dZ a_X2 N2
+giặc 1.0	dZ a_X6b k6b
+giặt 1.0	dZ a_X6b t6b
+giếm 1.0	dZ e5a m5a
+giết 1.0	dZ ie5b t5b
+giềng 1.0	dZ ie2 N2
+giọng 1.0	dZ O_X6a Nm6a
+giọt 1.0	dZ O6b t6b
+giỏi 1.0	dZ O3 j3
+giống 1.0	dZ o5a Nm5a
+giới 1.0	dZ 75a j5a
+giờ 1.0	dZ 72
+giữ 1.0	dZ M4
+giữa 1.0	dZ M74
+goá 1.0	G wp5a a5a
+goép 1.0	G wp5b E5b p5b
+guồng 1.0	G uo2 N2
+gà 1.0	G a2
+gái 1.0	G a5a j5a
+gây 1.0	G 7_X1 j1
+gã 1.0	G a4
+gì 1.0	dZ i2
+gìn 1.0	dZ i2 n2
+gò 1.0	G O2
+gòn 1.0	G O2 n2
+góc 1.0	G O_X5b kp5b
+góp 1.0	G O5b p5b
+gô 1.0	G o1
+gù 1.0	G u2
+gương 1.0	G M71 N1
+gạo 1.0	G a6a w6a
+gảy 1.0	G a_X3 j3
+gấp 1.0	G 7_X5b p5b
+gần 1.0	G 7_X2 n2
+gật 1.0	G 7_X6b t6b
+gậy 1.0	G 7_X6a j6a
+gắn 1.0	G a_X5a n5a
+gắng 1.0	G a_X5a N5a
+gặp 1.0	G a_X6b p6b
+gọi 1.0	G O6a j6a
+gốc 1.0	G o5b kp5b
+gồm 1.0	G o2 m2
+gỗ 1.0	G o4
+gội 1.0	G o6a j6a
+gục 1.0	G u6b kp6b
+gừng 1.0	G M2 N2
+gửi 1.0	G M3 j3
+hai 1.0	h a1 j1
+ham 1.0	h a1 m1
+hang 1.0	h a1 N1
+hay 1.0	h a_X1 j1
+heo 1.0	h E1 w1
+hi 1.0	h i1
+hiến 1.0	h ie5a n5a
+hiếu 1.0	h ie5a w5a
+hiểm 1.0	h ie3 m3
+hiểu 1.0	h ie3 w3
+hiện 1.0	h ie6a n6a
+hiệp 1.0	h ie6b p6b
+hiệu 1.0	h ie6a w6a
+ho 1.0	h O1
+hoa 1.0	h wp1 a1
+hoà 1.0	h wp2 a2
+hoài 1.0	h wp2 a2 j2
+hoàn 1.0	h wp2 a2 n2
+hoàng 1.0	h wp2 a2 N2
+hoá 1.0	h wp5a a5a
+hoạ 1.0	h wp6a a6a
+hoạch 1.0	h wp6b E_X6b k6b
+hoạt 1.0	h wp6b a6b t6b
+hoảng 1.0	h wp3 a3 N3
+hoặc 1.0	h wp6b a_X6b k6b
+hung 1.0	h u1 Nm1
+huy 1.0	h wp1 i1
+huyết 1.0	h wp5b ie5b t5b
+huyện 1.0	h wp6a ie6a n6a
+huế 1.0	h wp5a e5a
+huệ 1.0	h wp6a e6a
+huỳnh 1.0	h wp2 i2 J2
+huỷ 1.0	h wp3 i3
+hy 1.0	h i1
+hà 1.0	h a2
+hàm 1.0	h a2 m2
+hàn 1.0	h a2 n2
+hàng 1.0	h a2 N2
+hành 1.0	h E_X2 J2
+hào 1.0	h a2 w2
+hái 1.0	h a5a j5a
+hám 1.0	h a5a m5a
+hán 1.0	h a5a n5a
+hát 1.0	h a5b t5b
+hãm 1.0	h a4 m4
+hãy 1.0	h a_X4 j4
+hình 1.0	h i2 J2
+hò 1.0	h O2
+hòn 1.0	h O2 n2
+hói 1.0	h O5a j5a
+hô 1.0	h o1
+hôi 1.0	h o1 j1
+hôm 1.0	h o1 m1
+hôn 1.0	h o1 n1
+hông 1.0	h o1 Nm1
+hùng 1.0	h u2 Nm2
+húm 1.0	h u5a m5a
+hút 1.0	h u5b t5b
+hũ 1.0	h u4
+hơi 1.0	h 71 j1
+hơn 1.0	h 71 n1
+hư 1.0	h M1
+hương 1.0	h M71 N1
+hướng 1.0	h M75a N5a
+hưởng 1.0	h M73 N3
+hượm 1.0	h M76a m6a
+hại 1.0	h a6a j6a
+hạn 1.0	h a6a n6a
+hạng 1.0	h a6a N6a
+hạnh 1.0	h E_X6a J6a
+hạt 1.0	h a6b t6b
+hả 1.0	h a3
+hải 1.0	h a3 j3
+hảo 1.0	h a3 w3
+hấp 1.0	h 7_X5b p5b
+hất 1.0	h 7_X5b t5b
+hầu 1.0	h 7_X2 w2
+hận 1.0	h 7_X6a n6a
+hậu 1.0	h 7_X6a w6a
+hắn 1.0	h a_X5a n5a
+hắt 1.0	h a_X5b t5b
+hằng 1.0	h a_X2 N2
+hẹp 1.0	h E6b p6b
+hết 1.0	h e5b t5b
+hề 1.0	h e2
+hễ 1.0	h e4
+hệ 1.0	h e6a
+hịch 1.0	h i6b k6b
+họ 1.0	h O6a
+học 1.0	h O_X6b kp6b
+họng 1.0	h O_X6a Nm6a
+họp 1.0	h O6b p6b
+hỏi 1.0	h O3 j3
+hỏng 1.0	h O_X3 Nm3
+hố 1.0	h o5a
+hốc 1.0	h o5b kp5b
+hối 1.0	h o5a j5a
+hốt 1.0	h o5b t5b
+hồ 1.0	h o2
+hồi 1.0	h o2 j2
+hồn 1.0	h o2 n2
+hồng 1.0	h o2 Nm2
+hổ 1.0	h o3
+hỗ 1.0	h o4
+hỗn 1.0	h o4 n4
+hộ 1.0	h o6a
+hội 1.0	h o6a j6a
+hột 1.0	h o6b t6b
+hở 1.0	h 73
+hợp 1.0	h 76b p6b
+hứng 1.0	h M5a N5a
+hữu 1.0	h M4 w4
+i 1.0	i1
+im 1.0	i1 m1
+k 1.0	k
+khai 1.0	x a1 j1
+khao 1.0	x a1 w1
+khi 1.0	x i1
+khiến 1.0	x ie5a n5a
+khoa 1.0	x wp1 a1
+khoai 1.0	x wp1 a1 j1
+khoảng 1.0	x wp3 a3 N3
+khoẻ 1.0	x wp3 E3
+khu 1.0	x u1
+khuya 1.0	x wp1 ie1
+khuyên 1.0	x wp1 ie1 n1
+khuôn 1.0	x uo1 n1
+khuất 1.0	x wp5b 7_X5b t5b
+khá 1.0	x a5a
+khác 1.0	x a5b k5b
+khách 1.0	x E_X5b k5b
+khái 1.0	x a5a j5a
+khám 1.0	x a5a m5a
+kháng 1.0	x a5a N5a
+khánh 1.0	x E_X5a J5a
+khâm 1.0	x 7_X1 m1
+khè 1.0	x E2
+khéo 1.0	x E5a w5a
+khép 1.0	x E5b p5b
+khí 1.0	x i5a
+khía 1.0	x ie5a
+khích 1.0	x i5b k5b
+khó 1.0	x O5a
+khóc 1.0	x O_X5b kp5b
+khô 1.0	x o1
+không 1.0	x o1 Nm1
+khúc 1.0	x u5b kp5b
+khúm 1.0	x u5a m5a
+khăn 1.0	x a_X1 n1
+khưu 1.0	x M1 w1
+khả 1.0	x a3
+khản 1.0	x a3 n3
+khảo 1.0	x a3 w3
+khẩn 1.0	x 7_X3 n3
+khẩu 1.0	x 7_X3 w3
+khắc 1.0	x a_X5b k5b
+khắp 1.0	x a_X5b p5b
+khẽ 1.0	x E4
+khịch 1.0	x i6b k6b
+khọm 1.0	x O6a m6a
+khỏi 1.0	x O3 j3
+khố 1.0	x o5a
+khối 1.0	x o5a j5a
+khổ 1.0	x o3
+khổng 1.0	x o3 Nm3
+khởi 1.0	x 73 j3
+khục 1.0	x u6b kp6b
+khứ 1.0	x M5a
+ki 1.0	k i1
+kia 1.0	k ie1
+kim 1.0	k i1 m1
+kinh 1.0	k i1 J1
+kiên 1.0	k ie1 n1
+kiêng 1.0	k ie1 N1
+kiếm 1.0	k ie5a m5a
+kiến 1.0	k ie5a n5a
+kiết 1.0	k ie5b t5b
+kiểm 1.0	k ie3 m3
+kiểu 1.0	k ie3 w3
+kiện 1.0	k ie6a n6a
+kèm 1.0	k E2 m2
+kéo 1.0	k E5a w5a
+kép 1.0	k E5b p5b
+két 1.0	k E5b t5b
+kê 1.0	k e1
+kênh 1.0	k e1 J1
+kêu 1.0	k e1 w1
+kìa 1.0	k ie2
+kìm 1.0	k i2 m2
+kích 1.0	k i5b k5b
+kín 1.0	k i5a n5a
+kính 1.0	k i5a J5a
+kít 1.0	k i5b t5b
+ký 1.0	k i5a
+kĩ 1.0	k i4
+kưn 1.0	k M1 n1
+kẹt 1.0	k E6b t6b
+kẻ 1.0	k E3
+kẽ 1.0	k E4
+kẽo 1.0	k E4 w4
+kế 1.0	k e5a
+kết 1.0	k e5b t5b
+kề 1.0	k e2
+kể 1.0	k e3
+kịp 1.0	k i6b p6b
+kỳ 1.0	k i2
+kỵ 1.0	k i6a
+kỷ 1.0	k i3
+kỹ 1.0	k i4
+la 1.0	l a1
+lai 1.0	l a1 j1
+lam 1.0	l a1 m1
+lan 1.0	l a1 n1
+lang 1.0	l a1 N1
+lanh 1.0	l E_X1 J1
+lao 1.0	l a1 w1
+lau 1.0	l a_X1 w1
+len 1.0	l E1 n1
+lin 1.0	l i1 n1
+linh 1.0	l i1 J1
+liên 1.0	l ie1 n1
+liền 1.0	l ie2 n2
+liệt 1.0	l ie6b t6b
+liệu 1.0	l ie6a w6a
+lo 1.0	l O1
+loe 1.0	l wp1 E1
+long 1.0	l O_X1 Nm1
+loài 1.0	l wp2 a2 j2
+loại 1.0	l wp6a a6a j6a
+loạn 1.0	l wp6a a6a n6a
+luyên 1.0	l wp1 ie1 n1
+luôn 1.0	l uo1 n1
+luận 1.0	l wp6a 7_X6a n6a
+luật 1.0	l wp6b 7_X6b t6b
+luỹ 1.0	l wp4 i4
+ly 1.0	l i1
+là 1.0	l a2
+làm 1.0	l a2 m2
+làn 1.0	l a2 n2
+làng 1.0	l a2 N2
+lành 1.0	l E_X2 J2
+lá 1.0	l a5a
+lác 1.0	l a5b k5b
+lái 1.0	l a5a j5a
+láng 1.0	l a5a N5a
+lánh 1.0	l E_X5a J5a
+lâm 1.0	l 7_X1 m1
+lân 1.0	l 7_X1 n1
+lâu 1.0	l 7_X1 w1
+lãnh 1.0	l E_X4 J4
+lão 1.0	l a4 w4
+léo 1.0	l E5a w5a
+lê 1.0	l e1
+lên 1.0	l e1 n1
+lình 1.0	l i2 J2
+lí 1.0	l i5a
+lính 1.0	l i5a J5a
+lò 1.0	l O2
+lòng 1.0	l O_X2 Nm2
+ló 1.0	l O5a
+lót 1.0	l O5b t5b
+lô 1.0	l o1
+lôi 1.0	l o1 j1
+lông 1.0	l o1 Nm1
+lúc 1.0	l u5b kp5b
+lý 1.0	l i5a
+lăm 1.0	l a_X1 m1
+lăng 1.0	l a_X1 N1
+lũ 1.0	l u4
+lư 1.0	l M1
+lưng 1.0	l M1 N1
+lưu 1.0	l M1 w1
+lương 1.0	l M71 N1
+lưới 1.0	l M75a j5a
+lưỡi 1.0	l M74 j4
+lược 1.0	l M76b k6b
+lượng 1.0	l M76a N6a
+lượt 1.0	l M76b t6b
+lạ 1.0	l a6a
+lạc 1.0	l a6b k6b
+lại 1.0	l a6a j6a
+lạnh 1.0	l E_X6a J6a
+lấy 1.0	l 7_X5a j5a
+lầm 1.0	l 7_X2 m2
+lần 1.0	l 7_X2 n2
+lầy 1.0	l 7_X2 j2
+lẩn 1.0	l 7_X3 n3
+lẫm 1.0	l 7_X4 m4
+lẫy 1.0	l 7_X4 j4
+lập 1.0	l 7_X6b p6b
+lật 1.0	l 7_X6b t6b
+lắm 1.0	l a_X5a m5a
+lắng 1.0	l a_X5a N5a
+lằn 1.0	l a_X2 n2
+lặng 1.0	l a_X6a N6a
+lặt 1.0	l a_X6b t6b
+lẹo 1.0	l E6a w6a
+lẻ 1.0	l E3
+lẽ 1.0	l E4
+lề 1.0	l e2
+lễ 1.0	l e4
+lệ 1.0	l e6a
+lệch 1.0	l e6b k6b
+lệnh 1.0	l e6a J6a
+lị 1.0	l i6a
+lịch 1.0	l i6b k6b
+lọ 1.0	l O6a
+lọc 1.0	l O_X6b kp6b
+lọm 1.0	l O6a m6a
+lối 1.0	l o5a j5a
+lốp 1.0	l o5b p5b
+lồng 1.0	l o2 Nm2
+lỗi 1.0	l o4 j4
+lộ 1.0	l o6a
+lộc 1.0	l o6b kp6b
+lội 1.0	l o6a j6a
+lớn 1.0	l 75a n5a
+lớp 1.0	l 75b p5b
+lờ 1.0	l 72
+lời 1.0	l 72 j2
+lở 1.0	l 73
+lỡ 1.0	l 74
+lợi 1.0	l 76a j6a
+lợt 1.0	l 76b t6b
+lục 1.0	l u6b kp6b
+lụt 1.0	l u6b t6b
+lừng 1.0	l M2 N2
+lửa 1.0	l M73
+lựa 1.0	l M76a
+lực 1.0	l M6b k6b
+lỵ 1.0	l i6a
+ma 1.0	m a1
+mai 1.0	m a1 j1
+mang 1.0	m a1 N1
+mau 1.0	m a_X1 w1
+may 1.0	m a_X1 j1
+me 1.0	m E1
+men 1.0	m E1 n1
+mi 1.0	m i1
+minh 1.0	m i1 J1
+miên 1.0	m ie1 n1
+miêu 1.0	m ie1 w1
+miếng 1.0	m ie5a N5a
+miễn 1.0	m ie4 n4
+miệng 1.0	m ie6a N6a
+mong 1.0	m O_X1 Nm1
+mua 1.0	m uo1
+muối 1.0	m uo5a j5a
+muốn 1.0	m uo5a n5a
+muộn 1.0	m uo6a n6a
+mà 1.0	m a2
+màu 1.0	m a_X2 w2
+mày 1.0	m a_X2 j2
+má 1.0	m a5a
+mái 1.0	m a5a j5a
+máng 1.0	m a5a N5a
+máo 1.0	m a5a w5a
+mát 1.0	m a5b t5b
+máu 1.0	m a_X5a w5a
+máy 1.0	m a_X5a j5a
+mâu 1.0	m 7_X1 w1
+mã 1.0	m a4
+mãi 1.0	m a4 j4
+mãn 1.0	m a4 n4
+mèo 1.0	m E2 w2
+méc 1.0	m E5b k5b
+mét 1.0	m E5b t5b
+mê 1.0	m e1
+mì 1.0	m i2
+mình 1.0	m i2 J2
+mò 1.0	m O2
+mòn 1.0	m O2 n2
+món 1.0	m O5a n5a
+móng 1.0	m O_X5a Nm5a
+mô 1.0	m o1
+môi 1.0	m o1 j1
+môn 1.0	m o1 n1
+mông 1.0	m o1 Nm1
+mõm 1.0	m O4 m4
+mùa 1.0	m uo2
+mùi 1.0	m u2 j2
+măng 1.0	m a_X1 N1
+mĩ 1.0	m i4
+mũi 1.0	m u4 j4
+mơ 1.0	m 71
+mưa 1.0	m M71
+mưu 1.0	m M1 w1
+mươi 1.0	m M71 j1
+mướp 1.0	m M75b p5b
+mười 1.0	m M72 j2
+mượt 1.0	m M76b t6b
+mạch 1.0	m E_X6b k6b
+mạng 1.0	m a6a N6a
+mạnh 1.0	m E_X6a J6a
+mạo 1.0	m a6a w6a
+mả 1.0	m a3
+mảnh 1.0	m E_X3 J3
+mất 1.0	m 7_X5b t5b
+mấy 1.0	m 7_X5a j5a
+mầm 1.0	m 7_X2 m2
+mầu 1.0	m 7_X2 w2
+mẫu 1.0	m 7_X4 w4
+mật 1.0	m 7_X6b t6b
+mậu 1.0	m 7_X6a w6a
+mắc 1.0	m a_X5b k5b
+mắm 1.0	m a_X5a m5a
+mắng 1.0	m a_X5a N5a
+mắt 1.0	m a_X5b t5b
+mặc 1.0	m a_X6b k6b
+mặt 1.0	m a_X6b t6b
+mẹ 1.0	m E6a
+mẹc 1.0	m E6b k6b
+mẹo 1.0	m E6a w6a
+mẻ 1.0	m E3
+mẽ 1.0	m E4
+mến 1.0	m e5a n5a
+mết 1.0	m e5b t5b
+mếu 1.0	m e5a w5a
+mềm 1.0	m e2 m2
+mỉa 1.0	m ie3
+mỉm 1.0	m i3 m3
+mị 1.0	m i6a
+mọ 1.0	m O6a
+mọc 1.0	m O_X6b kp6b
+mọi 1.0	m O6a j6a
+mọt 1.0	m O6b t6b
+mỏng 1.0	m O_X3 Nm3
+mối 1.0	m o5a j5a
+mốt 1.0	m o5b t5b
+mồ 1.0	m o2
+mổ 1.0	m o3
+mỗi 1.0	m o4 j4
+mộ 1.0	m o6a
+một 1.0	m o6b t6b
+mớ 1.0	m 75a
+mới 1.0	m 75a j5a
+mờ 1.0	m 72
+mời 1.0	m 72 j2
+mở 1.0	m 73
+mỡ 1.0	m 74
+mụ 1.0	m u6a
+mục 1.0	m u6b kp6b
+mức 1.0	m M5b k5b
+mực 1.0	m M6b k6b
+mỹ 1.0	m i4
+na 1.0	n a1
+nam 1.0	n a1 m1
+nay 1.0	n a_X1 j1
+ne 1.0	n E1
+ngang 1.0	N a1 N1
+ngay 1.0	N a_X1 j1
+nghe 1.0	N E1
+nghi 1.0	N i1
+nghiên 1.0	N ie1 n1
+nghiền 1.0	N ie2 n2
+nghiệm 1.0	N ie6a m6a
+nghiệp 1.0	N ie6b p6b
+nghèo 1.0	N E2 w2
+nghìn 1.0	N i2 n2
+nghĩ 1.0	N i4
+nghĩa 1.0	N ie4
+nghẹo 1.0	N E6a w6a
+nghếch 1.0	N e5b k5b
+nghề 1.0	N e2
+nghệ 1.0	N e6a
+nghị 1.0	N i6a
+nghịch 1.0	N i6b k6b
+nghịu 1.0	N i6a w6a
+ngoan 1.0	N wp1 a1 n1
+ngoe 1.0	N wp1 E1
+ngon 1.0	N O1 n1
+ngoài 1.0	N wp2 a2 j2
+ngoại 1.0	N wp6a a6a j6a
+ngu 1.0	N u1
+nguy 1.0	N wp1 i1
+nguyên 1.0	N wp1 ie1 n1
+nguyền 1.0	N wp2 ie2 n2
+nguyễn 1.0	N wp4 ie4 n4
+nguyện 1.0	N wp6a ie6a n6a
+nguồn 1.0	N uo2 n2
+ngàn 1.0	N a2 n2
+ngành 1.0	N E_X2 J2
+ngày 1.0	N a_X2 j2
+ngán 1.0	N a5a n5a
+ngâm 1.0	N 7_X1 m1
+ngân 1.0	N 7_X1 n1
+ngãi 1.0	N a4 j4
+ngòi 1.0	N O2 j2
+ngôn 1.0	N o1 n1
+ngũ 1.0	N u4
+ngư 1.0	N M1
+người 1.0	N M72 j2
+ngượng 1.0	N M76a N6a
+ngạc 1.0	N a6b k6b
+ngại 1.0	N a6a j6a
+ngầm 1.0	N 7_X2 m2
+ngẩng 1.0	N 7_X3 N3
+ngắm 1.0	N a_X5a m5a
+ngắn 1.0	N a_X5a n5a
+ngọ 1.0	N O6a
+ngọc 1.0	N O_X6b kp6b
+ngọt 1.0	N O6b t6b
+ngốc 1.0	N o5b kp5b
+ngồi 1.0	N o2 j2
+ngộ 1.0	N o6a
+ngột 1.0	N o6b t6b
+ngờ 1.0	N 72
+ngợm 1.0	N 76a m6a
+ngụ 1.0	N u6a
+ngủ 1.0	N u3
+ngừa 1.0	N M72
+ngừng 1.0	N M2 N2
+ngửa 1.0	N M73
+ngửi 1.0	N M3 j3
+ngữ 1.0	N M4
+ngựa 1.0	N M76a
+ngực 1.0	N M6b k6b
+nha 1.0	J a1
+nhanh 1.0	J E_X1 J1
+nhau 1.0	J a_X1 w1
+nheo 1.0	J E1 w1
+nhiên 1.0	J ie1 n1
+nhiêu 1.0	J ie1 w1
+nhiều 1.0	J ie2 w2
+nhiểu 1.0	J ie3 w3
+nhiễm 1.0	J ie4 m4
+nhiệm 1.0	J ie6a m6a
+nhiệt 1.0	J ie6b t6b
+nho 1.0	J O1
+nhu 1.0	J u1
+nhung 1.0	J u1 Nm1
+nhuyễn 1.0	J wp4 ie4 n4
+nhà 1.0	J a2
+nhàn 1.0	J a2 n2
+nhàng 1.0	J a2 N2
+nhào 1.0	J a2 w2
+nhánh 1.0	J E_X5a J5a
+nhân 1.0	J 7_X1 n1
+nhã 1.0	J a4
+nhãn 1.0	J a4 n4
+nhé 1.0	J E5a
+nhìn 1.0	J i2 n2
+nhí 1.0	J i5a
+nhíu 1.0	J i5a w5a
+nhóm 1.0	J O5a m5a
+nhóng 1.0	J O_X5a Nm5a
+nhõm 1.0	J O4 m4
+nhăn 1.0	J a_X1 n1
+như 1.0	J M1
+nhưng 1.0	J M1 N1
+nhược 1.0	J M76b k6b
+nhạc 1.0	J a6b k6b
+nhạt 1.0	J a6b t6b
+nhạy 1.0	J a_X6a j6a
+nhảm 1.0	J a3 m3
+nhảy 1.0	J a_X3 j3
+nhất 1.0	J 7_X5b t5b
+nhẫn 1.0	J 7_X4 n4
+nhận 1.0	J 7_X6a n6a
+nhập 1.0	J 7_X6b p6b
+nhật 1.0	J 7_X6b t6b
+nhắm 1.0	J a_X5a m5a
+nhằm 1.0	J a_X2 m2
+nhẵn 1.0	J a_X4 n4
+nhẹ 1.0	J E6a
+nhẻm 1.0	J E3 m3
+nhếch 1.0	J e5b k5b
+nhịp 1.0	J i6b p6b
+nhỏ 1.0	J O3
+nhồi 1.0	J o2 j2
+nhớ 1.0	J 75a
+nhờ 1.0	J 72
+nhức 1.0	J M5b k5b
+những 1.0	J M4 N4
+nin 1.0	n i1 n1
+ninh 1.0	n i1 J1
+niêm 1.0	n ie1 m1
+niên 1.0	n ie1 n1
+niềm 1.0	n ie2 m2
+niểng 1.0	n ie3 N3
+niệm 1.0	n ie6a m6a
+no 1.0	n O1
+non 1.0	n O1 n1
+nuôi 1.0	n uo1 j1
+nuốt 1.0	n uo5b t5b
+nàng 1.0	n a2 N2
+nào 1.0	n a2 w2
+này 1.0	n a_X2 j2
+nám 1.0	n a5a m5a
+nát 1.0	n a5b t5b
+náy 1.0	n a_X5a j5a
+nâng 1.0	n 7_X1 N1
+nãy 1.0	n a_X4 j4
+nè 1.0	n E2
+nêm 1.0	n e1 m1
+nên 1.0	n e1 n1
+nêu 1.0	n e1 w1
+nín 1.0	n i5a n5a
+nòng 1.0	n O_X2 Nm2
+nó 1.0	n O5a
+nói 1.0	n O5a j5a
+nóng 1.0	n O_X5a Nm5a
+nông 1.0	n o1 Nm1
+núm 1.0	n u5a m5a
+năm 1.0	n a_X1 m1
+năng 1.0	n a_X1 N1
+nơi 1.0	n 71 j1
+nương 1.0	n M71 N1
+nước 1.0	n M75b k5b
+nướng 1.0	n M75a N5a
+nạc 1.0	n a6b k6b
+nạp 1.0	n a6b p6b
+nản 1.0	n a3 n3
+nảy 1.0	n a_X3 j3
+nấc 1.0	n 7_X5b k5b
+nấm 1.0	n 7_X5a m5a
+nấp 1.0	n 7_X5b p5b
+nẩy 1.0	n 7_X3 j3
+nắm 1.0	n a_X5a m5a
+nắng 1.0	n a_X5a N5a
+nằm 1.0	n a_X2 m2
+nẵng 1.0	n a_X4 N4
+nặng 1.0	n a_X6a N6a
+nếm 1.0	n e5a m5a
+nếu 1.0	n e5a w5a
+nền 1.0	n e2 n2
+nỉ 1.0	n i3
+nọ 1.0	n O6a
+nọc 1.0	n O_X6b kp6b
+nỏ 1.0	n O3
+nối 1.0	n o5a j5a
+nồng 1.0	n o2 Nm2
+nổ 1.0	n o3
+nổi 1.0	n o3 j3
+nỗ 1.0	n o4
+nỗi 1.0	n o4 j4
+nộ 1.0	n o6a
+nội 1.0	n o6a j6a
+nờ 1.0	n 72
+nở 1.0	n 73
+nợ 1.0	n 76a
+nửa 1.0	n M73
+nữ 1.0	n M4
+nữa 1.0	n M74
+o 1.0	O1
+oai 1.0	wp a1 j1
+ong 1.0	O_X1 Nm1
+oà 1.0	wp a2
+oàng 1.0	wp a2 N2
+oán 1.0	wp a5a n5a
+oánh 1.0	wp E_X5a J5a
+oắt 1.0	wp a_X5b t5b
+oặt 1.0	wp a_X6b t6b
+pa 1.0	p a1
+ph 1.0	f
+pha 1.0	f a1
+phai 1.0	f a1 j1
+phe 1.0	f E1
+phi 1.0	f i1
+phiên 1.0	f ie1 n1
+phong 1.0	f O_X1 Nm1
+phu 1.0	f u1
+phá 1.0	f a5a
+phái 1.0	f a5a j5a
+phán 1.0	f a5a n5a
+pháp 1.0	f a5b p5b
+phát 1.0	f a5b t5b
+phân 1.0	f 7_X1 n1
+phép 1.0	f E5b p5b
+phê 1.0	f e1
+phí 1.0	f i5a
+phía 1.0	f ie5a
+phòng 1.0	f O_X2 Nm2
+phó 1.0	f O5a
+phóc 1.0	f O_X5b kp5b
+phóng 1.0	f O_X5a Nm5a
+phù 1.0	f u2
+phú 1.0	f u5a
+phúc 1.0	f u5b kp5b
+phút 1.0	f u5b t5b
+phơi 1.0	f 71 j1
+phương 1.0	f M71 N1
+phạm 1.0	f a6a m6a
+phạt 1.0	f a6b t6b
+phải 1.0	f a3 j3
+phần 1.0	f 7_X2 n2
+phẩm 1.0	f 7_X3 m3
+phẩy 1.0	f 7_X3 j3
+phẫn 1.0	f 7_X4 n4
+phận 1.0	f 7_X6a n6a
+phật 1.0	f 7_X6b t6b
+phẳng 1.0	f a_X3 N3
+phịch 1.0	f i6b k6b
+phịu 1.0	f i6a w6a
+phỏng 1.0	f O_X3 Nm3
+phố 1.0	f o5a
+phối 1.0	f o5a j5a
+phổi 1.0	f o3 j3
+phụ 1.0	f u6a
+phục 1.0	f u6b kp6b
+phụng 1.0	f u6a Nm6a
+phủ 1.0	f u3
+phức 1.0	f M5b k5b
+phừng 1.0	f M2 N2
+pu 1.0	p u1
+pua 1.0	p uo1
+pí 1.0	p i5a
+qua 1.0	k wp1 a1
+quan 1.0	k wp1 a1 n1
+quang 1.0	k wp1 a1 N1
+quanh 1.0	k wp1 E_X1 J1
+quay 1.0	k wp1 a_X1 j1
+quen 1.0	k wp1 E1 n1
+quy 1.0	k wp1 i1
+quyết 1.0	k wp5b ie5b t5b
+quyền 1.0	k wp2 ie2 n2
+quà 1.0	k wp2 a2
+quá 1.0	k wp5a a5a
+quán 1.0	k wp5a a5a n5a
+quát 1.0	k wp5b a5b t5b
+quân 1.0	k wp1 7_X1 n1
+quét 1.0	k wp5b E5b t5b
+quê 1.0	k wp1 e1
+quên 1.0	k wp1 e1 n1
+quý 1.0	k wp5a i5a
+quăng 1.0	k wp1 a_X1 N1
+quạch 1.0	k wp6b E_X6b k6b
+quại 1.0	k wp6a a6a j6a
+quả 1.0	k wp3 a3
+quản 1.0	k wp3 a3 n3
+quảng 1.0	k wp3 a3 N3
+quần 1.0	k wp2 7_X2 n2
+quận 1.0	k wp6a 7_X6a n6a
+quật 1.0	k wp6b 7_X6b t6b
+quằn 1.0	k wp2 a_X2 n2
+quế 1.0	k wp5a e5a
+quốc 1.0	k uo5b k5b
+ra 1.0	r a1
+rao 1.0	r a1 w1
+rau 1.0	r a_X1 w1
+rem 1.0	r E1 m1
+ren 1.0	r E1 n1
+reo 1.0	r E1 w1
+ri 1.0	r i1
+riêng 1.0	r ie1 N1
+run 1.0	r u1 n1
+ruộng 1.0	r uo6a N6a
+ruột 1.0	r uo6b t6b
+ràng 1.0	r a2 N2
+rác 1.0	r a5b k5b
+rách 1.0	r E_X5b k5b
+ráng 1.0	r a5a N5a
+râu 1.0	r 7_X1 w1
+rãi 1.0	r a4 j4
+rãnh 1.0	r E_X4 J4
+réo 1.0	r E5a w5a
+rít 1.0	r i5b t5b
+ríu 1.0	r i5a w5a
+rò 1.0	r O2
+rô 1.0	r o1
+rõ 1.0	r O4
+rùa 1.0	r uo2
+rú 1.0	r u5a
+rút 1.0	r u5b t5b
+răm 1.0	r a_X1 m1
+răng 1.0	r a_X1 N1
+rơ 1.0	r 71
+rưỡi 1.0	r M74 j4
+rượu 1.0	r M76a w6a
+rất 1.0	r 7_X5b t5b
+rậm 1.0	r 7_X6a m6a
+rắc 1.0	r a_X5b k5b
+rắt 1.0	r a_X5b t5b
+rằng 1.0	r a_X2 N2
+rẻ 1.0	r E3
+rễ 1.0	r e4
+rệt 1.0	r e6b t6b
+rịa 1.0	r ie6a
+rọi 1.0	r O6a j6a
+rối 1.0	r o5a j5a
+rồi 1.0	r o2 j2
+rộn 1.0	r o6a n6a
+rộng 1.0	r o6a Nm6a
+rời 1.0	r 72 j2
+rỡ 1.0	r 74
+rợn 1.0	r 76a n6a
+rợp 1.0	r 76b p6b
+rụng 1.0	r u6a Nm6a
+rủa 1.0	r uo3
+rừng 1.0	r M2 N2
+rửa 1.0	r M73
+rực 1.0	r M6b k6b
+sa 1.0	S a1
+sai 1.0	S a1 j1
+sang 1.0	S a1 N1
+sao 1.0	S a1 w1
+sau 1.0	S a_X1 w1
+say 1.0	S a_X1 j1
+sen 1.0	S E1 n1
+sinh 1.0	S i1 J1
+so 1.0	S O1
+soi 1.0	S O1 j1
+soài 1.0	S wp2 a2 j2
+soạt 1.0	S wp6b a6b t6b
+su 1.0	S u1
+sung 1.0	S u1 Nm1
+suy 1.0	S wp1 i1
+suýt 1.0	S wp5b i5b t5b
+suối 1.0	S uo5a j5a
+suốt 1.0	S uo5b t5b
+sài 1.0	S a2 j2
+sàn 1.0	S a2 n2
+sách 1.0	S E_X5b k5b
+sáng 1.0	S a5a N5a
+sánh 1.0	S E_X5a J5a
+sát 1.0	S a5b t5b
+sáu 1.0	S a_X5a w5a
+sâu 1.0	S 7_X1 w1
+sòng 1.0	S O_X2 Nm2
+sóng 1.0	S O_X5a Nm5a
+sót 1.0	S O5b t5b
+sôi 1.0	S o1 j1
+sông 1.0	S o1 Nm1
+sõng 1.0	S O_X4 Nm4
+sút 1.0	S u5b t5b
+sĩ 1.0	S i4
+sơ 1.0	S 71
+sơn 1.0	S 71 n1
+sư 1.0	S M1
+sưa 1.0	S M71
+sương 1.0	S M71 N1
+sướng 1.0	S M75a N5a
+sườn 1.0	S M72 n2
+sạch 1.0	S E_X6b k6b
+sạn 1.0	S a6a n6a
+sản 1.0	S a3 n3
+sảng 1.0	S a3 N3
+sầm 1.0	S 7_X2 m2
+sầu 1.0	S 7_X2 w2
+sậm 1.0	S 7_X6a m6a
+sập 1.0	S 7_X6b p6b
+sắc 1.0	S a_X5b k5b
+sắng 1.0	S a_X5a N5a
+sắp 1.0	S a_X5b p5b
+sẽ 1.0	S E4
+sệt 1.0	S e6b t6b
+số 1.0	S o5a
+sống 1.0	S o5a Nm5a
+sốt 1.0	S o5b t5b
+sột 1.0	S o6b t6b
+sớm 1.0	S 75a m5a
+sở 1.0	S 73
+sợ 1.0	S 76a
+sợi 1.0	S 76a j6a
+sụp 1.0	S u6b p6b
+sụt 1.0	S u6b t6b
+sứ 1.0	S M5a
+sứa 1.0	S M75a
+sức 1.0	S M5b k5b
+sử 1.0	S M3
+sữa 1.0	S M74
+sự 1.0	S M6a
+t 1.0	t
+ta 1.0	t a1
+tam 1.0	t a1 m1
+tan 1.0	t a1 n1
+tang 1.0	t a1 N1
+tanh 1.0	t E_X1 J1
+tao 1.0	t a1 w1
+tay 1.0	t a_X1 j1
+tha 1.0	t_h a1
+thai 1.0	t_h a1 j1
+tham 1.0	t_h a1 m1
+thang 1.0	t_h a1 N1
+thanh 1.0	t_h E_X1 J1
+thao 1.0	t_h a1 w1
+thay 1.0	t_h a_X1 j1
+theo 1.0	t_h E1 w1
+thi 1.0	t_h i1
+thiên 1.0	t_h ie1 n1
+thiêu 1.0	t_h ie1 w1
+thiết 1.0	t_h ie5b t5b
+thiếu 1.0	t_h ie5a w5a
+thiểu 1.0	t_h ie3 w3
+thiện 1.0	t_h ie6a n6a
+thiệp 1.0	t_h ie6b p6b
+thiệt 1.0	t_h ie6b t6b
+tho 1.0	t_h O1
+thoáng 1.0	t_h wp5a a5a N5a
+thoát 1.0	t_h wp5b a5b t5b
+thoại 1.0	t_h wp6a a6a j6a
+thoả 1.0	t_h wp3 a3
+thu 1.0	t_h u1
+thuyết 1.0	t_h wp5b ie5b t5b
+thuần 1.0	t_h wp2 7_X2 n2
+thuẫn 1.0	t_h wp4 7_X4 n4
+thuận 1.0	t_h wp6a 7_X6a n6a
+thuật 1.0	t_h wp6b 7_X6b t6b
+thuế 1.0	t_h wp5a e5a
+thuốc 1.0	t_h uo5b k5b
+thuộc 1.0	t_h uo6b k6b
+thuỳ 1.0	t_h wp2 i2
+thuỷ 1.0	t_h wp3 i3
+thy 1.0	t_h i1
+thành 1.0	t_h E_X2 J2
+thác 1.0	t_h a5b k5b
+thách 1.0	t_h E_X5b k5b
+thái 1.0	t_h a5a j5a
+tháng 1.0	t_h a5a N5a
+thánh 1.0	t_h E_X5a J5a
+tháp 1.0	t_h a5b p5b
+thân 1.0	t_h 7_X1 n1
+thèm 1.0	t_h E2 m2
+thép 1.0	t_h E5b p5b
+thê 1.0	t_h e1
+thêm 1.0	t_h e1 m1
+thêu 1.0	t_h e1 w1
+thì 1.0	t_h i2
+thìa 1.0	t_h ie2
+thình 1.0	t_h i2 J2
+thí 1.0	t_h i5a
+thích 1.0	t_h i5b k5b
+thín 1.0	t_h i5a n5a
+thôi 1.0	t_h o1 j1
+thôn 1.0	t_h o1 n1
+thông 1.0	t_h o1 Nm1
+thõng 1.0	t_h O_X4 Nm4
+thù 1.0	t_h u2
+thúc 1.0	t_h u5b kp5b
+thăm 1.0	t_h a_X1 m1
+thăng 1.0	t_h a_X1 N1
+thơ 1.0	t_h 71
+thơm 1.0	t_h 71 m1
+thư 1.0	t_h M1
+thưa 1.0	t_h M71
+thương 1.0	t_h M71 N1
+thường 1.0	t_h M72 N2
+thưởng 1.0	t_h M73 N3
+thượng 1.0	t_h M76a N6a
+thạch 1.0	t_h E_X6b k6b
+thả 1.0	t_h a3
+thấp 1.0	t_h 7_X5b p5b
+thất 1.0	t_h 7_X5b t5b
+thấy 1.0	t_h 7_X5a j5a
+thần 1.0	t_h 7_X2 n2
+thầy 1.0	t_h 7_X2 j2
+thẩm 1.0	t_h 7_X3 m3
+thậm 1.0	t_h 7_X6a m6a
+thập 1.0	t_h 7_X6b p6b
+thật 1.0	t_h 7_X6b t6b
+thắc 1.0	t_h a_X5b k5b
+thắm 1.0	t_h a_X5a m5a
+thắng 1.0	t_h a_X5a N5a
+thằng 1.0	t_h a_X2 N2
+thẳm 1.0	t_h a_X3 m3
+thẳng 1.0	t_h a_X3 N3
+thẽ 1.0	t_h E4
+thế 1.0	t_h e5a
+thể 1.0	t_h e3
+thị 1.0	t_h i6a
+thịt 1.0	t_h i6b t6b
+thọc 1.0	t_h O_X6b kp6b
+thọt 1.0	t_h O6b t6b
+thỏ 1.0	t_h O3
+thống 1.0	t_h o5a Nm5a
+thốt 1.0	t_h o5b t5b
+thổi 1.0	t_h o3 j3
+thờ 1.0	t_h 72
+thời 1.0	t_h 72 j2
+thở 1.0	t_h 73
+thợ 1.0	t_h 76a
+thụ 1.0	t_h u6a
+thục 1.0	t_h u6b kp6b
+thủ 1.0	t_h u3
+thủng 1.0	t_h u3 Nm3
+thứ 1.0	t_h M5a
+thức 1.0	t_h M5b k5b
+thừ 1.0	t_h M2
+thừa 1.0	t_h M72
+thử 1.0	t_h M3
+thực 1.0	t_h M6b k6b
+ti 1.0	t i1
+tim 1.0	t i1 m1
+tin 1.0	t i1 n1
+tinh 1.0	t i1 J1
+tiên 1.0	t ie1 n1
+tiêu 1.0	t ie1 w1
+tiếc 1.0	t ie5b k5b
+tiến 1.0	t ie5a n5a
+tiếng 1.0	t ie5a N5a
+tiếp 1.0	t ie5b p5b
+tiết 1.0	t ie5b t5b
+tiềm 1.0	t ie2 m2
+tiền 1.0	t ie2 n2
+tiểu 1.0	t ie3 w3
+tiễn 1.0	t ie4 n4
+tiệc 1.0	t ie6b k6b
+tiện 1.0	t ie6a n6a
+to 1.0	t O1
+toà 1.0	t wp2 a2
+toàn 1.0	t wp2 a2 n2
+toán 1.0	t wp5a a5a n5a
+tra 1.0	tS a1
+trai 1.0	tS a1 j1
+tran 1.0	tS a1 n1
+trang 1.0	tS a1 N1
+tranh 1.0	tS E_X1 J1
+treo 1.0	tS E1 w1
+tri 1.0	tS i1
+trinh 1.0	tS i1 J1
+triều 1.0	tS ie2 w2
+triển 1.0	tS ie3 n3
+triệu 1.0	tS ie6a w6a
+trong 1.0	tS O_X1 Nm1
+trung 1.0	tS u1 Nm1
+truy 1.0	tS wp1 i1
+truyền 1.0	tS wp2 ie2 n2
+trà 1.0	tS a2
+tràn 1.0	tS a2 n2
+trào 1.0	tS a2 w2
+trách 1.0	tS E_X5b k5b
+tránh 1.0	tS E_X5a J5a
+trân 1.0	tS 7_X1 n1
+trãi 1.0	tS a4 j4
+trên 1.0	tS e1 n1
+trì 1.0	tS i2
+trình 1.0	tS i2 J2
+trí 1.0	tS i5a
+trò 1.0	tS O2
+tròn 1.0	tS O2 n2
+trôi 1.0	tS o1 j1
+trông 1.0	tS o1 Nm1
+trùn 1.0	tS u2 n2
+trùng 1.0	tS u2 Nm2
+trúc 1.0	tS u5b kp5b
+trúng 1.0	tS u5a Nm5a
+trút 1.0	tS u5b t5b
+trăm 1.0	tS a_X1 m1
+trăn 1.0	tS a_X1 n1
+trưa 1.0	tS M71
+trưng 1.0	tS M1 N1
+trương 1.0	tS M71 N1
+trước 1.0	tS M75b k5b
+trường 1.0	tS M72 N2
+trưởng 1.0	tS M73 N3
+trại 1.0	tS a6a j6a
+trạm 1.0	tS a6a m6a
+trạng 1.0	tS a6a N6a
+trả 1.0	tS a3
+trải 1.0	tS a3 j3
+trảng 1.0	tS a3 N3
+trấn 1.0	tS 7_X5a n5a
+trần 1.0	tS 7_X2 n2
+trầy 1.0	tS 7_X2 j2
+trận 1.0	tS 7_X6a n6a
+trật 1.0	tS 7_X6b t6b
+trắc 1.0	tS a_X5b k5b
+trắng 1.0	tS a_X5a N5a
+trẻ 1.0	tS E3
+trệ 1.0	tS e6a
+trị 1.0	tS i6a
+trịnh 1.0	tS i6a J6a
+trọ 1.0	tS O6a
+trọng 1.0	tS O_X6a Nm6a
+trốn 1.0	tS o5a n5a
+trộm 1.0	tS o6a m6a
+trộn 1.0	tS o6a n6a
+trời 1.0	tS 72 j2
+trở 1.0	tS 73
+trợ 1.0	tS 76a
+trụ 1.0	tS u6a
+trứng 1.0	tS M5a N5a
+trừ 1.0	tS M2
+trừng 1.0	tS M2 N2
+trừu 1.0	tS M2 w2
+trữ 1.0	tS M4
+trực 1.0	tS M6b k6b
+tui 1.0	t u1 j1
+tung 1.0	t u1 Nm1
+tuy 1.0	t wp1 i1
+tuyên 1.0	t wp1 ie1 n1
+tuyến 1.0	t wp5a ie5a n5a
+tuyền 1.0	t wp2 ie2 n2
+tuyển 1.0	t wp3 ie3 n3
+tuyệt 1.0	t wp6b ie6b t6b
+tuần 1.0	t wp2 7_X2 n2
+tuệ 1.0	t wp6a e6a
+tuổi 1.0	t uo3 j3
+tuỳ 1.0	t wp2 i2
+ty 1.0	t i1
+tài 1.0	t a2 j2
+tàn 1.0	t a2 n2
+tàng 1.0	t a2 N2
+tàu 1.0	t a_X2 w2
+tá 1.0	t a5a
+tác 1.0	t a5b k5b
+tách 1.0	t E_X5b k5b
+tám 1.0	t a5a m5a
+tán 1.0	t a5a n5a
+táng 1.0	t a5a N5a
+táo 1.0	t a5a w5a
+táy 1.0	t a_X5a j5a
+tâm 1.0	t 7_X1 m1
+tân 1.0	t 7_X1 n1
+tây 1.0	t 7_X1 j1
+tê 1.0	t e1
+tên 1.0	t e1 n1
+tì 1.0	t i2
+tìm 1.0	t i2 m2
+tình 1.0	t i2 J2
+tí 1.0	t i5a
+tích 1.0	t i5b k5b
+tím 1.0	t i5a m5a
+tín 1.0	t i5a n5a
+tính 1.0	t i5a J5a
+tít 1.0	t i5b t5b
+tíu 1.0	t i5a w5a
+tòng 1.0	t O_X2 Nm2
+tóc 1.0	t O_X5b kp5b
+tóm 1.0	t O5a m5a
+tô 1.0	t o1
+tôi 1.0	t o1 j1
+tôm 1.0	t o1 m1
+tôn 1.0	t o1 n1
+tù 1.0	t u2
+tú 1.0	t u5a
+túi 1.0	t u5a j5a
+túm 1.0	t u5a m5a
+tăng 1.0	t a_X1 N1
+tĩnh 1.0	t i4 J4
+tơi 1.0	t 71 j1
+tư 1.0	t M1
+tươi 1.0	t M71 j1
+tương 1.0	t M71 N1
+tước 1.0	t M75b k5b
+tưởng 1.0	t M73 N3
+tượng 1.0	t M76a N6a
+tạ 1.0	t a6a
+tạc 1.0	t a6b k6b
+tại 1.0	t a6a j6a
+tạm 1.0	t a6a m6a
+tạo 1.0	t a6a w6a
+tạp 1.0	t a6b p6b
+tả 1.0	t a3
+tải 1.0	t a3 j3
+tản 1.0	t a3 n3
+tảng 1.0	t a3 N3
+tấm 1.0	t 7_X5a m5a
+tấn 1.0	t 7_X5a n5a
+tất 1.0	t 7_X5b t5b
+tầm 1.0	t 7_X2 m2
+tầng 1.0	t 7_X2 N2
+tẩu 1.0	t 7_X3 w3
+tận 1.0	t 7_X6a n6a
+tập 1.0	t 7_X6b p6b
+tắc 1.0	t a_X5b k5b
+tẹo 1.0	t E6a w6a
+tế 1.0	t e5a
+tết 1.0	t e5b t5b
+tệ 1.0	t e6a
+tỉa 1.0	t ie3
+tỉnh 1.0	t i3 J3
+tịch 1.0	t i6b k6b
+tọc 1.0	t O_X6b kp6b
+tỏ 1.0	t O3
+tỏi 1.0	t O3 j3
+tố 1.0	t o5a
+tốc 1.0	t o5b kp5b
+tối 1.0	t o5a j5a
+tốn 1.0	t o5a n5a
+tốt 1.0	t o5b t5b
+tồi 1.0	t o2 j2
+tồn 1.0	t o2 n2
+tổ 1.0	t o3
+tổn 1.0	t o3 n3
+tổng 1.0	t o3 Nm3
+tộc 1.0	t o6b kp6b
+tội 1.0	t o6a j6a
+tớ 1.0	t 75a
+tới 1.0	t 75a j5a
+tờ 1.0	t 72
+tời 1.0	t 72 j2
+tục 1.0	t u6b kp6b
+tụi 1.0	t u6a j6a
+tủ 1.0	t u3
+tứ 1.0	t M5a
+tức 1.0	t M5b k5b
+từ 1.0	t M2
+từng 1.0	t M2 N2
+tử 1.0	t M3
+tửu 1.0	t M3 w3
+tự 1.0	t M6a
+tựt 1.0	t M6b t6b
+tựu 1.0	t M6a w6a
+u 1.0	u1
+um 1.0	u1 m1
+ung 1.0	u1 Nm1
+uy 1.0	wp i1
+uý 1.0	wp i5a
+uýnh 1.0	wp i5a J5a
+uất 1.0	wp 7_X5b t5b
+uốn 1.0	uo5a n5a
+uống 1.0	uo5a N5a
+uổng 1.0	uo3 N3
+uỷ 1.0	wp i3
+v 1.0	v
+vai 1.0	v a1 j1
+vang 1.0	v a1 N1
+veo 1.0	v E1 w1
+vi 1.0	v i1
+vinh 1.0	v i1 J1
+viêm 1.0	v ie1 m1
+viên 1.0	v ie1 n1
+viết 1.0	v ie5b t5b
+viễn 1.0	v ie4 n4
+việc 1.0	v ie6b k6b
+viện 1.0	v ie6a n6a
+việt 1.0	v ie6b t6b
+vong 1.0	v O_X1 Nm1
+vua 1.0	v uo1
+vui 1.0	v u1 j1
+vung 1.0	v u1 Nm1
+và 1.0	v a2
+vài 1.0	v a2 j2
+vàng 1.0	v a2 N2
+vào 1.0	v a2 w2
+váy 1.0	v a_X5a j5a
+vân 1.0	v 7_X1 n1
+vâng 1.0	v 7_X1 N1
+vây 1.0	v 7_X1 j1
+vãnh 1.0	v E_X4 J4
+vê 1.0	v e1
+vì 1.0	v i2
+vòi 1.0	v O2 j2
+vòng 1.0	v O_X2 Nm2
+vô 1.0	v o1
+võ 1.0	v O4
+võng 1.0	v O_X4 Nm4
+vùng 1.0	v u2 Nm2
+vú 1.0	v u5a
+văn 1.0	v a_X1 n1
+vĩnh 1.0	v i4 J4
+vũ 1.0	v u4
+vũng 1.0	v u4 Nm4
+vơ 1.0	v 71
+vơi 1.0	v 71 j1
+vương 1.0	v M71 N1
+vượt 1.0	v M76b t6b
+vạm 1.0	v a6a m6a
+vải 1.0	v a3 j3
+vấn 1.0	v 7_X5a n5a
+vầng 1.0	v 7_X2 N2
+vẫn 1.0	v 7_X4 n4
+vận 1.0	v 7_X6a n6a
+vật 1.0	v 7_X6b t6b
+vậy 1.0	v 7_X6a j6a
+vặn 1.0	v a_X6a n6a
+vặt 1.0	v a_X6b t6b
+vẻ 1.0	v E3
+vẽ 1.0	v E4
+về 1.0	v e2
+vệ 1.0	v e6a
+vị 1.0	v i6a
+vọng 1.0	v O_X6a Nm6a
+vọt 1.0	v O6b t6b
+vỏ 1.0	v O3
+vốn 1.0	v o5a n5a
+vội 1.0	v o6a j6a
+với 1.0	v 75a j5a
+vời 1.0	v 72 j2
+vỡ 1.0	v 74
+vợ 1.0	v 76a
+vụ 1.0	v u6a
+vừa 1.0	v M72
+vững 1.0	v M4 N4
+vực 1.0	v M6b k6b
+x 1.0	s
+xa 1.0	s a1
+xanh 1.0	s E_X1 J1
+xe 1.0	s E1
+xem 1.0	s E1 m1
+xi 1.0	s i1
+xin 1.0	s i1 n1
+xiên 1.0	s ie1 n1
+xoa 1.0	s wp1 a1
+xong 1.0	s O_X1 Nm1
+xoè 1.0	s wp2 E2
+xoẹt 1.0	s wp6b E6b t6b
+xu 1.0	s u1
+xung 1.0	s u1 Nm1
+xuyên 1.0	s wp1 ie1 n1
+xuân 1.0	s wp1 7_X1 n1
+xuất 1.0	s wp5b 7_X5b t5b
+xuống 1.0	s uo5a N5a
+xà 1.0	s a2
+xàm 1.0	s a2 m2
+xào 1.0	s a2 w2
+xá 1.0	s a5a
+xác 1.0	s a5b k5b
+xâm 1.0	s 7_X1 m1
+xây 1.0	s 7_X1 j1
+xã 1.0	s a4
+xét 1.0	s E5b t5b
+xê 1.0	s e1
+xì 1.0	s i2
+xía 1.0	s ie5a
+xóm 1.0	s O5a m5a
+xô 1.0	s o1
+xúc 1.0	s u5b kp5b
+xăm 1.0	s a_X1 m1
+xăng 1.0	s a_X1 N1
+xơ 1.0	s 71
+xưa 1.0	s M71
+xưng 1.0	s M1 N1
+xương 1.0	s M71 N1
+xước 1.0	s M75b k5b
+xướng 1.0	s M75a N5a
+xảy 1.0	s a_X3 j3
+xấu 1.0	s 7_X5a w5a
+xế 1.0	s e5a
+xếp 1.0	s e5b p5b
+xứ 1.0	s M5a
+xứng 1.0	s M5a N5a
+xử 1.0	s M3
+y 1.0	i1
+yên 1.0	ie1 n1
+yêu 1.0	ie1 w1
+yết 1.0	ie5b t5b
+yếu 1.0	ie5a w5a
+yểm 1.0	ie3 m3
+à 1.0	a2
+ào 1.0	a2 w2
+á 1.0	a5a
+ác 1.0	a5b k5b
+ách 1.0	E_X5b k5b
+ái 1.0	a5a j5a
+án 1.0	a5a n5a
+ánh 1.0	E_X5a J5a
+áo 1.0	a5a w5a
+áp 1.0	a5b p5b
+áy 1.0	a_X5a j5a
+âm 1.0	7_X1 m1
+ân 1.0	7_X1 n1
+âu 1.0	7_X1 w1
+ém 1.0	E5a m5a
+ép 1.0	E5b p5b
+ét 1.0	E5b t5b
+ê 1.0	e1
+êm 1.0	e1 m1
+ì 1.0	i2
+ích 1.0	i5b k5b
+ít 1.0	i5b t5b
+ò 1.0	O2
+ó 1.0	O5a
+óc 1.0	O_X5b kp5b
+ói 1.0	O5a j5a
+óng 1.0	O_X5a Nm5a
+ô 1.0	o1
+ôm 1.0	o1 m1
+ông 1.0	o1 Nm1
+ù 1.0	u2
+ùm 1.0	u2 m2
+ùn 1.0	u2 n2
+ùng 1.0	u2 Nm2
+úi 1.0	u5a j5a
+úng 1.0	u5a Nm5a
+úp 1.0	u5b p5b
+út 1.0	u5b t5b
+ý 1.0	i5a
+ăn 1.0	a_X1 n1
+đa 1.0	d a1
+đai 1.0	d a1 j1
+đang 1.0	d a1 N1
+đau 1.0	d a_X1 w1
+đem 1.0	d E1 m1
+đen 1.0	d E1 n1
+đeo 1.0	d E1 w1
+đi 1.0	d i1
+điền 1.0	d ie2 n2
+điều 1.0	d ie2 w2
+điểm 1.0	d ie3 m3
+điện 1.0	d ie6a n6a
+điệu 1.0	d ie6a w6a
+đoan 1.0	d wp1 a1 n1
+đoàn 1.0	d wp2 a2 n2
+đoá 1.0	d wp5a a5a
+đoạn 1.0	d wp6a a6a n6a
+đoạt 1.0	d wp6b a6b t6b
+đuôi 1.0	d uo1 j1
+đà 1.0	d a2
+đài 1.0	d a2 j2
+đàn 1.0	d a2 n2
+đào 1.0	d a2 w2
+đày 1.0	d a_X2 j2
+đá 1.0	d a5a
+đác 1.0	d a5b k5b
+đám 1.0	d a5a m5a
+đáng 1.0	d a5a N5a
+đánh 1.0	d E_X5a J5a
+đáp 1.0	d a5b p5b
+đâm 1.0	d 7_X1 m1
+đâu 1.0	d 7_X1 w1
+đây 1.0	d 7_X1 j1
+đã 1.0	d a4
+đãi 1.0	d a4 j4
+đèn 1.0	d E2 n2
+đéc 1.0	d E5b k5b
+đêm 1.0	d e1 m1
+đình 1.0	d i2 J2
+đích 1.0	d i5b k5b
+đòi 1.0	d O2 j2
+đó 1.0	d O5a
+đói 1.0	d O5a j5a
+đón 1.0	d O5a n5a
+đóng 1.0	d O_X5a Nm5a
+đô 1.0	d o1
+đôi 1.0	d o1 j1
+đông 1.0	d o1 Nm1
+đùa 1.0	d uo2
+đúng 1.0	d u5a Nm5a
+đăng 1.0	d a_X1 N1
+đĩ 1.0	d i4
+đĩa 1.0	d ie4
+đũa 1.0	d uo4
+đơn 1.0	d 71 n1
+đưa 1.0	d M71
+đương 1.0	d M71 N1
+đường 1.0	d M72 N2
+được 1.0	d M76b k6b
+đại 1.0	d a6a j6a
+đạo 1.0	d a6a w6a
+đạp 1.0	d a6b p6b
+đạt 1.0	d a6b t6b
+đảm 1.0	d a3 m3
+đảng 1.0	d a3 N3
+đảnh 1.0	d E_X3 J3
+đất 1.0	d 7_X5b t5b
+đấu 1.0	d 7_X5a w5a
+đấy 1.0	d 7_X5a j5a
+đầu 1.0	d 7_X2 w2
+đầy 1.0	d 7_X2 j2
+đẩy 1.0	d 7_X3 j3
+đậm 1.0	d 7_X6a m6a
+đập 1.0	d 7_X6b p6b
+đậy 1.0	d 7_X6a j6a
+đắc 1.0	d a_X5b k5b
+đắng 1.0	d a_X5a N5a
+đắp 1.0	d a_X5b p5b
+đằng 1.0	d a_X2 N2
+đặc 1.0	d a_X6b k6b
+đặt 1.0	d a_X6b t6b
+đẹn 1.0	d E6a n6a
+đẹp 1.0	d E6b p6b
+đẻ 1.0	d E3
+đế 1.0	d e5a
+đến 1.0	d e5a n5a
+đề 1.0	d e2
+đềm 1.0	d e2 m2
+đền 1.0	d e2 n2
+đều 1.0	d e2 w2
+để 1.0	d e3
+đệ 1.0	d e6a
+địa 1.0	d ie6a
+địch 1.0	d i6b k6b
+định 1.0	d i6a J6a
+đọc 1.0	d O_X6b kp6b
+đỏ 1.0	d O3
+đốc 1.0	d o5b kp5b
+đối 1.0	d o5a j5a
+đốt 1.0	d o5b t5b
+đồ 1.0	d o2
+đồi 1.0	d o2 j2
+đồn 1.0	d o2 n2
+đồng 1.0	d o2 Nm2
+đổ 1.0	d o3
+đổi 1.0	d o3 j3
+đổng 1.0	d o3 Nm3
+độ 1.0	d o6a
+độc 1.0	d o6b kp6b
+đội 1.0	d o6a j6a
+độn 1.0	d o6a n6a
+động 1.0	d o6a Nm6a
+đột 1.0	d o6b t6b
+đới 1.0	d 75a j5a
+đớn 1.0	d 75a n5a
+đớt 1.0	d 75b t5b
+đời 1.0	d 72 j2
+đờm 1.0	d 72 m2
+đợi 1.0	d 76a j6a
+đủ 1.0	d u3
+đứa 1.0	d M75a
+đức 1.0	d M5b k5b
+đứng 1.0	d M5a N5a
+đừng 1.0	d M2 N2
+ơ 1.0	71
+ơi 1.0	71 j1
+ơn 1.0	71 n1
+ư 1.0	M1
+ưng 1.0	M1 N1
+ưu 1.0	M1 w1
+ươm 1.0	M71 m1
+ương 1.0	M71 N1
+ước 1.0	M75b k5b
+ướp 1.0	M75b p5b
+ướt 1.0	M75b t5b
+ạ 1.0	a6a
+ạch 1.0	E_X6b k6b
+ải 1.0	a3 j3
+ảnh 1.0	E_X3 J3
+ảo 1.0	a3 w3
+ấm 1.0	7_X5a m5a
+ấn 1.0	7_X5a n5a
+ấp 1.0	7_X5b p5b
+ấy 1.0	7_X5a j5a
+ầm 1.0	7_X2 m2
+ẩm 1.0	7_X3 m3
+ẩn 1.0	7_X3 n3
+ẩu 1.0	7_X3 w3
+ập 1.0	7_X6b p6b
+ắt 1.0	a_X5b t5b
+ếch 1.0	e5b k5b
+ễnh 1.0	e4 J4
+ỉ 1.0	i3
+ỉa 1.0	ie3
+ốc 1.0	o5b kp5b
+ốm 1.0	o5a m5a
+ống 1.0	o5a Nm5a
+ốp 1.0	o5b p5b
+ồm 1.0	o2 m2
+ồn 1.0	o2 n2
+ổi 1.0	o3 j3
+ổn 1.0	o3 n3
+ổng 1.0	o3 Nm3
+ớ 1.0	75a
+ớt 1.0	75b t5b
+ờ 1.0	72
+ở 1.0	73
+ủ 1.0	u3
+ủa 1.0	uo3
+ủi 1.0	u3 j3
+ủn 1.0	u3 n3
+ủng 1.0	u3 Nm3
+ức 1.0	M5b k5b
+ứng 1.0	M5a N5a
+ừ 1.0	M2
+ừm 1.0	M2 m2
+ực 1.0	M6b k6b
+ỷ 1.0	i3

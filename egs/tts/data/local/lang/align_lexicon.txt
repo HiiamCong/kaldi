@@ -1,0 +1,2025 @@
+!SIL SIL_S
+<UNK> spn_S
+a a1_S
+ai a1_B j1_E
+an a1_B n1_E
+anh E_X1_B J1_E
+b b_S
+ba b_B a1_E
+ban b_B a1_I n1_E
+bao b_B a1_I w1_E
+bay b_B a_X1_I j1_E
+bi b_B i1_E
+bia b_B ie1_E
+bin b_B i1_I n1_E
+binh b_B i1_I J1_E
+biên b_B ie1_I n1_E
+biến b_B ie5a_I n5a_E
+biết b_B ie5b_I t5b_E
+biển b_B ie3_I n3_E
+biểu b_B ie3_I w3_E
+biện b_B ie6a_I n6a_E
+biệt b_B ie6b_I t6b_E
+bon b_B O1_I n1_E
+buông b_B uo1_I N1_E
+buồn b_B uo2_I n2_E
+buổi b_B uo3_I j3_E
+bà b_B a2_E
+bài b_B a2_I j2_E
+bàn b_B a2_I n2_E
+bàng b_B a2_I N2_E
+bào b_B a2_I w2_E
+bày b_B a_X2_I j2_E
+bác b_B a5b_I k5b_E
+bách b_B E_X5b_I k5b_E
+bán b_B a5a_I n5a_E
+bánh b_B E_X5a_I J5a_E
+báo b_B a5a_I w5a_E
+bây b_B 7_X1_I j1_E
+bã b_B a4_E
+bãi b_B a4_I j4_E
+bè b_B E2_E
+bé b_B E5a_E
+béo b_B E5a_I w5a_E
+bê b_B e1_E
+bên b_B e1_I n1_E
+bì b_B i2_E
+bình b_B i2_I J2_E
+bí b_B i5a_E
+bính b_B i5a_I J5a_E
+bò b_B O2_E
+bó b_B O5a_E
+bón b_B O5a_I n5a_E
+bóng b_B O_X5a_I Nm5a_E
+bô b_B o1_E
+bông b_B o1_I Nm1_E
+bõm b_B O4_I m4_E
+bù b_B u2_E
+bùng b_B u2_I Nm2_E
+bú b_B u5a_E
+búp b_B u5b_I p5b_E
+bút b_B u5b_I t5b_E
+băm b_B a_X1_I m1_E
+băng b_B a_X1_I N1_E
+bơm b_B 71_I m1_E
+bước b_B M75b_I k5b_E
+bướng b_B M75a_I N5a_E
+bạc b_B a6b_I k6b_E
+bạch b_B E_X6b_I k6b_E
+bạn b_B a6a_I n6a_E
+bạo b_B a6a_I w6a_E
+bản b_B a3_I n3_E
+bảng b_B a3_I N3_E
+bảo b_B a3_I w3_E
+bảy b_B a_X3_I j3_E
+bất b_B 7_X5b_I t5b_E
+bấy b_B 7_X5a_I j5a_E
+bần b_B 7_X2_I n2_E
+bầu b_B 7_X2_I w2_E
+bẩm b_B 7_X3_I m3_E
+bẩn b_B 7_X3_I n3_E
+bật b_B 7_X6b_I t6b_E
+bắc b_B a_X5b_I k5b_E
+bắt b_B a_X5b_I t5b_E
+bằm b_B a_X2_I m2_E
+bằng b_B a_X2_I N2_E
+bẻ b_B E3_E
+bến b_B e5a_I n5a_E
+bề b_B e2_E
+bền b_B e2_I n2_E
+bệnh b_B e6a_I J6a_E
+bị b_B i6a_E
+bịt b_B i6b_I t6b_E
+bọ b_B O6a_E
+bọn b_B O6a_I n6a_E
+bọt b_B O6b_I t6b_E
+bỏ b_B O3_E
+bố b_B o5a_E
+bốc b_B o5b_I kp5b_E
+bối b_B o5a_I j5a_E
+bốn b_B o5a_I n5a_E
+bồi b_B o2_I j2_E
+bổ b_B o3_E
+bỗng b_B o4_I Nm4_E
+bộ b_B o6a_E
+bộc b_B o6b_I kp6b_E
+bội b_B o6a_I j6a_E
+bột b_B o6b_I t6b_E
+bớ b_B 75a_E
+bớt b_B 75b_I t5b_E
+bờ b_B 72_E
+bời b_B 72_I j2_E
+bởi b_B 73_I j3_E
+bụi b_B u6a_I j6a_E
+bụng b_B u6a_I Nm6a_E
+bức b_B M5b_I k5b_E
+bực b_B M6b_I k6b_E
+ca k_B a1_E
+cam k_B a1_I m1_E
+can k_B a1_I n1_E
+canh k_B E_X1_I J1_E
+cao k_B a1_I w1_E
+cau k_B a_X1_I w1_E
+cay k_B a_X1_I j1_E
+cha ts\_B a1_E
+chai ts\_B a1_I j1_E
+chanh ts\_B E_X1_I J1_E
+che ts\_B E1_E
+chi ts\_B i1_E
+chia ts\_B ie1_E
+chim ts\_B i1_I m1_E
+chinh ts\_B i1_I J1_E
+chiếc ts\_B ie5b_I k5b_E
+chiếm ts\_B ie5a_I m5a_E
+chiến ts\_B ie5a_I n5a_E
+chiếu ts\_B ie5a_I w5a_E
+chiều ts\_B ie2_I w2_E
+cho ts\_B O1_E
+choạng ts\_B wp6a_I a6a_I N6a_E
+chu ts\_B u1_E
+chua ts\_B uo1_E
+chung ts\_B u1_I Nm1_E
+chuyên ts\_B wp1_I ie1_I n1_E
+chuyến ts\_B wp5a_I ie5a_I n5a_E
+chuyển ts\_B wp3_I ie3_I n3_E
+chuyện ts\_B wp6a_I ie6a_I n6a_E
+chuông ts\_B uo1_I N1_E
+chuẩn ts\_B wp3_I 7_X3_I n3_E
+chuối ts\_B uo5a_I j5a_E
+chài ts\_B a2_I j2_E
+chàm ts\_B a2_I m2_E
+chàng ts\_B a2_I N2_E
+chào ts\_B a2_I w2_E
+chán ts\_B a5a_I n5a_E
+cháu ts\_B a_X5a_I w5a_E
+châm ts\_B 7_X1_I m1_E
+chân ts\_B 7_X1_I n1_E
+châu ts\_B 7_X1_I w1_E
+chém ts\_B E5a_I m5a_E
+chép ts\_B E5b_I p5b_E
+chênh ts\_B e1_I J1_E
+chí ts\_B i5a_E
+chín ts\_B i5a_I n5a_E
+chính ts\_B i5a_I J5a_E
+chó ts\_B O5a_E
+chóc ts\_B O_X5b_I kp5b_E
+chóp ts\_B O5b_I p5b_E
+chôn ts\_B o1_I n1_E
+chõng ts\_B O_X4_I Nm4_E
+chùa ts\_B uo2_E
+chú ts\_B u5a_E
+chúa ts\_B uo5a_E
+chúng ts\_B u5a_I Nm5a_E
+chút ts\_B u5b_I t5b_E
+chăm ts\_B a_X1_I m1_E
+chĩa ts\_B ie4_E
+chơi ts\_B 71_I j1_E
+chưa ts\_B M71_E
+chưng ts\_B M1_I N1_E
+chương ts\_B M71_I N1_E
+chướng ts\_B M75a_I N5a_E
+chạch ts\_B E_X6b_I k6b_E
+chạm ts\_B a6a_I m6a_E
+chạp ts\_B a6b_I p6b_E
+chạy ts\_B a_X6a_I j6a_E
+chả ts\_B a3_E
+chảy ts\_B a_X3_I j3_E
+chấm ts\_B 7_X5a_I m5a_E
+chấp ts\_B 7_X5b_I p5b_E
+chất ts\_B 7_X5b_I t5b_E
+chập ts\_B 7_X6b_I p6b_E
+chật ts\_B 7_X6b_I t6b_E
+chắc ts\_B a_X5b_I k5b_E
+chẳng ts\_B a_X3_I N3_E
+chặt ts\_B a_X6b_I t6b_E
+chẽ ts\_B E4_E
+chế ts\_B e5a_E
+chết ts\_B e5b_I t5b_E
+chề ts\_B e2_E
+chỉ ts\_B i3_E
+chị ts\_B i6a_E
+chịu ts\_B i6a_I w6a_E
+chọn ts\_B O6a_I n6a_E
+chọt ts\_B O6b_I t6b_E
+chống ts\_B o5a_I Nm5a_E
+chồng ts\_B o2_I Nm2_E
+chỗ ts\_B o4_E
+chớ ts\_B 75a_E
+chờ ts\_B 72_E
+chợ ts\_B 76a_E
+chợt ts\_B 76b_I t6b_E
+chủ ts\_B u3_E
+chủng ts\_B u3_I Nm3_E
+chứ ts\_B M5a_E
+chức ts\_B M5b_I k5b_E
+chứng ts\_B M5a_I N5a_E
+chửng ts\_B M3_I N3_E
+chữ ts\_B M4_E
+chữa ts\_B M74_E
+coi k_B O1_I j1_E
+con k_B O1_I n1_E
+cong k_B O_X1_I Nm1_E
+cu k_B u1_E
+cua k_B uo1_E
+cung k_B u1_I Nm1_E
+cuối k_B uo5a_I j5a_E
+cuốn k_B uo5a_I n5a_E
+cuộc k_B uo6b_I k6b_E
+càn k_B a2_I n2_E
+càng k_B a2_I N2_E
+cành k_B E_X2_I J2_E
+cá k_B a5a_E
+các k_B a5b_I k5b_E
+cách k_B E_X5b_I k5b_E
+cái k_B a5a_I j5a_E
+cám k_B a5a_I m5a_E
+cán k_B a5a_I n5a_E
+cánh k_B E_X5a_I J5a_E
+cáo k_B a5a_I w5a_E
+cáp k_B a5b_I p5b_E
+cát k_B a5b_I t5b_E
+cáu k_B a_X5a_I w5a_E
+cân k_B 7_X1_I n1_E
+câu k_B 7_X1_I w1_E
+cây k_B 7_X1_I j1_E
+cãi k_B a4_I j4_E
+cò k_B O2_E
+còn k_B O2_I n2_E
+có k_B O5a_E
+cóc k_B O_X5b_I kp5b_E
+cót k_B O5b_I t5b_E
+cô k_B o1_E
+côn k_B o1_I n1_E
+công k_B o1_I Nm1_E
+cõi k_B O4_I j4_E
+cùng k_B u2_I Nm2_E
+cúi k_B u5a_I j5a_E
+cúng k_B u5a_I Nm5a_E
+cút k_B u5b_I t5b_E
+căm k_B a_X1_I m1_E
+căn k_B a_X1_I n1_E
+căng k_B a_X1_I N1_E
+cũ k_B u4_E
+cũng k_B u4_I Nm4_E
+cơ k_B 71_E
+cơn k_B 71_I n1_E
+cưới k_B M75a_I j5a_E
+cười k_B M72_I j2_E
+cường k_B M72_I N2_E
+cưỡng k_B M74_I N4_E
+cạn k_B a6a_I n6a_E
+cạnh k_B E_X6a_I J6a_E
+cạo k_B a6a_I w6a_E
+cạp k_B a6b_I p6b_E
+cả k_B a3_E
+cải k_B a3_I j3_E
+cảm k_B a3_I m3_E
+cản k_B a3_I n3_E
+cảnh k_B E_X3_I J3_E
+cấp k_B 7_X5b_I p5b_E
+cầm k_B 7_X2_I m2_E
+cần k_B 7_X2_I n2_E
+cầu k_B 7_X2_I w2_E
+cẩu k_B 7_X3_I w3_E
+cập k_B 7_X6b_I p6b_E
+cậu k_B 7_X6a_I w6a_E
+cắt k_B a_X5b_I t5b_E
+cọ k_B O6a_E
+cọng k_B O_X6a_I Nm6a_E
+cọp k_B O6b_I p6b_E
+cọt k_B O6b_I t6b_E
+cỏ k_B O3_E
+cố k_B o5a_E
+cốc k_B o5b_I kp5b_E
+cốt k_B o5b_I t5b_E
+cổng k_B o3_I Nm3_E
+cộng k_B o6a_I Nm6a_E
+cớ k_B 75a_E
+cờ k_B 72_E
+cởi k_B 73_I j3_E
+cỡ k_B 74_E
+cụ k_B u6a_E
+cục k_B u6b_I kp6b_E
+cụm k_B u6a_I m6a_E
+cụt k_B u6b_I t6b_E
+củ k_B u3_E
+của k_B uo3_E
+củi k_B u3_I j3_E
+củng k_B u3_I Nm3_E
+cứ k_B M5a_E
+cứu k_B M5a_I w5a_E
+cử k_B M3_E
+cửa k_B M73_E
+da z_B a1_E
+danh z_B E_X1_I J1_E
+di z_B i1_E
+dinh z_B i1_I J1_E
+diêm z_B ie1_I m1_E
+diễn z_B ie4_I n4_E
+diện z_B ie6a_I n6a_E
+diệt z_B ie6b_I t6b_E
+do z_B O1_E
+doanh z_B wp1_I E_X1_I J1_E
+dung z_B u1_I Nm1_E
+duy z_B wp1_I i1_E
+duyên z_B wp1_I ie1_I n1_E
+duyệt z_B wp6b_I ie6b_I t6b_E
+dài z_B a2_I j2_E
+dàn z_B a2_I n2_E
+dàng z_B a2_I N2_E
+dành z_B E_X2_I J2_E
+dày z_B a_X2_I j2_E
+dám z_B a5a_I m5a_E
+dân z_B 7_X1_I n1_E
+dâu z_B 7_X1_I w1_E
+dây z_B 7_X1_I j1_E
+dãi z_B a4_I j4_E
+dép z_B E5b_I p5b_E
+dê z_B e1_E
+dòng z_B O_X2_I Nm2_E
+dõi z_B O4_I j4_E
+dù z_B u2_E
+dùng z_B u2_I Nm2_E
+dăm z_B a_X1_I m1_E
+dĩ z_B i4_E
+dũng z_B u4_I Nm4_E
+dơ z_B 71_E
+dư z_B M1_E
+dương z_B M71_I N1_E
+dưới z_B M75a_I j5a_E
+dưỡng z_B M74_I N4_E
+dạ z_B a6a_E
+dạng z_B a6a_I N6a_E
+dạy z_B a_X6a_I j6a_E
+dả z_B a3_E
+dấu z_B 7_X5a_I w5a_E
+dầm z_B 7_X2_I m2_E
+dần z_B 7_X2_I n2_E
+dầu z_B 7_X2_I w2_E
+dẩu z_B 7_X3_I w3_E
+dẫn z_B 7_X4_I n4_E
+dật z_B 7_X6b_I t6b_E
+dậy z_B 7_X6a_I j6a_E
+dặn z_B a_X6a_I n6a_E
+dẹp z_B E6b_I p6b_E
+dễ z_B e4_E
+dị z_B i6a_E
+dịch z_B i6b_I k6b_E
+dịu z_B i6a_I w6a_E
+dọc z_B O_X6b_I kp6b_E
+dọn z_B O6a_I n6a_E
+dốc z_B o5b_I kp5b_E
+dốt z_B o5b_I t5b_E
+dồi z_B o2_I j2_E
+dồn z_B o2_I n2_E
+dờ z_B 72_E
+dụ z_B u6a_E
+dục z_B u6b_I kp6b_E
+dụng z_B u6a_I Nm6a_E
+dứa z_B M75a_E
+dứt z_B M5b_I t5b_E
+dừng z_B M2_I N2_E
+dự z_B M6a_E
+dựa z_B M76a_E
+dựng z_B M6a_I N6a_E
+e E1_S
+em E1_B m1_E
+eo E1_B w1_E
+ga G_B a1_E
+gai G_B a1_I j1_E
+gam G_B a1_I m1_E
+gan G_B a1_I n1_E
+ghi G_B i1_E
+ghim G_B i1_I m1_E
+ghét G_B E5b_I t5b_E
+ghẻ G_B E3_E
+ghế G_B e5a_E
+gia dZ_B a1_E
+giai dZ_B a1_I j1_E
+gian dZ_B a1_I n1_E
+giang dZ_B a1_I N1_E
+giao dZ_B a1_I w1_E
+già dZ_B a2_E
+giành dZ_B E_X2_I J2_E
+giàu dZ_B a_X2_I w2_E
+giá dZ_B a5a_E
+giác dZ_B a5b_I k5b_E
+giám dZ_B a5a_I m5a_E
+giáo dZ_B a5a_I w5a_E
+giáp dZ_B a5b_I p5b_E
+giây dZ_B 7_X1_I j1_E
+giã dZ_B a4_E
+giãn dZ_B a4_I n4_E
+giê dZ_B e1_E
+giêng dZ_B ie1_I N1_E
+giò dZ_B O2_E
+gió dZ_B O5a_E
+giùm dZ_B u2_I m2_E
+giúp dZ_B u5b_I p5b_E
+giường dZ_B M72_I N2_E
+giả dZ_B a3_E
+giải dZ_B a3_I j3_E
+giảm dZ_B a3_I m3_E
+giảng dZ_B a3_I N3_E
+giấc dZ_B 7_X5b_I k5b_E
+giấu dZ_B 7_X5a_I w5a_E
+giấy dZ_B 7_X5a_I j5a_E
+giầu dZ_B 7_X2_I w2_E
+giận dZ_B 7_X6a_I n6a_E
+giật dZ_B 7_X6b_I t6b_E
+giằng dZ_B a_X2_I N2_E
+giặc dZ_B a_X6b_I k6b_E
+giặt dZ_B a_X6b_I t6b_E
+giếm dZ_B e5a_I m5a_E
+giết dZ_B ie5b_I t5b_E
+giềng dZ_B ie2_I N2_E
+giọng dZ_B O_X6a_I Nm6a_E
+giọt dZ_B O6b_I t6b_E
+giỏi dZ_B O3_I j3_E
+giống dZ_B o5a_I Nm5a_E
+giới dZ_B 75a_I j5a_E
+giờ dZ_B 72_E
+giữ dZ_B M4_E
+giữa dZ_B M74_E
+goá G_B wp5a_I a5a_E
+goép G_B wp5b_I E5b_I p5b_E
+guồng G_B uo2_I N2_E
+gà G_B a2_E
+gái G_B a5a_I j5a_E
+gây G_B 7_X1_I j1_E
+gã G_B a4_E
+gì dZ_B i2_E
+gìn dZ_B i2_I n2_E
+gò G_B O2_E
+gòn G_B O2_I n2_E
+góc G_B O_X5b_I kp5b_E
+góp G_B O5b_I p5b_E
+gô G_B o1_E
+gù G_B u2_E
+gương G_B M71_I N1_E
+gạo G_B a6a_I w6a_E
+gảy G_B a_X3_I j3_E
+gấp G_B 7_X5b_I p5b_E
+gần G_B 7_X2_I n2_E
+gật G_B 7_X6b_I t6b_E
+gậy G_B 7_X6a_I j6a_E
+gắn G_B a_X5a_I n5a_E
+gắng G_B a_X5a_I N5a_E
+gặp G_B a_X6b_I p6b_E
+gọi G_B O6a_I j6a_E
+gốc G_B o5b_I kp5b_E
+gồm G_B o2_I m2_E
+gỗ G_B o4_E
+gội G_B o6a_I j6a_E
+gục G_B u6b_I kp6b_E
+gừng G_B M2_I N2_E
+gửi G_B M3_I j3_E
+hai h_B a1_I j1_E
+ham h_B a1_I m1_E
+hang h_B a1_I N1_E
+hay h_B a_X1_I j1_E
+heo h_B E1_I w1_E
+hi h_B i1_E
+hiến h_B ie5a_I n5a_E
+hiếu h_B ie5a_I w5a_E
+hiểm h_B ie3_I m3_E
+hiểu h_B ie3_I w3_E
+hiện h_B ie6a_I n6a_E
+hiệp h_B ie6b_I p6b_E
+hiệu h_B ie6a_I w6a_E
+ho h_B O1_E
+hoa h_B wp1_I a1_E
+hoà h_B wp2_I a2_E
+hoài h_B wp2_I a2_I j2_E
+hoàn h_B wp2_I a2_I n2_E
+hoàng h_B wp2_I a2_I N2_E
+hoá h_B wp5a_I a5a_E
+hoạ h_B wp6a_I a6a_E
+hoạch h_B wp6b_I E_X6b_I k6b_E
+hoạt h_B wp6b_I a6b_I t6b_E
+hoảng h_B wp3_I a3_I N3_E
+hoặc h_B wp6b_I a_X6b_I k6b_E
+hung h_B u1_I Nm1_E
+huy h_B wp1_I i1_E
+huyết h_B wp5b_I ie5b_I t5b_E
+huyện h_B wp6a_I ie6a_I n6a_E
+huế h_B wp5a_I e5a_E
+huệ h_B wp6a_I e6a_E
+huỳnh h_B wp2_I i2_I J2_E
+huỷ h_B wp3_I i3_E
+hy h_B i1_E
+hà h_B a2_E
+hàm h_B a2_I m2_E
+hàn h_B a2_I n2_E
+hàng h_B a2_I N2_E
+hành h_B E_X2_I J2_E
+hào h_B a2_I w2_E
+hái h_B a5a_I j5a_E
+hám h_B a5a_I m5a_E
+hán h_B a5a_I n5a_E
+hát h_B a5b_I t5b_E
+hãm h_B a4_I m4_E
+hãy h_B a_X4_I j4_E
+hình h_B i2_I J2_E
+hò h_B O2_E
+hòn h_B O2_I n2_E
+hói h_B O5a_I j5a_E
+hô h_B o1_E
+hôi h_B o1_I j1_E
+hôm h_B o1_I m1_E
+hôn h_B o1_I n1_E
+hông h_B o1_I Nm1_E
+hùng h_B u2_I Nm2_E
+húm h_B u5a_I m5a_E
+hút h_B u5b_I t5b_E
+hũ h_B u4_E
+hơi h_B 71_I j1_E
+hơn h_B 71_I n1_E
+hư h_B M1_E
+hương h_B M71_I N1_E
+hướng h_B M75a_I N5a_E
+hưởng h_B M73_I N3_E
+hượm h_B M76a_I m6a_E
+hại h_B a6a_I j6a_E
+hạn h_B a6a_I n6a_E
+hạng h_B a6a_I N6a_E
+hạnh h_B E_X6a_I J6a_E
+hạt h_B a6b_I t6b_E
+hả h_B a3_E
+hải h_B a3_I j3_E
+hảo h_B a3_I w3_E
+hấp h_B 7_X5b_I p5b_E
+hất h_B 7_X5b_I t5b_E
+hầu h_B 7_X2_I w2_E
+hận h_B 7_X6a_I n6a_E
+hậu h_B 7_X6a_I w6a_E
+hắn h_B a_X5a_I n5a_E
+hắt h_B a_X5b_I t5b_E
+hằng h_B a_X2_I N2_E
+hẹp h_B E6b_I p6b_E
+hết h_B e5b_I t5b_E
+hề h_B e2_E
+hễ h_B e4_E
+hệ h_B e6a_E
+hịch h_B i6b_I k6b_E
+họ h_B O6a_E
+học h_B O_X6b_I kp6b_E
+họng h_B O_X6a_I Nm6a_E
+họp h_B O6b_I p6b_E
+hỏi h_B O3_I j3_E
+hỏng h_B O_X3_I Nm3_E
+hố h_B o5a_E
+hốc h_B o5b_I kp5b_E
+hối h_B o5a_I j5a_E
+hốt h_B o5b_I t5b_E
+hồ h_B o2_E
+hồi h_B o2_I j2_E
+hồn h_B o2_I n2_E
+hồng h_B o2_I Nm2_E
+hổ h_B o3_E
+hỗ h_B o4_E
+hỗn h_B o4_I n4_E
+hộ h_B o6a_E
+hội h_B o6a_I j6a_E
+hột h_B o6b_I t6b_E
+hở h_B 73_E
+hợp h_B 76b_I p6b_E
+hứng h_B M5a_I N5a_E
+hữu h_B M4_I w4_E
+i i1_S
+im i1_B m1_E
+k k_S
+khai x_B a1_I j1_E
+khao x_B a1_I w1_E
+khi x_B i1_E
+khiến x_B ie5a_I n5a_E
+khoa x_B wp1_I a1_E
+khoai x_B wp1_I a1_I j1_E
+khoảng x_B wp3_I a3_I N3_E
+khoẻ x_B wp3_I E3_E
+khu x_B u1_E
+khuya x_B wp1_I ie1_E
+khuyên x_B wp1_I ie1_I n1_E
+khuôn x_B uo1_I n1_E
+khuất x_B wp5b_I 7_X5b_I t5b_E
+khá x_B a5a_E
+khác x_B a5b_I k5b_E
+khách x_B E_X5b_I k5b_E
+khái x_B a5a_I j5a_E
+khám x_B a5a_I m5a_E
+kháng x_B a5a_I N5a_E
+khánh x_B E_X5a_I J5a_E
+khâm x_B 7_X1_I m1_E
+khè x_B E2_E
+khéo x_B E5a_I w5a_E
+khép x_B E5b_I p5b_E
+khí x_B i5a_E
+khía x_B ie5a_E
+khích x_B i5b_I k5b_E
+khó x_B O5a_E
+khóc x_B O_X5b_I kp5b_E
+khô x_B o1_E
+không x_B o1_I Nm1_E
+khúc x_B u5b_I kp5b_E
+khúm x_B u5a_I m5a_E
+khăn x_B a_X1_I n1_E
+khưu x_B M1_I w1_E
+khả x_B a3_E
+khản x_B a3_I n3_E
+khảo x_B a3_I w3_E
+khẩn x_B 7_X3_I n3_E
+khẩu x_B 7_X3_I w3_E
+khắc x_B a_X5b_I k5b_E
+khắp x_B a_X5b_I p5b_E
+khẽ x_B E4_E
+khịch x_B i6b_I k6b_E
+khọm x_B O6a_I m6a_E
+khỏi x_B O3_I j3_E
+khố x_B o5a_E
+khối x_B o5a_I j5a_E
+khổ x_B o3_E
+khổng x_B o3_I Nm3_E
+khởi x_B 73_I j3_E
+khục x_B u6b_I kp6b_E
+khứ x_B M5a_E
+ki k_B i1_E
+kia k_B ie1_E
+kim k_B i1_I m1_E
+kinh k_B i1_I J1_E
+kiên k_B ie1_I n1_E
+kiêng k_B ie1_I N1_E
+kiếm k_B ie5a_I m5a_E
+kiến k_B ie5a_I n5a_E
+kiết k_B ie5b_I t5b_E
+kiểm k_B ie3_I m3_E
+kiểu k_B ie3_I w3_E
+kiện k_B ie6a_I n6a_E
+kèm k_B E2_I m2_E
+kéo k_B E5a_I w5a_E
+kép k_B E5b_I p5b_E
+két k_B E5b_I t5b_E
+kê k_B e1_E
+kênh k_B e1_I J1_E
+kêu k_B e1_I w1_E
+kìa k_B ie2_E
+kìm k_B i2_I m2_E
+kích k_B i5b_I k5b_E
+kín k_B i5a_I n5a_E
+kính k_B i5a_I J5a_E
+kít k_B i5b_I t5b_E
+ký k_B i5a_E
+kĩ k_B i4_E
+kưn k_B M1_I n1_E
+kẹt k_B E6b_I t6b_E
+kẻ k_B E3_E
+kẽ k_B E4_E
+kẽo k_B E4_I w4_E
+kế k_B e5a_E
+kết k_B e5b_I t5b_E
+kề k_B e2_E
+kể k_B e3_E
+kịp k_B i6b_I p6b_E
+kỳ k_B i2_E
+kỵ k_B i6a_E
+kỷ k_B i3_E
+kỹ k_B i4_E
+la l_B a1_E
+lai l_B a1_I j1_E
+lam l_B a1_I m1_E
+lan l_B a1_I n1_E
+lang l_B a1_I N1_E
+lanh l_B E_X1_I J1_E
+lao l_B a1_I w1_E
+lau l_B a_X1_I w1_E
+len l_B E1_I n1_E
+lin l_B i1_I n1_E
+linh l_B i1_I J1_E
+liên l_B ie1_I n1_E
+liền l_B ie2_I n2_E
+liệt l_B ie6b_I t6b_E
+liệu l_B ie6a_I w6a_E
+lo l_B O1_E
+loe l_B wp1_I E1_E
+long l_B O_X1_I Nm1_E
+loài l_B wp2_I a2_I j2_E
+loại l_B wp6a_I a6a_I j6a_E
+loạn l_B wp6a_I a6a_I n6a_E
+luyên l_B wp1_I ie1_I n1_E
+luôn l_B uo1_I n1_E
+luận l_B wp6a_I 7_X6a_I n6a_E
+luật l_B wp6b_I 7_X6b_I t6b_E
+luỹ l_B wp4_I i4_E
+ly l_B i1_E
+là l_B a2_E
+làm l_B a2_I m2_E
+làn l_B a2_I n2_E
+làng l_B a2_I N2_E
+lành l_B E_X2_I J2_E
+lá l_B a5a_E
+lác l_B a5b_I k5b_E
+lái l_B a5a_I j5a_E
+láng l_B a5a_I N5a_E
+lánh l_B E_X5a_I J5a_E
+lâm l_B 7_X1_I m1_E
+lân l_B 7_X1_I n1_E
+lâu l_B 7_X1_I w1_E
+lãnh l_B E_X4_I J4_E
+lão l_B a4_I w4_E
+léo l_B E5a_I w5a_E
+lê l_B e1_E
+lên l_B e1_I n1_E
+lình l_B i2_I J2_E
+lí l_B i5a_E
+lính l_B i5a_I J5a_E
+lò l_B O2_E
+lòng l_B O_X2_I Nm2_E
+ló l_B O5a_E
+lót l_B O5b_I t5b_E
+lô l_B o1_E
+lôi l_B o1_I j1_E
+lông l_B o1_I Nm1_E
+lúc l_B u5b_I kp5b_E
+lý l_B i5a_E
+lăm l_B a_X1_I m1_E
+lăng l_B a_X1_I N1_E
+lũ l_B u4_E
+lư l_B M1_E
+lưng l_B M1_I N1_E
+lưu l_B M1_I w1_E
+lương l_B M71_I N1_E
+lưới l_B M75a_I j5a_E
+lưỡi l_B M74_I j4_E
+lược l_B M76b_I k6b_E
+lượng l_B M76a_I N6a_E
+lượt l_B M76b_I t6b_E
+lạ l_B a6a_E
+lạc l_B a6b_I k6b_E
+lại l_B a6a_I j6a_E
+lạnh l_B E_X6a_I J6a_E
+lấy l_B 7_X5a_I j5a_E
+lầm l_B 7_X2_I m2_E
+lần l_B 7_X2_I n2_E
+lầy l_B 7_X2_I j2_E
+lẩn l_B 7_X3_I n3_E
+lẫm l_B 7_X4_I m4_E
+lẫy l_B 7_X4_I j4_E
+lập l_B 7_X6b_I p6b_E
+lật l_B 7_X6b_I t6b_E
+lắm l_B a_X5a_I m5a_E
+lắng l_B a_X5a_I N5a_E
+lằn l_B a_X2_I n2_E
+lặng l_B a_X6a_I N6a_E
+lặt l_B a_X6b_I t6b_E
+lẹo l_B E6a_I w6a_E
+lẻ l_B E3_E
+lẽ l_B E4_E
+lề l_B e2_E
+lễ l_B e4_E
+lệ l_B e6a_E
+lệch l_B e6b_I k6b_E
+lệnh l_B e6a_I J6a_E
+lị l_B i6a_E
+lịch l_B i6b_I k6b_E
+lọ l_B O6a_E
+lọc l_B O_X6b_I kp6b_E
+lọm l_B O6a_I m6a_E
+lối l_B o5a_I j5a_E
+lốp l_B o5b_I p5b_E
+lồng l_B o2_I Nm2_E
+lỗi l_B o4_I j4_E
+lộ l_B o6a_E
+lộc l_B o6b_I kp6b_E
+lội l_B o6a_I j6a_E
+lớn l_B 75a_I n5a_E
+lớp l_B 75b_I p5b_E
+lờ l_B 72_E
+lời l_B 72_I j2_E
+lở l_B 73_E
+lỡ l_B 74_E
+lợi l_B 76a_I j6a_E
+lợt l_B 76b_I t6b_E
+lục l_B u6b_I kp6b_E
+lụt l_B u6b_I t6b_E
+lừng l_B M2_I N2_E
+lửa l_B M73_E
+lựa l_B M76a_E
+lực l_B M6b_I k6b_E
+lỵ l_B i6a_E
+ma m_B a1_E
+mai m_B a1_I j1_E
+mang m_B a1_I N1_E
+mau m_B a_X1_I w1_E
+may m_B a_X1_I j1_E
+me m_B E1_E
+men m_B E1_I n1_E
+mi m_B i1_E
+minh m_B i1_I J1_E
+miên m_B ie1_I n1_E
+miêu m_B ie1_I w1_E
+miếng m_B ie5a_I N5a_E
+miễn m_B ie4_I n4_E
+miệng m_B ie6a_I N6a_E
+mong m_B O_X1_I Nm1_E
+mua m_B uo1_E
+muối m_B uo5a_I j5a_E
+muốn m_B uo5a_I n5a_E
+muộn m_B uo6a_I n6a_E
+mà m_B a2_E
+màu m_B a_X2_I w2_E
+mày m_B a_X2_I j2_E
+má m_B a5a_E
+mái m_B a5a_I j5a_E
+máng m_B a5a_I N5a_E
+máo m_B a5a_I w5a_E
+mát m_B a5b_I t5b_E
+máu m_B a_X5a_I w5a_E
+máy m_B a_X5a_I j5a_E
+mâu m_B 7_X1_I w1_E
+mã m_B a4_E
+mãi m_B a4_I j4_E
+mãn m_B a4_I n4_E
+mèo m_B E2_I w2_E
+méc m_B E5b_I k5b_E
+mét m_B E5b_I t5b_E
+mê m_B e1_E
+mì m_B i2_E
+mình m_B i2_I J2_E
+mò m_B O2_E
+mòn m_B O2_I n2_E
+món m_B O5a_I n5a_E
+móng m_B O_X5a_I Nm5a_E
+mô m_B o1_E
+môi m_B o1_I j1_E
+môn m_B o1_I n1_E
+mông m_B o1_I Nm1_E
+mõm m_B O4_I m4_E
+mùa m_B uo2_E
+mùi m_B u2_I j2_E
+măng m_B a_X1_I N1_E
+mĩ m_B i4_E
+mũi m_B u4_I j4_E
+mơ m_B 71_E
+mưa m_B M71_E
+mưu m_B M1_I w1_E
+mươi m_B M71_I j1_E
+mướp m_B M75b_I p5b_E
+mười m_B M72_I j2_E
+mượt m_B M76b_I t6b_E
+mạch m_B E_X6b_I k6b_E
+mạng m_B a6a_I N6a_E
+mạnh m_B E_X6a_I J6a_E
+mạo m_B a6a_I w6a_E
+mả m_B a3_E
+mảnh m_B E_X3_I J3_E
+mất m_B 7_X5b_I t5b_E
+mấy m_B 7_X5a_I j5a_E
+mầm m_B 7_X2_I m2_E
+mầu m_B 7_X2_I w2_E
+mẫu m_B 7_X4_I w4_E
+mật m_B 7_X6b_I t6b_E
+mậu m_B 7_X6a_I w6a_E
+mắc m_B a_X5b_I k5b_E
+mắm m_B a_X5a_I m5a_E
+mắng m_B a_X5a_I N5a_E
+mắt m_B a_X5b_I t5b_E
+mặc m_B a_X6b_I k6b_E
+mặt m_B a_X6b_I t6b_E
+mẹ m_B E6a_E
+mẹc m_B E6b_I k6b_E
+mẹo m_B E6a_I w6a_E
+mẻ m_B E3_E
+mẽ m_B E4_E
+mến m_B e5a_I n5a_E
+mết m_B e5b_I t5b_E
+mếu m_B e5a_I w5a_E
+mềm m_B e2_I m2_E
+mỉa m_B ie3_E
+mỉm m_B i3_I m3_E
+mị m_B i6a_E
+mọ m_B O6a_E
+mọc m_B O_X6b_I kp6b_E
+mọi m_B O6a_I j6a_E
+mọt m_B O6b_I t6b_E
+mỏng m_B O_X3_I Nm3_E
+mối m_B o5a_I j5a_E
+mốt m_B o5b_I t5b_E
+mồ m_B o2_E
+mổ m_B o3_E
+mỗi m_B o4_I j4_E
+mộ m_B o6a_E
+một m_B o6b_I t6b_E
+mớ m_B 75a_E
+mới m_B 75a_I j5a_E
+mờ m_B 72_E
+mời m_B 72_I j2_E
+mở m_B 73_E
+mỡ m_B 74_E
+mụ m_B u6a_E
+mục m_B u6b_I kp6b_E
+mức m_B M5b_I k5b_E
+mực m_B M6b_I k6b_E
+mỹ m_B i4_E
+na n_B a1_E
+nam n_B a1_I m1_E
+nay n_B a_X1_I j1_E
+ne n_B E1_E
+ngang N_B a1_I N1_E
+ngay N_B a_X1_I j1_E
+nghe N_B E1_E
+nghi N_B i1_E
+nghiên N_B ie1_I n1_E
+nghiền N_B ie2_I n2_E
+nghiệm N_B ie6a_I m6a_E
+nghiệp N_B ie6b_I p6b_E
+nghèo N_B E2_I w2_E
+nghìn N_B i2_I n2_E
+nghĩ N_B i4_E
+nghĩa N_B ie4_E
+nghẹo N_B E6a_I w6a_E
+nghếch N_B e5b_I k5b_E
+nghề N_B e2_E
+nghệ N_B e6a_E
+nghị N_B i6a_E
+nghịch N_B i6b_I k6b_E
+nghịu N_B i6a_I w6a_E
+ngoan N_B wp1_I a1_I n1_E
+ngoe N_B wp1_I E1_E
+ngon N_B O1_I n1_E
+ngoài N_B wp2_I a2_I j2_E
+ngoại N_B wp6a_I a6a_I j6a_E
+ngu N_B u1_E
+nguy N_B wp1_I i1_E
+nguyên N_B wp1_I ie1_I n1_E
+nguyền N_B wp2_I ie2_I n2_E
+nguyễn N_B wp4_I ie4_I n4_E
+nguyện N_B wp6a_I ie6a_I n6a_E
+nguồn N_B uo2_I n2_E
+ngàn N_B a2_I n2_E
+ngành N_B E_X2_I J2_E
+ngày N_B a_X2_I j2_E
+ngán N_B a5a_I n5a_E
+ngâm N_B 7_X1_I m1_E
+ngân N_B 7_X1_I n1_E
+ngãi N_B a4_I j4_E
+ngòi N_B O2_I j2_E
+ngôn N_B o1_I n1_E
+ngũ N_B u4_E
+ngư N_B M1_E
+người N_B M72_I j2_E
+ngượng N_B M76a_I N6a_E
+ngạc N_B a6b_I k6b_E
+ngại N_B a6a_I j6a_E
+ngầm N_B 7_X2_I m2_E
+ngẩng N_B 7_X3_I N3_E
+ngắm N_B a_X5a_I m5a_E
+ngắn N_B a_X5a_I n5a_E
+ngọ N_B O6a_E
+ngọc N_B O_X6b_I kp6b_E
+ngọt N_B O6b_I t6b_E
+ngốc N_B o5b_I kp5b_E
+ngồi N_B o2_I j2_E
+ngộ N_B o6a_E
+ngột N_B o6b_I t6b_E
+ngờ N_B 72_E
+ngợm N_B 76a_I m6a_E
+ngụ N_B u6a_E
+ngủ N_B u3_E
+ngừa N_B M72_E
+ngừng N_B M2_I N2_E
+ngửa N_B M73_E
+ngửi N_B M3_I j3_E
+ngữ N_B M4_E
+ngựa N_B M76a_E
+ngực N_B M6b_I k6b_E
+nha J_B a1_E
+nhanh J_B E_X1_I J1_E
+nhau J_B a_X1_I w1_E
+nheo J_B E1_I w1_E
+nhiên J_B ie1_I n1_E
+nhiêu J_B ie1_I w1_E
+nhiều J_B ie2_I w2_E
+nhiểu J_B ie3_I w3_E
+nhiễm J_B ie4_I m4_E
+nhiệm J_B ie6a_I m6a_E
+nhiệt J_B ie6b_I t6b_E
+nho J_B O1_E
+nhu J_B u1_E
+nhung J_B u1_I Nm1_E
+nhuyễn J_B wp4_I ie4_I n4_E
+nhà J_B a2_E
+nhàn J_B a2_I n2_E
+nhàng J_B a2_I N2_E
+nhào J_B a2_I w2_E
+nhánh J_B E_X5a_I J5a_E
+nhân J_B 7_X1_I n1_E
+nhã J_B a4_E
+nhãn J_B a4_I n4_E
+nhé J_B E5a_E
+nhìn J_B i2_I n2_E
+nhí J_B i5a_E
+nhíu J_B i5a_I w5a_E
+nhóm J_B O5a_I m5a_E
+nhóng J_B O_X5a_I Nm5a_E
+nhõm J_B O4_I m4_E
+nhăn J_B a_X1_I n1_E
+như J_B M1_E
+nhưng J_B M1_I N1_E
+nhược J_B M76b_I k6b_E
+nhạc J_B a6b_I k6b_E
+nhạt J_B a6b_I t6b_E
+nhạy J_B a_X6a_I j6a_E
+nhảm J_B a3_I m3_E
+nhảy J_B a_X3_I j3_E
+nhất J_B 7_X5b_I t5b_E
+nhẫn J_B 7_X4_I n4_E
+nhận J_B 7_X6a_I n6a_E
+nhập J_B 7_X6b_I p6b_E
+nhật J_B 7_X6b_I t6b_E
+nhắm J_B a_X5a_I m5a_E
+nhằm J_B a_X2_I m2_E
+nhẵn J_B a_X4_I n4_E
+nhẹ J_B E6a_E
+nhẻm J_B E3_I m3_E
+nhếch J_B e5b_I k5b_E
+nhịp J_B i6b_I p6b_E
+nhỏ J_B O3_E
+nhồi J_B o2_I j2_E
+nhớ J_B 75a_E
+nhờ J_B 72_E
+nhức J_B M5b_I k5b_E
+những J_B M4_I N4_E
+nin n_B i1_I n1_E
+ninh n_B i1_I J1_E
+niêm n_B ie1_I m1_E
+niên n_B ie1_I n1_E
+niềm n_B ie2_I m2_E
+niểng n_B ie3_I N3_E
+niệm n_B ie6a_I m6a_E
+no n_B O1_E
+non n_B O1_I n1_E
+nuôi n_B uo1_I j1_E
+nuốt n_B uo5b_I t5b_E
+nàng n_B a2_I N2_E
+nào n_B a2_I w2_E
+này n_B a_X2_I j2_E
+nám n_B a5a_I m5a_E
+nát n_B a5b_I t5b_E
+náy n_B a_X5a_I j5a_E
+nâng n_B 7_X1_I N1_E
+nãy n_B a_X4_I j4_E
+nè n_B E2_E
+nêm n_B e1_I m1_E
+nên n_B e1_I n1_E
+nêu n_B e1_I w1_E
+nín n_B i5a_I n5a_E
+nòng n_B O_X2_I Nm2_E
+nó n_B O5a_E
+nói n_B O5a_I j5a_E
+nóng n_B O_X5a_I Nm5a_E
+nông n_B o1_I Nm1_E
+núm n_B u5a_I m5a_E
+năm n_B a_X1_I m1_E
+năng n_B a_X1_I N1_E
+nơi n_B 71_I j1_E
+nương n_B M71_I N1_E
+nước n_B M75b_I k5b_E
+nướng n_B M75a_I N5a_E
+nạc n_B a6b_I k6b_E
+nạp n_B a6b_I p6b_E
+nản n_B a3_I n3_E
+nảy n_B a_X3_I j3_E
+nấc n_B 7_X5b_I k5b_E
+nấm n_B 7_X5a_I m5a_E
+nấp n_B 7_X5b_I p5b_E
+nẩy n_B 7_X3_I j3_E
+nắm n_B a_X5a_I m5a_E
+nắng n_B a_X5a_I N5a_E
+nằm n_B a_X2_I m2_E
+nẵng n_B a_X4_I N4_E
+nặng n_B a_X6a_I N6a_E
+nếm n_B e5a_I m5a_E
+nếu n_B e5a_I w5a_E
+nền n_B e2_I n2_E
+nỉ n_B i3_E
+nọ n_B O6a_E
+nọc n_B O_X6b_I kp6b_E
+nỏ n_B O3_E
+nối n_B o5a_I j5a_E
+nồng n_B o2_I Nm2_E
+nổ n_B o3_E
+nổi n_B o3_I j3_E
+nỗ n_B o4_E
+nỗi n_B o4_I j4_E
+nộ n_B o6a_E
+nội n_B o6a_I j6a_E
+nờ n_B 72_E
+nở n_B 73_E
+nợ n_B 76a_E
+nửa n_B M73_E
+nữ n_B M4_E
+nữa n_B M74_E
+o O1_S
+oai wp_B a1_I j1_E
+ong O_X1_B Nm1_E
+oà wp_B a2_E
+oàng wp_B a2_I N2_E
+oán wp_B a5a_I n5a_E
+oánh wp_B E_X5a_I J5a_E
+oắt wp_B a_X5b_I t5b_E
+oặt wp_B a_X6b_I t6b_E
+pa p_B a1_E
+ph f_S
+pha f_B a1_E
+phai f_B a1_I j1_E
+phe f_B E1_E
+phi f_B i1_E
+phiên f_B ie1_I n1_E
+phong f_B O_X1_I Nm1_E
+phu f_B u1_E
+phá f_B a5a_E
+phái f_B a5a_I j5a_E
+phán f_B a5a_I n5a_E
+pháp f_B a5b_I p5b_E
+phát f_B a5b_I t5b_E
+phân f_B 7_X1_I n1_E
+phép f_B E5b_I p5b_E
+phê f_B e1_E
+phí f_B i5a_E
+phía f_B ie5a_E
+phòng f_B O_X2_I Nm2_E
+phó f_B O5a_E
+phóc f_B O_X5b_I kp5b_E
+phóng f_B O_X5a_I Nm5a_E
+phù f_B u2_E
+phú f_B u5a_E
+phúc f_B u5b_I kp5b_E
+phút f_B u5b_I t5b_E
+phơi f_B 71_I j1_E
+phương f_B M71_I N1_E
+phạm f_B a6a_I m6a_E
+phạt f_B a6b_I t6b_E
+phải f_B a3_I j3_E
+phần f_B 7_X2_I n2_E
+phẩm f_B 7_X3_I m3_E
+phẩy f_B 7_X3_I j3_E
+phẫn f_B 7_X4_I n4_E
+phận f_B 7_X6a_I n6a_E
+phật f_B 7_X6b_I t6b_E
+phẳng f_B a_X3_I N3_E
+phịch f_B i6b_I k6b_E
+phịu f_B i6a_I w6a_E
+phỏng f_B O_X3_I Nm3_E
+phố f_B o5a_E
+phối f_B o5a_I j5a_E
+phổi f_B o3_I j3_E
+phụ f_B u6a_E
+phục f_B u6b_I kp6b_E
+phụng f_B u6a_I Nm6a_E
+phủ f_B u3_E
+phức f_B M5b_I k5b_E
+phừng f_B M2_I N2_E
+pu p_B u1_E
+pua p_B uo1_E
+pí p_B i5a_E
+qua k_B wp1_I a1_E
+quan k_B wp1_I a1_I n1_E
+quang k_B wp1_I a1_I N1_E
+quanh k_B wp1_I E_X1_I J1_E
+quay k_B wp1_I a_X1_I j1_E
+quen k_B wp1_I E1_I n1_E
+quy k_B wp1_I i1_E
+quyết k_B wp5b_I ie5b_I t5b_E
+quyền k_B wp2_I ie2_I n2_E
+quà k_B wp2_I a2_E
+quá k_B wp5a_I a5a_E
+quán k_B wp5a_I a5a_I n5a_E
+quát k_B wp5b_I a5b_I t5b_E
+quân k_B wp1_I 7_X1_I n1_E
+quét k_B wp5b_I E5b_I t5b_E
+quê k_B wp1_I e1_E
+quên k_B wp1_I e1_I n1_E
+quý k_B wp5a_I i5a_E
+quăng k_B wp1_I a_X1_I N1_E
+quạch k_B wp6b_I E_X6b_I k6b_E
+quại k_B wp6a_I a6a_I j6a_E
+quả k_B wp3_I a3_E
+quản k_B wp3_I a3_I n3_E
+quảng k_B wp3_I a3_I N3_E
+quần k_B wp2_I 7_X2_I n2_E
+quận k_B wp6a_I 7_X6a_I n6a_E
+quật k_B wp6b_I 7_X6b_I t6b_E
+quằn k_B wp2_I a_X2_I n2_E
+quế k_B wp5a_I e5a_E
+quốc k_B uo5b_I k5b_E
+ra r_B a1_E
+rao r_B a1_I w1_E
+rau r_B a_X1_I w1_E
+rem r_B E1_I m1_E
+ren r_B E1_I n1_E
+reo r_B E1_I w1_E
+ri r_B i1_E
+riêng r_B ie1_I N1_E
+run r_B u1_I n1_E
+ruộng r_B uo6a_I N6a_E
+ruột r_B uo6b_I t6b_E
+ràng r_B a2_I N2_E
+rác r_B a5b_I k5b_E
+rách r_B E_X5b_I k5b_E
+ráng r_B a5a_I N5a_E
+râu r_B 7_X1_I w1_E
+rãi r_B a4_I j4_E
+rãnh r_B E_X4_I J4_E
+réo r_B E5a_I w5a_E
+rít r_B i5b_I t5b_E
+ríu r_B i5a_I w5a_E
+rò r_B O2_E
+rô r_B o1_E
+rõ r_B O4_E
+rùa r_B uo2_E
+rú r_B u5a_E
+rút r_B u5b_I t5b_E
+răm r_B a_X1_I m1_E
+răng r_B a_X1_I N1_E
+rơ r_B 71_E
+rưỡi r_B M74_I j4_E
+rượu r_B M76a_I w6a_E
+rất r_B 7_X5b_I t5b_E
+rậm r_B 7_X6a_I m6a_E
+rắc r_B a_X5b_I k5b_E
+rắt r_B a_X5b_I t5b_E
+rằng r_B a_X2_I N2_E
+rẻ r_B E3_E
+rễ r_B e4_E
+rệt r_B e6b_I t6b_E
+rịa r_B ie6a_E
+rọi r_B O6a_I j6a_E
+rối r_B o5a_I j5a_E
+rồi r_B o2_I j2_E
+rộn r_B o6a_I n6a_E
+rộng r_B o6a_I Nm6a_E
+rời r_B 72_I j2_E
+rỡ r_B 74_E
+rợn r_B 76a_I n6a_E
+rợp r_B 76b_I p6b_E
+rụng r_B u6a_I Nm6a_E
+rủa r_B uo3_E
+rừng r_B M2_I N2_E
+rửa r_B M73_E
+rực r_B M6b_I k6b_E
+sa S_B a1_E
+sai S_B a1_I j1_E
+sang S_B a1_I N1_E
+sao S_B a1_I w1_E
+sau S_B a_X1_I w1_E
+say S_B a_X1_I j1_E
+sen S_B E1_I n1_E
+sinh S_B i1_I J1_E
+so S_B O1_E
+soi S_B O1_I j1_E
+soài S_B wp2_I a2_I j2_E
+soạt S_B wp6b_I a6b_I t6b_E
+su S_B u1_E
+sung S_B u1_I Nm1_E
+suy S_B wp1_I i1_E
+suýt S_B wp5b_I i5b_I t5b_E
+suối S_B uo5a_I j5a_E
+suốt S_B uo5b_I t5b_E
+sài S_B a2_I j2_E
+sàn S_B a2_I n2_E
+sách S_B E_X5b_I k5b_E
+sáng S_B a5a_I N5a_E
+sánh S_B E_X5a_I J5a_E
+sát S_B a5b_I t5b_E
+sáu S_B a_X5a_I w5a_E
+sâu S_B 7_X1_I w1_E
+sòng S_B O_X2_I Nm2_E
+sóng S_B O_X5a_I Nm5a_E
+sót S_B O5b_I t5b_E
+sôi S_B o1_I j1_E
+sông S_B o1_I Nm1_E
+sõng S_B O_X4_I Nm4_E
+sút S_B u5b_I t5b_E
+sĩ S_B i4_E
+sơ S_B 71_E
+sơn S_B 71_I n1_E
+sư S_B M1_E
+sưa S_B M71_E
+sương S_B M71_I N1_E
+sướng S_B M75a_I N5a_E
+sườn S_B M72_I n2_E
+sạch S_B E_X6b_I k6b_E
+sạn S_B a6a_I n6a_E
+sản S_B a3_I n3_E
+sảng S_B a3_I N3_E
+sầm S_B 7_X2_I m2_E
+sầu S_B 7_X2_I w2_E
+sậm S_B 7_X6a_I m6a_E
+sập S_B 7_X6b_I p6b_E
+sắc S_B a_X5b_I k5b_E
+sắng S_B a_X5a_I N5a_E
+sắp S_B a_X5b_I p5b_E
+sẽ S_B E4_E
+sệt S_B e6b_I t6b_E
+số S_B o5a_E
+sống S_B o5a_I Nm5a_E
+sốt S_B o5b_I t5b_E
+sột S_B o6b_I t6b_E
+sớm S_B 75a_I m5a_E
+sở S_B 73_E
+sợ S_B 76a_E
+sợi S_B 76a_I j6a_E
+sụp S_B u6b_I p6b_E
+sụt S_B u6b_I t6b_E
+sứ S_B M5a_E
+sứa S_B M75a_E
+sức S_B M5b_I k5b_E
+sử S_B M3_E
+sữa S_B M74_E
+sự S_B M6a_E
+t t_S
+ta t_B a1_E
+tam t_B a1_I m1_E
+tan t_B a1_I n1_E
+tang t_B a1_I N1_E
+tanh t_B E_X1_I J1_E
+tao t_B a1_I w1_E
+tay t_B a_X1_I j1_E
+tha t_h_B a1_E
+thai t_h_B a1_I j1_E
+tham t_h_B a1_I m1_E
+thang t_h_B a1_I N1_E
+thanh t_h_B E_X1_I J1_E
+thao t_h_B a1_I w1_E
+thay t_h_B a_X1_I j1_E
+theo t_h_B E1_I w1_E
+thi t_h_B i1_E
+thiên t_h_B ie1_I n1_E
+thiêu t_h_B ie1_I w1_E
+thiết t_h_B ie5b_I t5b_E
+thiếu t_h_B ie5a_I w5a_E
+thiểu t_h_B ie3_I w3_E
+thiện t_h_B ie6a_I n6a_E
+thiệp t_h_B ie6b_I p6b_E
+thiệt t_h_B ie6b_I t6b_E
+tho t_h_B O1_E
+thoáng t_h_B wp5a_I a5a_I N5a_E
+thoát t_h_B wp5b_I a5b_I t5b_E
+thoại t_h_B wp6a_I a6a_I j6a_E
+thoả t_h_B wp3_I a3_E
+thu t_h_B u1_E
+thuyết t_h_B wp5b_I ie5b_I t5b_E
+thuần t_h_B wp2_I 7_X2_I n2_E
+thuẫn t_h_B wp4_I 7_X4_I n4_E
+thuận t_h_B wp6a_I 7_X6a_I n6a_E
+thuật t_h_B wp6b_I 7_X6b_I t6b_E
+thuế t_h_B wp5a_I e5a_E
+thuốc t_h_B uo5b_I k5b_E
+thuộc t_h_B uo6b_I k6b_E
+thuỳ t_h_B wp2_I i2_E
+thuỷ t_h_B wp3_I i3_E
+thy t_h_B i1_E
+thành t_h_B E_X2_I J2_E
+thác t_h_B a5b_I k5b_E
+thách t_h_B E_X5b_I k5b_E
+thái t_h_B a5a_I j5a_E
+tháng t_h_B a5a_I N5a_E
+thánh t_h_B E_X5a_I J5a_E
+tháp t_h_B a5b_I p5b_E
+thân t_h_B 7_X1_I n1_E
+thèm t_h_B E2_I m2_E
+thép t_h_B E5b_I p5b_E
+thê t_h_B e1_E
+thêm t_h_B e1_I m1_E
+thêu t_h_B e1_I w1_E
+thì t_h_B i2_E
+thìa t_h_B ie2_E
+thình t_h_B i2_I J2_E
+thí t_h_B i5a_E
+thích t_h_B i5b_I k5b_E
+thín t_h_B i5a_I n5a_E
+thôi t_h_B o1_I j1_E
+thôn t_h_B o1_I n1_E
+thông t_h_B o1_I Nm1_E
+thõng t_h_B O_X4_I Nm4_E
+thù t_h_B u2_E
+thúc t_h_B u5b_I kp5b_E
+thăm t_h_B a_X1_I m1_E
+thăng t_h_B a_X1_I N1_E
+thơ t_h_B 71_E
+thơm t_h_B 71_I m1_E
+thư t_h_B M1_E
+thưa t_h_B M71_E
+thương t_h_B M71_I N1_E
+thường t_h_B M72_I N2_E
+thưởng t_h_B M73_I N3_E
+thượng t_h_B M76a_I N6a_E
+thạch t_h_B E_X6b_I k6b_E
+thả t_h_B a3_E
+thấp t_h_B 7_X5b_I p5b_E
+thất t_h_B 7_X5b_I t5b_E
+thấy t_h_B 7_X5a_I j5a_E
+thần t_h_B 7_X2_I n2_E
+thầy t_h_B 7_X2_I j2_E
+thẩm t_h_B 7_X3_I m3_E
+thậm t_h_B 7_X6a_I m6a_E
+thập t_h_B 7_X6b_I p6b_E
+thật t_h_B 7_X6b_I t6b_E
+thắc t_h_B a_X5b_I k5b_E
+thắm t_h_B a_X5a_I m5a_E
+thắng t_h_B a_X5a_I N5a_E
+thằng t_h_B a_X2_I N2_E
+thẳm t_h_B a_X3_I m3_E
+thẳng t_h_B a_X3_I N3_E
+thẽ t_h_B E4_E
+thế t_h_B e5a_E
+thể t_h_B e3_E
+thị t_h_B i6a_E
+thịt t_h_B i6b_I t6b_E
+thọc t_h_B O_X6b_I kp6b_E
+thọt t_h_B O6b_I t6b_E
+thỏ t_h_B O3_E
+thống t_h_B o5a_I Nm5a_E
+thốt t_h_B o5b_I t5b_E
+thổi t_h_B o3_I j3_E
+thờ t_h_B 72_E
+thời t_h_B 72_I j2_E
+thở t_h_B 73_E
+thợ t_h_B 76a_E
+thụ t_h_B u6a_E
+thục t_h_B u6b_I kp6b_E
+thủ t_h_B u3_E
+thủng t_h_B u3_I Nm3_E
+thứ t_h_B M5a_E
+thức t_h_B M5b_I k5b_E
+thừ t_h_B M2_E
+thừa t_h_B M72_E
+thử t_h_B M3_E
+thực t_h_B M6b_I k6b_E
+ti t_B i1_E
+tim t_B i1_I m1_E
+tin t_B i1_I n1_E
+tinh t_B i1_I J1_E
+tiên t_B ie1_I n1_E
+tiêu t_B ie1_I w1_E
+tiếc t_B ie5b_I k5b_E
+tiến t_B ie5a_I n5a_E
+tiếng t_B ie5a_I N5a_E
+tiếp t_B ie5b_I p5b_E
+tiết t_B ie5b_I t5b_E
+tiềm t_B ie2_I m2_E
+tiền t_B ie2_I n2_E
+tiểu t_B ie3_I w3_E
+tiễn t_B ie4_I n4_E
+tiệc t_B ie6b_I k6b_E
+tiện t_B ie6a_I n6a_E
+to t_B O1_E
+toà t_B wp2_I a2_E
+toàn t_B wp2_I a2_I n2_E
+toán t_B wp5a_I a5a_I n5a_E
+tra tS_B a1_E
+trai tS_B a1_I j1_E
+tran tS_B a1_I n1_E
+trang tS_B a1_I N1_E
+tranh tS_B E_X1_I J1_E
+treo tS_B E1_I w1_E
+tri tS_B i1_E
+trinh tS_B i1_I J1_E
+triều tS_B ie2_I w2_E
+triển tS_B ie3_I n3_E
+triệu tS_B ie6a_I w6a_E
+trong tS_B O_X1_I Nm1_E
+trung tS_B u1_I Nm1_E
+truy tS_B wp1_I i1_E
+truyền tS_B wp2_I ie2_I n2_E
+trà tS_B a2_E
+tràn tS_B a2_I n2_E
+trào tS_B a2_I w2_E
+trách tS_B E_X5b_I k5b_E
+tránh tS_B E_X5a_I J5a_E
+trân tS_B 7_X1_I n1_E
+trãi tS_B a4_I j4_E
+trên tS_B e1_I n1_E
+trì tS_B i2_E
+trình tS_B i2_I J2_E
+trí tS_B i5a_E
+trò tS_B O2_E
+tròn tS_B O2_I n2_E
+trôi tS_B o1_I j1_E
+trông tS_B o1_I Nm1_E
+trùn tS_B u2_I n2_E
+trùng tS_B u2_I Nm2_E
+trúc tS_B u5b_I kp5b_E
+trúng tS_B u5a_I Nm5a_E
+trút tS_B u5b_I t5b_E
+trăm tS_B a_X1_I m1_E
+trăn tS_B a_X1_I n1_E
+trưa tS_B M71_E
+trưng tS_B M1_I N1_E
+trương tS_B M71_I N1_E
+trước tS_B M75b_I k5b_E
+trường tS_B M72_I N2_E
+trưởng tS_B M73_I N3_E
+trại tS_B a6a_I j6a_E
+trạm tS_B a6a_I m6a_E
+trạng tS_B a6a_I N6a_E
+trả tS_B a3_E
+trải tS_B a3_I j3_E
+trảng tS_B a3_I N3_E
+trấn tS_B 7_X5a_I n5a_E
+trần tS_B 7_X2_I n2_E
+trầy tS_B 7_X2_I j2_E
+trận tS_B 7_X6a_I n6a_E
+trật tS_B 7_X6b_I t6b_E
+trắc tS_B a_X5b_I k5b_E
+trắng tS_B a_X5a_I N5a_E
+trẻ tS_B E3_E
+trệ tS_B e6a_E
+trị tS_B i6a_E
+trịnh tS_B i6a_I J6a_E
+trọ tS_B O6a_E
+trọng tS_B O_X6a_I Nm6a_E
+trốn tS_B o5a_I n5a_E
+trộm tS_B o6a_I m6a_E
+trộn tS_B o6a_I n6a_E
+trời tS_B 72_I j2_E
+trở tS_B 73_E
+trợ tS_B 76a_E
+trụ tS_B u6a_E
+trứng tS_B M5a_I N5a_E
+trừ tS_B M2_E
+trừng tS_B M2_I N2_E
+trừu tS_B M2_I w2_E
+trữ tS_B M4_E
+trực tS_B M6b_I k6b_E
+tui t_B u1_I j1_E
+tung t_B u1_I Nm1_E
+tuy t_B wp1_I i1_E
+tuyên t_B wp1_I ie1_I n1_E
+tuyến t_B wp5a_I ie5a_I n5a_E
+tuyền t_B wp2_I ie2_I n2_E
+tuyển t_B wp3_I ie3_I n3_E
+tuyệt t_B wp6b_I ie6b_I t6b_E
+tuần t_B wp2_I 7_X2_I n2_E
+tuệ t_B wp6a_I e6a_E
+tuổi t_B uo3_I j3_E
+tuỳ t_B wp2_I i2_E
+ty t_B i1_E
+tài t_B a2_I j2_E
+tàn t_B a2_I n2_E
+tàng t_B a2_I N2_E
+tàu t_B a_X2_I w2_E
+tá t_B a5a_E
+tác t_B a5b_I k5b_E
+tách t_B E_X5b_I k5b_E
+tám t_B a5a_I m5a_E
+tán t_B a5a_I n5a_E
+táng t_B a5a_I N5a_E
+táo t_B a5a_I w5a_E
+táy t_B a_X5a_I j5a_E
+tâm t_B 7_X1_I m1_E
+tân t_B 7_X1_I n1_E
+tây t_B 7_X1_I j1_E
+tê t_B e1_E
+tên t_B e1_I n1_E
+tì t_B i2_E
+tìm t_B i2_I m2_E
+tình t_B i2_I J2_E
+tí t_B i5a_E
+tích t_B i5b_I k5b_E
+tím t_B i5a_I m5a_E
+tín t_B i5a_I n5a_E
+tính t_B i5a_I J5a_E
+tít t_B i5b_I t5b_E
+tíu t_B i5a_I w5a_E
+tòng t_B O_X2_I Nm2_E
+tóc t_B O_X5b_I kp5b_E
+tóm t_B O5a_I m5a_E
+tô t_B o1_E
+tôi t_B o1_I j1_E
+tôm t_B o1_I m1_E
+tôn t_B o1_I n1_E
+tù t_B u2_E
+tú t_B u5a_E
+túi t_B u5a_I j5a_E
+túm t_B u5a_I m5a_E
+tăng t_B a_X1_I N1_E
+tĩnh t_B i4_I J4_E
+tơi t_B 71_I j1_E
+tư t_B M1_E
+tươi t_B M71_I j1_E
+tương t_B M71_I N1_E
+tước t_B M75b_I k5b_E
+tưởng t_B M73_I N3_E
+tượng t_B M76a_I N6a_E
+tạ t_B a6a_E
+tạc t_B a6b_I k6b_E
+tại t_B a6a_I j6a_E
+tạm t_B a6a_I m6a_E
+tạo t_B a6a_I w6a_E
+tạp t_B a6b_I p6b_E
+tả t_B a3_E
+tải t_B a3_I j3_E
+tản t_B a3_I n3_E
+tảng t_B a3_I N3_E
+tấm t_B 7_X5a_I m5a_E
+tấn t_B 7_X5a_I n5a_E
+tất t_B 7_X5b_I t5b_E
+tầm t_B 7_X2_I m2_E
+tầng t_B 7_X2_I N2_E
+tẩu t_B 7_X3_I w3_E
+tận t_B 7_X6a_I n6a_E
+tập t_B 7_X6b_I p6b_E
+tắc t_B a_X5b_I k5b_E
+tẹo t_B E6a_I w6a_E
+tế t_B e5a_E
+tết t_B e5b_I t5b_E
+tệ t_B e6a_E
+tỉa t_B ie3_E
+tỉnh t_B i3_I J3_E
+tịch t_B i6b_I k6b_E
+tọc t_B O_X6b_I kp6b_E
+tỏ t_B O3_E
+tỏi t_B O3_I j3_E
+tố t_B o5a_E
+tốc t_B o5b_I kp5b_E
+tối t_B o5a_I j5a_E
+tốn t_B o5a_I n5a_E
+tốt t_B o5b_I t5b_E
+tồi t_B o2_I j2_E
+tồn t_B o2_I n2_E
+tổ t_B o3_E
+tổn t_B o3_I n3_E
+tổng t_B o3_I Nm3_E
+tộc t_B o6b_I kp6b_E
+tội t_B o6a_I j6a_E
+tớ t_B 75a_E
+tới t_B 75a_I j5a_E
+tờ t_B 72_E
+tời t_B 72_I j2_E
+tục t_B u6b_I kp6b_E
+tụi t_B u6a_I j6a_E
+tủ t_B u3_E
+tứ t_B M5a_E
+tức t_B M5b_I k5b_E
+từ t_B M2_E
+từng t_B M2_I N2_E
+tử t_B M3_E
+tửu t_B M3_I w3_E
+tự t_B M6a_E
+tựt t_B M6b_I t6b_E
+tựu t_B M6a_I w6a_E
+u u1_S
+um u1_B m1_E
+ung u1_B Nm1_E
+uy wp_B i1_E
+uý wp_B i5a_E
+uýnh wp_B i5a_I J5a_E
+uất wp_B 7_X5b_I t5b_E
+uốn uo5a_B n5a_E
+uống uo5a_B N5a_E
+uổng uo3_B N3_E
+uỷ wp_B i3_E
+v v_S
+vai v_B a1_I j1_E
+vang v_B a1_I N1_E
+veo v_B E1_I w1_E
+vi v_B i1_E
+vinh v_B i1_I J1_E
+viêm v_B ie1_I m1_E
+viên v_B ie1_I n1_E
+viết v_B ie5b_I t5b_E
+viễn v_B ie4_I n4_E
+việc v_B ie6b_I k6b_E
+viện v_B ie6a_I n6a_E
+việt v_B ie6b_I t6b_E
+vong v_B O_X1_I Nm1_E
+vua v_B uo1_E
+vui v_B u1_I j1_E
+vung v_B u1_I Nm1_E
+và v_B a2_E
+vài v_B a2_I j2_E
+vàng v_B a2_I N2_E
+vào v_B a2_I w2_E
+váy v_B a_X5a_I j5a_E
+vân v_B 7_X1_I n1_E
+vâng v_B 7_X1_I N1_E
+vây v_B 7_X1_I j1_E
+vãnh v_B E_X4_I J4_E
+vê v_B e1_E
+vì v_B i2_E
+vòi v_B O2_I j2_E
+vòng v_B O_X2_I Nm2_E
+vô v_B o1_E
+võ v_B O4_E
+võng v_B O_X4_I Nm4_E
+vùng v_B u2_I Nm2_E
+vú v_B u5a_E
+văn v_B a_X1_I n1_E
+vĩnh v_B i4_I J4_E
+vũ v_B u4_E
+vũng v_B u4_I Nm4_E
+vơ v_B 71_E
+vơi v_B 71_I j1_E
+vương v_B M71_I N1_E
+vượt v_B M76b_I t6b_E
+vạm v_B a6a_I m6a_E
+vải v_B a3_I j3_E
+vấn v_B 7_X5a_I n5a_E
+vầng v_B 7_X2_I N2_E
+vẫn v_B 7_X4_I n4_E
+vận v_B 7_X6a_I n6a_E
+vật v_B 7_X6b_I t6b_E
+vậy v_B 7_X6a_I j6a_E
+vặn v_B a_X6a_I n6a_E
+vặt v_B a_X6b_I t6b_E
+vẻ v_B E3_E
+vẽ v_B E4_E
+về v_B e2_E
+vệ v_B e6a_E
+vị v_B i6a_E
+vọng v_B O_X6a_I Nm6a_E
+vọt v_B O6b_I t6b_E
+vỏ v_B O3_E
+vốn v_B o5a_I n5a_E
+vội v_B o6a_I j6a_E
+với v_B 75a_I j5a_E
+vời v_B 72_I j2_E
+vỡ v_B 74_E
+vợ v_B 76a_E
+vụ v_B u6a_E
+vừa v_B M72_E
+vững v_B M4_I N4_E
+vực v_B M6b_I k6b_E
+x s_S
+xa s_B a1_E
+xanh s_B E_X1_I J1_E
+xe s_B E1_E
+xem s_B E1_I m1_E
+xi s_B i1_E
+xin s_B i1_I n1_E
+xiên s_B ie1_I n1_E
+xoa s_B wp1_I a1_E
+xong s_B O_X1_I Nm1_E
+xoè s_B wp2_I E2_E
+xoẹt s_B wp6b_I E6b_I t6b_E
+xu s_B u1_E
+xung s_B u1_I Nm1_E
+xuyên s_B wp1_I ie1_I n1_E
+xuân s_B wp1_I 7_X1_I n1_E
+xuất s_B wp5b_I 7_X5b_I t5b_E
+xuống s_B uo5a_I N5a_E
+xà s_B a2_E
+xàm s_B a2_I m2_E
+xào s_B a2_I w2_E
+xá s_B a5a_E
+xác s_B a5b_I k5b_E
+xâm s_B 7_X1_I m1_E
+xây s_B 7_X1_I j1_E
+xã s_B a4_E
+xét s_B E5b_I t5b_E
+xê s_B e1_E
+xì s_B i2_E
+xía s_B ie5a_E
+xóm s_B O5a_I m5a_E
+xô s_B o1_E
+xúc s_B u5b_I kp5b_E
+xăm s_B a_X1_I m1_E
+xăng s_B a_X1_I N1_E
+xơ s_B 71_E
+xưa s_B M71_E
+xưng s_B M1_I N1_E
+xương s_B M71_I N1_E
+xước s_B M75b_I k5b_E
+xướng s_B M75a_I N5a_E
+xảy s_B a_X3_I j3_E
+xấu s_B 7_X5a_I w5a_E
+xế s_B e5a_E
+xếp s_B e5b_I p5b_E
+xứ s_B M5a_E
+xứng s_B M5a_I N5a_E
+xử s_B M3_E
+y i1_S
+yên ie1_B n1_E
+yêu ie1_B w1_E
+yết ie5b_B t5b_E
+yếu ie5a_B w5a_E
+yểm ie3_B m3_E
+à a2_S
+ào a2_B w2_E
+á a5a_S
+ác a5b_B k5b_E
+ách E_X5b_B k5b_E
+ái a5a_B j5a_E
+án a5a_B n5a_E
+ánh E_X5a_B J5a_E
+áo a5a_B w5a_E
+áp a5b_B p5b_E
+áy a_X5a_B j5a_E
+âm 7_X1_B m1_E
+ân 7_X1_B n1_E
+âu 7_X1_B w1_E
+ém E5a_B m5a_E
+ép E5b_B p5b_E
+ét E5b_B t5b_E
+ê e1_S
+êm e1_B m1_E
+ì i2_S
+ích i5b_B k5b_E
+ít i5b_B t5b_E
+ò O2_S
+ó O5a_S
+óc O_X5b_B kp5b_E
+ói O5a_B j5a_E
+óng O_X5a_B Nm5a_E
+ô o1_S
+ôm o1_B m1_E
+ông o1_B Nm1_E
+ù u2_S
+ùm u2_B m2_E
+ùn u2_B n2_E
+ùng u2_B Nm2_E
+úi u5a_B j5a_E
+úng u5a_B Nm5a_E
+úp u5b_B p5b_E
+út u5b_B t5b_E
+ý i5a_S
+ăn a_X1_B n1_E
+đa d_B a1_E
+đai d_B a1_I j1_E
+đang d_B a1_I N1_E
+đau d_B a_X1_I w1_E
+đem d_B E1_I m1_E
+đen d_B E1_I n1_E
+đeo d_B E1_I w1_E
+đi d_B i1_E
+điền d_B ie2_I n2_E
+điều d_B ie2_I w2_E
+điểm d_B ie3_I m3_E
+điện d_B ie6a_I n6a_E
+điệu d_B ie6a_I w6a_E
+đoan d_B wp1_I a1_I n1_E
+đoàn d_B wp2_I a2_I n2_E
+đoá d_B wp5a_I a5a_E
+đoạn d_B wp6a_I a6a_I n6a_E
+đoạt d_B wp6b_I a6b_I t6b_E
+đuôi d_B uo1_I j1_E
+đà d_B a2_E
+đài d_B a2_I j2_E
+đàn d_B a2_I n2_E
+đào d_B a2_I w2_E
+đày d_B a_X2_I j2_E
+đá d_B a5a_E
+đác d_B a5b_I k5b_E
+đám d_B a5a_I m5a_E
+đáng d_B a5a_I N5a_E
+đánh d_B E_X5a_I J5a_E
+đáp d_B a5b_I p5b_E
+đâm d_B 7_X1_I m1_E
+đâu d_B 7_X1_I w1_E
+đây d_B 7_X1_I j1_E
+đã d_B a4_E
+đãi d_B a4_I j4_E
+đèn d_B E2_I n2_E
+đéc d_B E5b_I k5b_E
+đêm d_B e1_I m1_E
+đình d_B i2_I J2_E
+đích d_B i5b_I k5b_E
+đòi d_B O2_I j2_E
+đó d_B O5a_E
+đói d_B O5a_I j5a_E
+đón d_B O5a_I n5a_E
+đóng d_B O_X5a_I Nm5a_E
+đô d_B o1_E
+đôi d_B o1_I j1_E
+đông d_B o1_I Nm1_E
+đùa d_B uo2_E
+đúng d_B u5a_I Nm5a_E
+đăng d_B a_X1_I N1_E
+đĩ d_B i4_E
+đĩa d_B ie4_E
+đũa d_B uo4_E
+đơn d_B 71_I n1_E
+đưa d_B M71_E
+đương d_B M71_I N1_E
+đường d_B M72_I N2_E
+được d_B M76b_I k6b_E
+đại d_B a6a_I j6a_E
+đạo d_B a6a_I w6a_E
+đạp d_B a6b_I p6b_E
+đạt d_B a6b_I t6b_E
+đảm d_B a3_I m3_E
+đảng d_B a3_I N3_E
+đảnh d_B E_X3_I J3_E
+đất d_B 7_X5b_I t5b_E
+đấu d_B 7_X5a_I w5a_E
+đấy d_B 7_X5a_I j5a_E
+đầu d_B 7_X2_I w2_E
+đầy d_B 7_X2_I j2_E
+đẩy d_B 7_X3_I j3_E
+đậm d_B 7_X6a_I m6a_E
+đập d_B 7_X6b_I p6b_E
+đậy d_B 7_X6a_I j6a_E
+đắc d_B a_X5b_I k5b_E
+đắng d_B a_X5a_I N5a_E
+đắp d_B a_X5b_I p5b_E
+đằng d_B a_X2_I N2_E
+đặc d_B a_X6b_I k6b_E
+đặt d_B a_X6b_I t6b_E
+đẹn d_B E6a_I n6a_E
+đẹp d_B E6b_I p6b_E
+đẻ d_B E3_E
+đế d_B e5a_E
+đến d_B e5a_I n5a_E
+đề d_B e2_E
+đềm d_B e2_I m2_E
+đền d_B e2_I n2_E
+đều d_B e2_I w2_E
+để d_B e3_E
+đệ d_B e6a_E
+địa d_B ie6a_E
+địch d_B i6b_I k6b_E
+định d_B i6a_I J6a_E
+đọc d_B O_X6b_I kp6b_E
+đỏ d_B O3_E
+đốc d_B o5b_I kp5b_E
+đối d_B o5a_I j5a_E
+đốt d_B o5b_I t5b_E
+đồ d_B o2_E
+đồi d_B o2_I j2_E
+đồn d_B o2_I n2_E
+đồng d_B o2_I Nm2_E
+đổ d_B o3_E
+đổi d_B o3_I j3_E
+đổng d_B o3_I Nm3_E
+độ d_B o6a_E
+độc d_B o6b_I kp6b_E
+đội d_B o6a_I j6a_E
+độn d_B o6a_I n6a_E
+động d_B o6a_I Nm6a_E
+đột d_B o6b_I t6b_E
+đới d_B 75a_I j5a_E
+đớn d_B 75a_I n5a_E
+đớt d_B 75b_I t5b_E
+đời d_B 72_I j2_E
+đờm d_B 72_I m2_E
+đợi d_B 76a_I j6a_E
+đủ d_B u3_E
+đứa d_B M75a_E
+đức d_B M5b_I k5b_E
+đứng d_B M5a_I N5a_E
+đừng d_B M2_I N2_E
+ơ 71_S
+ơi 71_B j1_E
+ơn 71_B n1_E
+ư M1_S
+ưng M1_B N1_E
+ưu M1_B w1_E
+ươm M71_B m1_E
+ương M71_B N1_E
+ước M75b_B k5b_E
+ướp M75b_B p5b_E
+ướt M75b_B t5b_E
+ạ a6a_S
+ạch E_X6b_B k6b_E
+ải a3_B j3_E
+ảnh E_X3_B J3_E
+ảo a3_B w3_E
+ấm 7_X5a_B m5a_E
+ấn 7_X5a_B n5a_E
+ấp 7_X5b_B p5b_E
+ấy 7_X5a_B j5a_E
+ầm 7_X2_B m2_E
+ẩm 7_X3_B m3_E
+ẩn 7_X3_B n3_E
+ẩu 7_X3_B w3_E
+ập 7_X6b_B p6b_E
+ắt a_X5b_B t5b_E
+ếch e5b_B k5b_E
+ễnh e4_B J4_E
+ỉ i3_S
+ỉa ie3_S
+ốc o5b_B kp5b_E
+ốm o5a_B m5a_E
+ống o5a_B Nm5a_E
+ốp o5b_B p5b_E
+ồm o2_B m2_E
+ồn o2_B n2_E
+ổi o3_B j3_E
+ổn o3_B n3_E
+ổng o3_B Nm3_E
+ớ 75a_S
+ớt 75b_B t5b_E
+ờ 72_S
+ở 73_S
+ủ u3_S
+ủa uo3_S
+ủi u3_B j3_E
+ủn u3_B n3_E
+ủng u3_B Nm3_E
+ức M5b_B k5b_E
+ứng M5a_B N5a_E
+ừ M2_S
+ừm M2_B m2_E
+ực M6b_B k6b_E
+ỷ i3_S
+<eps> SIL

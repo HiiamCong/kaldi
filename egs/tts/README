@@ -1,0 +1,2 @@
+cd tts/exp/tri1
+cat *.ctm > merged_alignment.txt
